@@ -110,9 +110,9 @@ var controls = new THREEx.ArMarkerControls(context, marker1, {    // マーカ�
 
 scene.add(marker1);                                   // マーカをシーンに追加
 // モデル（メッシュ）
-var geo = new THREE.CubeGeometry(15, 1, 10);            // cube ジオメトリ（サイズは 1x1x1）
+var geo = new THREE.PlaneGeometry(15, 10);            // plane ジオメトリ（サイズは 1x1x1）
 var canvasMap = new THREE.Texture(canvasTex); // canvas要素を読み込む
-var mat = new THREE.MeshPhongMaterial({side: THREE.DoubleSide});
+var mat = new THREE.MeshBasicMaterial({side: THREE.DoubleSide});
 /*
 var mat = new THREE.MeshNormalMaterial({              // マテリアルの作成
     transparent: true,                                  // 透過
