@@ -25,8 +25,8 @@
 
 <script>
 //canvasの初期設定
-var canvas = document.getElementById("tex-canvas");
-var ctx = canvas.getContext("2d");
+var canvasTex = document.getElementById("tex_canvas");
+var ctx = canvasTex.getContext("2d");
 ctx.fillStyle = "#ffffe0";
 ctx.fillRect(0, 0, 200, 200);
 
@@ -111,7 +111,7 @@ var controls = new THREEx.ArMarkerControls(context, marker1, {    // マーカ�
 scene.add(marker1);                                   // マーカをシーンに追加
 // モデル（メッシュ）
 var geo = new THREE.CubeGeometry(15, 1, 10);            // cube ジオメトリ（サイズは 1x1x1）
-var canvasMap = new THREE.Texture(canvas); // canvas要素を読み込む
+var canvasMap = new THREE.Texture(canvasTex); // canvas要素を読み込む
 var mat = new THREE.MeshPhongMaterial({side: THREE.DoubleSide});
 /*
 var mat = new THREE.MeshNormalMaterial({              // マテリアルの作成
@@ -119,8 +119,16 @@ var mat = new THREE.MeshNormalMaterial({              // マテリアルの作�
     opacity: 0.5,                                       // 不透明度
     side: THREE.DoubleSide,                             // 内側も描く
 });
+
+    var geometry = new THREE.PlaneGeometry(450, 300);
+    var canvasMap = new THREE.Texture(canvasTex); // canvas要素を読み込む
+    var material = new THREE.MeshBasicMaterial( {color: 0xffffff, side: THREE.DoubleSide} );
+    material.map = canvasMap;
+    canvasMap.minFilter = THREE.LinearFilter
+
 */
 mat.map = canvasMap;
+canvasMap.minFilter = THREE.LinearFilter;
 var mesh1 = new THREE.Mesh(geo, mat);
 
 //var mesh1 = new THREE.Mesh(geo, mat);                 // メッシュを生成
@@ -144,10 +152,186 @@ function renderScene() {                              // レンダリング関�
   requestAnimationFrame(renderScene);                 // ループを要求
   if(source.ready === false)    { return; }             // メディアソースの準備ができていなければ抜ける
   context.update(source.domElement);                  // ARToolkitのコンテキストを更新
-  //mat.map.needsUpdate = true;
+  mat.map.needsUpdate = true;
+  if(marker1.visible === true) {
+    console.log("find marker");
+  }
   renderer.render(scene, camera);                     // レンダリング実施
 }
-renderScene();                                        // 最初に1回だけレンダリングをトリガ
+renderScene();     // 最初に1回だけレンダリングをトリガ
+
+
+
+//===================================================================
+// 操作方法実装
+//===================================================================
+
+var mouse = false;
+    var sx, sy, ex, ey, rsx, rsy, rex, rey;
+    window.addEventListener("mousedown", onMouseDown, false);
+        function onMouseDown(e) {
+            console.log("マウスダウン");
+            mouse = true;
+            var mouseX = e.clientX;                           // マウスのx座標
+            var mouseY = e.clientY;                           // マウスのy座標
+            mouseX =  (mouseX / window.innerWidth)  * 2 - 1;    // -1 ～ +1 に正規化されたx座標
+            mouseY = -(mouseY / window.innerHeight) * 2 + 1;    // -1 ～ +1 に正規化されたy座標
+            var pos = new THREE.Vector3(mouseX, mouseY, 1);     // マウスベクトル
+            pos.unproject(camera);                              // スクリーン座標系をカメラ座標系に変換
+            // レイキャスタを作成（始点, 向きのベクトル）
+            var ray = new THREE.Raycaster(camera.position, pos.sub(camera.position).normalize());
+            var obj = ray.intersectObjects(scene.children, true);   // レイと交差したオブジェクトの取得
+            if(obj.length > 0) {                                // 交差したオブジェクトがあれば
+                //picked(obj[0].object.name);                      // ピックされた対象に応じた処理を実行
+                console.log(obj[0].point.x); 
+                console.log(obj[0].point.y); 
+                //sx = obj[0].point[0];
+                //sy = obj[0].point[1];
+
+                sx = obj[0].point.x + 225;
+                sy = obj[0].point.y * -1 + 150;
+            }
+        }
+
+        window.addEventListener("mousemove", onMouseMove, false);
+        function onMouseMove(e) {
+            console.log("マウスムーブ");
+            var mouseX = e.clientX;                           // マウスのx座標
+            var mouseY = e.clientY;                           // マウスのy座標
+            mouseX =  (mouseX / window.innerWidth)  * 2 - 1;    // -1 ～ +1 に正規化されたx座標
+            mouseY = -(mouseY / window.innerHeight) * 2 + 1;    // -1 ～ +1 に正規化されたy座標
+            var pos = new THREE.Vector3(mouseX, mouseY, 1);     // マウスベクトル
+            pos.unproject(camera);                              // スクリーン座標系をカメラ座標系に変換
+            // レイキャスタを作成（始点, 向きのベクトル）
+            var ray = new THREE.Raycaster(camera.position, pos.sub(camera.position).normalize());
+            var obj = ray.intersectObjects(scene.children, true);   // レイと交差したオブジェクトの取得
+            if(obj.length > 0) {                                // 交差したオブジェクトがあれば
+                //picked(obj[0].object.name);                      // ピックされた対象に応じた処理を実行
+                console.log(obj[0].point.x); 
+                console.log(obj[0].point.y); 
+                ex = obj[0].point.x + 225;
+                ey = obj[0].point.y * -1 + 150;
+            }
+
+            if(mouse) {
+              
+              var cvw = document.getElementById("tex_canvas").width;
+              var cvh = document.getElementById("tex_canvas").height;
+              // var rect = event.target.getBoundingClientRect();
+              rsx = sx / 450;
+              rsy = sy / 300;
+              rex = ex / 450;
+              rey = ey / 300; 
+
+              ctx.beginPath();
+              ctx.lineCap = "round";
+              ctx.moveTo(rsx*cvw, rsy*cvh);
+              ctx.lineTo(rex*cvw, rey*cvh);
+              ctx.stroke();
+              
+              sx = ex;
+              sy = ey;
+            }
+
+        }
+
+        window.addEventListener("mouseup", onMouseUp, false);
+        function onMouseUp(e) {
+            console.log("マウスアップ");
+            mouse = false;
+        }
+
+
+        window.addEventListener("touchstart", onTouchStart, false);
+        function onTouchStart(e) {
+          console.log("タッチスタート");                      //イベントの動作確認
+          var touch = e.changedTouches[0];                  //一本目の指を取得
+          touching = true;                                  //タッチ判定
+          var mouseX = e.clientX;                           // マウスのx座標
+          var mouseY = e.clientY;                           // マウスのy座標
+          mouseX =  (mouseX / window.innerWidth)  * 2 - 1;    // -1 ～ +1 に正規化されたx座標
+          mouseY = -(mouseY / window.innerHeight) * 2 + 1;    // -1 ～ +1 に正規化されたy座標
+          var pos = new THREE.Vector3(mouseX, mouseY, 1);     // マウスベクトル
+          pos.unproject(camera);                              // スクリーン座標系をカメラ座標系に変換
+          // レイキャスタを作成（始点, 向きのベクトル）
+          var ray = new THREE.Raycaster(camera.position, pos.sub(camera.position).normalize());
+          var obj = ray.intersectObjects(scene.children, true);   // レイと交差したオブジェクトの取得
+          if(obj.length > 0) {                                // 交差したオブジェクトがあれば
+              //picked(obj[0].object.name);                      // ピックされた対象に応じた処理を実行
+              console.log(obj[0].point.x); 
+              console.log(obj[0].point.y); 
+              //sx = obj[0].point[0];
+              //sy = obj[0].point[1];
+
+              sx = obj[0].point.x + 225;
+              sy = obj[0].point.y * -1 + 150;
+          }
+        }
+        
+            //タッチムーブ
+        window.addEventListener("touchmove", onTouchMove, false);
+        function onTouchMove(e) {
+            if(e.touches.length == 1) {
+              e.preventDefault();
+              console.log("タッチムーブ");
+              var touch = e.changedTouches[0];
+
+              var mouseX = e.clientX;                           // マウスのx座標
+              var mouseY = e.clientY;                           // マウスのy座標
+              mouseX =  (mouseX / window.innerWidth)  * 2 - 1;    // -1 ～ +1 に正規化されたx座標
+              mouseY = -(mouseY / window.innerHeight) * 2 + 1;    // -1 ～ +1 に正規化されたy座標
+              var pos = new THREE.Vector3(mouseX, mouseY, 1);     // マウスベクトル
+              pos.unproject(camera);                              // スクリーン座標系をカメラ座標系に変換
+              // レイキャスタを作成（始点, 向きのベクトル）
+              var ray = new THREE.Raycaster(camera.position, pos.sub(camera.position).normalize());
+              var obj = ray.intersectObjects(scene.children, true);   // レイと交差したオブジェクトの取得
+              if(obj.length > 0) {                                // 交差したオブジェクトがあれば
+                  //picked(obj[0].object.name);                      // ピックされた対象に応じた処理を実行
+                  console.log(obj[0].point.x); 
+                  console.log(obj[0].point.y); 
+                  ex = obj[0].point.x + 225;
+                  ey = obj[0].point.y * -1 + 150;
+              }
+                
+              if(touching === true) {
+              
+              var cvw = document.getElementById("tex_canvas").width;
+              var cvh = document.getElementById("tex_canvas").height;
+              // var rect = event.target.getBoundingClientRect();
+              rsx = sx / 450;
+              rsy = sy / 300;
+              rex = ex / 450;
+              rey = ey / 300; 
+
+              ctx.beginPath();
+              ctx.lineCap = "round";
+              ctx.moveTo(rsx*cvw, rsy*cvh);
+              ctx.lineTo(rex*cvw, rey*cvh);
+              ctx.stroke();
+              
+              sx = ex;
+              sy = ey;
+            }
+
+            e.stopPropagation();
+          }
+        }
+
+        canvas.addEventListener("touchend", onTouchEnd, false);
+        function onTouchEnd(e) {
+//                e.preventDefault();
+                console.log("タッチエンド");
+                console.log(sx);
+                console.log(sy);
+                var touch = e.changedTouches[0];
+                touching = false;
+//                e.stopPropagation();
+        }
+        
+
+
+
+
 
 </script>
 </body>
