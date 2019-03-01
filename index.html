@@ -317,7 +317,7 @@ var mouse = false;
           }
         }
 
-        canvas.addEventListener("touchend", onTouchEnd, false);
+        window.addEventListener("touchend", onTouchEnd, false);
         function onTouchEnd(e) {
 //                e.preventDefault();
                 console.log("タッチエンド");
