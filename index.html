@@ -15,7 +15,7 @@
 <body>
 
 <!--テクスチャ用のCanvas-->
-<canvas id = "tex_canvas" width="150px" height="100px" style = "display: none;"></canvas>
+<canvas id = "tex_canvas" width="2048px" height="2048px" style = "display: none;"></canvas>
 
 <!-- Three.js のインクルード -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.min.js'></script>
@@ -110,7 +110,9 @@ var controls = new THREEx.ArMarkerControls(context, marker1, {    // マーカ�
 
 scene.add(marker1);                                   // マーカをシーンに追加
 // モデル（メッシュ）
-var geo = new THREE.PlaneGeometry(15, 10);            // plane ジオメトリ（サイズは 1x1x1）
+var geoWidth = 6;
+var geoHeight = 4;
+var geo = new THREE.PlaneGeometry(geoWidth, geoHeight);            // plane ジオメトリ（サイズは 1x1x1）
 var canvasMap = new THREE.Texture(canvasTex); // canvas要素を読み込む
 var mat = new THREE.MeshBasicMaterial({side: THREE.DoubleSide});
 /*
@@ -133,14 +135,14 @@ var mesh1 = new THREE.Mesh(geo, mat);
 
 //var mesh1 = new THREE.Mesh(geo, mat);                 // メッシュを生成
 //mesh1.name = "cube";                                  // メッシュの名前（後でピッキングで使う）
-mesh1.position.set(0, 0.5, 0);                        // 初期位置
+mesh1.position.set(10, 5, 5);                        // 初期位置
 marker1.add(mesh1);                                   // メッシュをマーカに追加
 // マーカ隠蔽（cloaking）
-var videoTex = new THREE.VideoTexture(source.domElement);  // 映像をテクスチャとして取得
-videoTex.minFilter = THREE.NearestFilter;             // 映像テクスチャのフィルタ処理
-var cloak = new THREEx.ArMarkerCloak(videoTex);       // マーカ隠蔽(cloak)オブジェクト
-cloak.object3d.material.uniforms.opacity.value = 1.0; // cloakの不透明度
-marker1.add(cloak.object3d);  // cloakをマーカに追加
+// var videoTex = new THREE.VideoTexture(source.domElement);  // 映像をテクスチャとして取得
+// videoTex.minFilter = THREE.NearestFilter;             // 映像テクスチャのフィルタ処理
+// var cloak = new THREEx.ArMarkerCloak(videoTex);       // マーカ隠蔽(cloak)オブジェクト
+// cloak.object3d.material.uniforms.opacity.value = 1.0; // cloakの不透明度
+// marker1.add(cloak.object3d);  // cloakをマーカに追加
 
 
 
@@ -188,8 +190,8 @@ var mouse = false;
                 //sx = obj[0].point[0];
                 //sy = obj[0].point[1];
 
-                sx = obj[0].point.x + 225;
-                sy = obj[0].point.y * -1 + 150;
+                sx = obj[0].point.x + (geoWidth / 2);
+                sy = obj[0].point.y * -1 + (geoHeight / 2);
             }
         }
 
@@ -209,8 +211,8 @@ var mouse = false;
                 //picked(obj[0].object.name);                      // ピックされた対象に応じた処理を実行
                 console.log(obj[0].point.x); 
                 console.log(obj[0].point.y); 
-                ex = obj[0].point.x + 225;
-                ey = obj[0].point.y * -1 + 150;
+                ex = obj[0].point.x + (geoWidth / 2);
+                ey = obj[0].point.y * -1 + (geoHeight / 2);
             }
 
             if(mouse) {
@@ -218,10 +220,10 @@ var mouse = false;
               var cvw = document.getElementById("tex_canvas").width;
               var cvh = document.getElementById("tex_canvas").height;
               // var rect = event.target.getBoundingClientRect();
-              rsx = sx / 450;
-              rsy = sy / 300;
-              rex = ex / 450;
-              rey = ey / 300; 
+              rsx = sx / geoWidth;
+              rsy = sy / geoHeight;
+              rex = ex / geoWidth;
+              rey = ey / geoHeight; 
 
               ctx.beginPath();
               ctx.lineCap = "round";
@@ -263,8 +265,8 @@ var mouse = false;
               //sx = obj[0].point[0];
               //sy = obj[0].point[1];
 
-              sx = obj[0].point.x + 225;
-              sy = obj[0].point.y * -1 + 150;
+              sx = obj[0].point.x + (geoWidth / 2);
+              sy = obj[0].point.y * -1 + (geoHeight / 2);
           }
         }
         
@@ -289,8 +291,8 @@ var mouse = false;
                   //picked(obj[0].object.name);                      // ピックされた対象に応じた処理を実行
                   console.log(obj[0].point.x); 
                   console.log(obj[0].point.y); 
-                  ex = obj[0].point.x + 225;
-                  ey = obj[0].point.y * -1 + 150;
+                  ex = obj[0].point.x + (geoWidth / 2);
+                  ey = obj[0].point.y * -1 + (geoHeight / 2);
               }
                 
               if(touching === true) {
@@ -298,10 +300,10 @@ var mouse = false;
               var cvw = document.getElementById("tex_canvas").width;
               var cvh = document.getElementById("tex_canvas").height;
               // var rect = event.target.getBoundingClientRect();
-              rsx = sx / 450;
-              rsy = sy / 300;
-              rex = ex / 450;
-              rey = ey / 300; 
+              rsx = sx / geoWidth;
+              rsy = sy / geoHeight;
+              rex = ex / geoWidth;
+              rey = ey / geoHeight; 
 
               ctx.beginPath();
               ctx.lineCap = "round";
