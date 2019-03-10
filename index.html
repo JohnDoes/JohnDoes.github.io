@@ -48,7 +48,7 @@ document.body.appendChild(renderer.domElement);       // レンダラの DOM を
 var camera = new THREE.Camera();                      // カメラの作成
 scene.add(camera);                                    // カメラをシーンに追加
 var light = new THREE.DirectionalLight(0xffffff);     // 平行光源（白）を作成
-light.position.set(0, 0, 2);                          // カメラ方向から照らす
+light.position.set(0, 1, 2);                          // カメラ方向から照らす
 scene.add(light);                                     // シーンに光源を追加
 
 //===================================================================
@@ -190,7 +190,7 @@ var mouse = false;
                 //sy = obj[0].point[1];
 
                 sx = obj[0].point.x + (geoWidth / 2);
-                sy = obj[0].point.y * -1 + (geoHeight / 2);
+                sy = obj[0].point.y * -1 + (geoHeight / 2) +1;
             }
         }
 
@@ -211,7 +211,7 @@ var mouse = false;
                 console.log(obj[0].point.x); 
                 console.log(obj[0].point.y); 
                 ex = obj[0].point.x + (geoWidth / 2);
-                ey = obj[0].point.y * -1 + (geoHeight / 2);
+                ey = obj[0].point.y * -1 + (geoHeight / 2) +1;
             }
 
             if(mouse) {
@@ -265,7 +265,7 @@ var mouse = false;
               //sy = obj[0].point[1];
 
               sx = obj[0].point.x + (geoWidth / 2);
-              sy = obj[0].point.y * -1 + (geoHeight / 2);
+              sy = obj[0].point.y * -1 + (geoHeight / 2 +1);
           }
         }
         
@@ -291,7 +291,7 @@ var mouse = false;
                   console.log(obj[0].point.x); 
                   console.log(obj[0].point.y); 
                   ex = obj[0].point.x + (geoWidth / 2);
-                  ey = obj[0].point.y * -1 + (geoHeight / 2);
+                  ey = obj[0].point.y * -1 + (geoHeight / 2) +1;
               }
                 
               if(touching === true) {
