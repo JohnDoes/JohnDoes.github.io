@@ -15,7 +15,7 @@
 <body>
 
 <!--テクスチャ用のCanvas-->
-<canvas id = "tex_canvas" width="2048px" height="2048px" style = "display: none;"></canvas>
+<canvas id = "tex_canvas" width="256px" height="256px" style = "display: none;"></canvas>
 
 <!-- Three.js のインクルード -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.min.js'></script>
@@ -28,7 +28,7 @@
 var canvasTex = document.getElementById("tex_canvas");
 var ctx = canvasTex.getContext("2d");
 ctx.fillStyle = "#ffffe0";
-ctx.fillRect(0, 0, 2100, 2100);
+ctx.fillRect(0, 0, 300, 300);
 
 
 //===================================================================
