@@ -114,7 +114,7 @@ var geoWidth = 6;
 var geoHeight = 4;
 var geo = new THREE.PlaneGeometry(geoWidth, geoHeight);            // plane ジオメトリ（サイズは 1x1x1）
 var canvasMap = new THREE.Texture(canvasTex); // canvas要素を読み込む
-var mat = new THREE.MeshBasicMaterial({side: THREE.DoubleSide});
+var mat = new THREE.MeshBasicMaterial({ map: canvasMap });
 /*
 var mat = new THREE.MeshNormalMaterial({              // マテリアルの作成
     transparent: true,                                  // 透過
@@ -129,10 +129,8 @@ var mat = new THREE.MeshNormalMaterial({              // マテリアルの作�
     canvasMap.minFilter = THREE.LinearFilter
 
 */
-mat.map = canvasMap;
-canvasMap.minFilter = THREE.LinearFilter;
+//canvasMap.minFilter = THREE.LinearFilter;
 var mesh1 = new THREE.Mesh(geo, mat);
-mat.map.needsUpdate = true;
 
 //var mesh1 = new THREE.Mesh(geo, mat);                 // メッシュを生成
 //mesh1.name = "cube";                                  // メッシュの名前（後でピッキングで使う）
@@ -158,6 +156,7 @@ function renderScene() {                              // レンダリング関�
   if(marker1.visible === true) {
     console.log("find marker");                       //marker　Groupが表示されたらログ
   }
+  canvasMap.needsUpdate = true;
   renderer.render(scene, camera);                     // レンダリング実施
 }
 renderScene();     // 最初に1回だけレンダリングをトリガ
