@@ -45,7 +45,7 @@ renderer.domElement.style.position = "absolute";      // レンダラの位置�
 renderer.domElement.style.top = "0px";                // レンダラの上端
 renderer.domElement.style.left = "0px";               // レンダラの左端
 document.body.appendChild(renderer.domElement);       // レンダラの DOM を body に入れる
-var camera = new THREE.Camera();                      // カメラの作成
+var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight);                      // カメラの作成
 scene.add(camera);                                    // カメラをシーンに追加
 var light = new THREE.DirectionalLight(0xffffff);     // 平行光源（白）を作成
 light.position.set(0, 1, 2);                          // カメラ方向から照らす
