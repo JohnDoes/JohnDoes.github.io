@@ -15,7 +15,7 @@
 <body>
 
 <!--テクスチャ用のCanvas-->
-<canvas id = "tex_canvas" width="256px" height="256px" style = "display: none;"></canvas>
+<canvas id = "tex_canvas" width="256" height="256" style = "display: none;"></canvas>
 
 <!-- Three.js のインクルード -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.min.js'></script>
@@ -130,8 +130,9 @@ var mat = new THREE.MeshNormalMaterial({              // マテリアルの作�
 
 */
 mat.map = canvasMap;
-//canvasMap.minFilter = THREE.LinearFilter;
+canvasMap.minFilter = THREE.LinearFilter;
 var mesh1 = new THREE.Mesh(geo, mat);
+mat.map.needsUpdate = true;
 
 //var mesh1 = new THREE.Mesh(geo, mat);                 // メッシュを生成
 //mesh1.name = "cube";                                  // メッシュの名前（後でピッキングで使う）
@@ -154,7 +155,6 @@ function renderScene() {                              // レンダリング関�
   requestAnimationFrame(renderScene);                 // ループを要求
   if(source.ready === false)    { return; }             // メディアソースの準備ができていなければ抜ける
   context.update(source.domElement);                  // ARToolkitのコンテキストを更新
-  mat.map.needsUpdate = true;
   if(marker1.visible === true) {
     console.log("find marker");                       //marker　Groupが表示されたらログ
   }
