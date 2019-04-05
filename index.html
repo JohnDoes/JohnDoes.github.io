@@ -15,7 +15,7 @@
 <body>
 
 <!--テクスチャ用のCanvas-->
-<canvas id = "tex_canvas" width="256" height="256" style = "display: none;"></canvas>
+<canvas id = "tex_canvas" width="512" height="512" style = "display: none;"></canvas>
 
 <!-- Three.js のインクルード -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.min.js'></script>
@@ -28,7 +28,7 @@
 var canvasTex = document.getElementById("tex_canvas");
 var ctx = canvasTex.getContext("2d");
 ctx.fillStyle = "#ffffe0";
-ctx.fillRect(0, 0, 300, 300);
+ctx.fillRect(0, 0, 600, 600);
 
 
 //===================================================================
@@ -230,9 +230,9 @@ var mouse = false;
                 console.log(obj[0]);
 
 
-                sx = obj[0].uv.x;
-                sy = obj[0].uv.y * -1 + 1;
-                //sy = obj[0].uv.y * -1 + geoHeight;
+                ex = obj[0].uv.x;
+                ey = obj[0].uv.y * -1 + 1;
+                // ey = obj[0].uv.y * -1 + geoHeight;
                 // ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
                 // ey = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
                 // ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
@@ -332,9 +332,9 @@ var mouse = false;
                 console.log(obj[0].uv.y)
                 console.log(obj[0]);
 
-                sx = obj[0].uv.x;
-                sy = obj[0].uv.y * -1 + 1;
-                //sy = obj[0].uv.y * -1 + geoHeight;
+                ex = obj[0].uv.x;
+                ey = obj[0].uv.y * -1 + 1;
+                // ey = obj[0].uv.y * -1 + geoHeight;
                   // ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
                   // ey = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
                   // ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
