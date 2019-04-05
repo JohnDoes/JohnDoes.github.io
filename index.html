@@ -15,7 +15,7 @@
 <body>
 
 <!--テクスチャ用のCanvas-->
-<canvas id = "tex_canvas" width="2048" height="2048" style = "display: none;"></canvas>
+<canvas id = "tex_canvas" width="256" height="256" style = "display: none;"></canvas>
 
 <!-- Three.js のインクルード -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.min.js'></script>
@@ -28,7 +28,7 @@
 var canvasTex = document.getElementById("tex_canvas");
 var ctx = canvasTex.getContext("2d");
 ctx.fillStyle = "#ffffe0";
-ctx.fillRect(0, 0, 2300, 2300);
+ctx.fillRect(0, 0, 300, 300);
 
 
 //===================================================================
@@ -192,13 +192,18 @@ var mouse = false;
                 console.log(obj[0].point.x); 
                 console.log(obj[0].point.y); 
                 console.log(obj[0].point.z); 
+                //console.log(obj[0].uv.x)
+                //console.log(obj[0].uv.y)
                 console.log(obj[0]);
                 //sx = obj[0].point[0];
                 //sy = obj[0].point[1];
 
-                ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
-                // ey = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
-                ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
+
+                sx = obj[0].uv.x;
+                sy = obj[0].uv.y * -1 + geoHeight;
+                // sx = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
+                // sy = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
+                // sy = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
             }
         }
 
@@ -220,9 +225,13 @@ var mouse = false;
                 console.log(obj[0].point.y); 
                 console.log(obj[0].point.z); 
                 console.log(obj[0]);
-                ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
+
+
+                ex = obj[0].uv.x;
+                ey = obj[0].uv.y * -1 + geoHeight;
+                // ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
                 // ey = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
-                ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
+                // ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
             }
 
             if(mouse) {
@@ -275,12 +284,14 @@ var mouse = false;
                 console.log(obj[0].point.z); 
                 console.log(obj[0]);
 
-              //sx = obj[0].point[0];
-              //sy = obj[0].point[1];
+                //sx = obj[0].point[0];
+                //sy = obj[0].point[1];
 
-              ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
-                // ey = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
-                ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
+                sx = obj[0].uv.x;
+                sy = obj[0].uv.y * -1 + geoHeight;
+                // sx = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
+                // sy = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
+                // sy = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
           }
         }
         
@@ -307,9 +318,12 @@ var mouse = false;
                   console.log(obj[0].point.y); 
                   console.log(obj[0].point.z); 
                   console.log(obj[0]);
-                  ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
-                // ey = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
-                ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
+
+                  ex = obj[0].uv.x;
+                  ey = obj[0].uv.y * -1 + geoHeight;
+                  // ex = obj[0].point.x + (geoWidth / 2) + mesh1PosX;
+                  // ey = obj[0].point.y * -1 + (geoHeight / 2) + mesh1PosY;
+                  // ey = obj[0].point.z * -1 + (geoHeight / 2) + mesh1PosZ;
               }
                 
               if(touching === true) {
