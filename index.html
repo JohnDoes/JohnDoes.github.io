@@ -276,8 +276,8 @@ var mouse = false;
           //console.log("タッチスタート");                      //イベントの動作確認
           var touch = e.changedTouches[0];                  //一本目の指を取得
           touching = true;                                  //タッチ判定
-          var mouseX = e.clientX;                           // マウスのx座標
-          var mouseY = e.clientY;                           // マウスのy座標
+          var mouseX = touch.clientX;                           // マウスのx座標
+          var mouseY = touch.clientY;                           // マウスのy座標
           mouseX =  (mouseX / window.innerWidth)  * 2 - 1;    // -1 ～ +1 に正規化されたx座標
           mouseY = -(mouseY / window.innerHeight) * 2 + 1;    // -1 ～ +1 に正規化されたy座標
           var pos = new THREE.Vector3(mouseX, mouseY, 1);     // マウスベクトル
