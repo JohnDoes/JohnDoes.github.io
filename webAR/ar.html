@@ -12,7 +12,7 @@
             alpha: true
         });
         renderer.setClearColor(new THREE.Color(), 0);
-        renderer.setSize(640, 480);
+        renderer.setSize(window.innerHeight, window.innerWidth);
         renderer.domElement.style.position = 'absolute';
         renderer.domElement.style.top = '0px';
         renderer.domElement.style.left = '0px';
@@ -59,16 +59,54 @@
         scene.add(marker1);
         const arMarkerControls = new THREEx.ArMarkerControls(arToolkitContext, marker1, {
         type: 'pattern',
-        patternUrl: './QR_no.patt',
+        patternUrl: './cubeData/QR_hako.patt',
         changeMatrixMode: 'modelViewMatrix'
         });
 
-        const mesh = new THREE.Mesh(
+        const mesh1 = new THREE.Mesh(
         new THREE.CubeGeometry(1, 1, 1),
         new THREE.MeshNormalMaterial(),
         );
-        mesh.position.y = 1.0;
-        marker1.add(mesh);
+        mesh1.position.y = 1.0;
+        marker1.add(mesh1);
+
+        const marker2 = new THREE.Group();
+        scene.add(marker2);
+        const arMarkerControls = new THREEx.ArMarkerControls(arToolkitContext, marker2, {
+        type: 'pattern',
+        patternUrl: './treeData/QR_tree.patt',
+        changeMatrixMode: 'modelViewMatrix'
+        });
+
+        // obj mtl を読み込んでいる時の処理
+        var onProgress = function ( xhr ) {
+            if ( xhr.lengthComputable ) {
+                var percentComplete = xhr.loaded / xhr.total * 100;
+                console.log( Math.round(percentComplete, 2) + '% downloaded' );
+                }
+        };
+
+        // obj mtl が読み込めなかったときのエラー処理
+        var onError = function ( xhr ) {    };
+
+        // obj mtlの読み込み
+        var ObjLoader = new THREE.OBJMTLLoader(); 
+        ObjLoader.load("./treeData/tree.obj", "./treeData/tree.mtl",  function (object){
+            objmodel = object.clone();
+            objmodel.scale.set(10, 10, 10);            // 縮尺の初期化
+            objmodel.rotation.set(0, 0, 0);         // 角度の初期化
+            objmodel.position.set(0, 5, 0);         // 位置の初期化
+
+        // objをObject3Dで包む
+            obj = new THREE.Object3D();
+            obj.add(objmodel);
+
+            marker2.add(obj);                     // sceneに追加
+        }, onProgress, onError);        // obj mtl データは(.obj, .mtl. 初期処理, 読み込み時の処理, エラー処理)
+                                        // と指定する。
+
+
+
 
         const clock = new THREE.Clock();
         requestAnimationFrame(function animate(){
@@ -78,8 +116,8 @@
                 scene.visible = camera.visible;
             }
             const delta = clock.getDelta();
-            mesh.rotation.x += delta * 1.0;
-            mesh.rotation.y += delta * 1.5; 
+            mesh1.rotation.x += delta * 1.0;
+            mesh1.rotation.y += delta * 1.5; 
             renderer.render(scene, camera);
         });
 
