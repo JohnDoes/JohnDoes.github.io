@@ -66,7 +66,7 @@
 
         const marker1 = new THREE.Group();
         scene.add(marker1);
-        const arMarkerControls = new THREEx.ArMarkerControls(arToolkitContext, marker1, {
+        var arMarkerControls = new THREEx.ArMarkerControls(arToolkitContext, marker1, {
         type: 'pattern',
         patternUrl: './cubeData/QR_hako.patt',
         changeMatrixMode: 'modelViewMatrix'
@@ -81,13 +81,12 @@
 
         const marker2 = new THREE.Group();
         scene.add(marker2);
-        const arMarkerControls = new THREEx.ArMarkerControls(arToolkitContext, marker2, {
+        var arMarkerControls = new THREEx.ArMarkerControls(arToolkitContext, marker2, {
         type: 'pattern',
         patternUrl: './treeData/QR_tree.patt',
         changeMatrixMode: 'modelViewMatrix'
         });
 
-        /*
         // obj mtl を読み込んでいる時の処理
         var onProgress = function ( xhr ) {
             if ( xhr.lengthComputable ) {
@@ -98,7 +97,6 @@
 
         // obj mtl が読み込めなかったときのエラー処理
         var onError = function ( xhr ) {    };
-        */
 
         // obj mtlの読み込み
         var ObjLoader = new THREE.OBJMTLLoader(); 
@@ -113,8 +111,7 @@
             obj.add(objmodel);
 
             marker2.add(obj);                     // sceneに追加
-        });
-        // }, onProgress, onError);        // obj mtl データは(.obj, .mtl. 初期処理, 読み込み時の処理, エラー処理)
+        }, onProgress, onError);        // obj mtl データは(.obj, .mtl. 初期処理, 読み込み時の処理, エラー処理)
                                         // と指定する。
 
 
