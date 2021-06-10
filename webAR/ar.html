@@ -4,6 +4,8 @@
     <title>Marker Based AR with AR.js and Three.js</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.js"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/3.1.0/three.js/build/ar.js"></script>
+    <script src="https://cdn.rawgit.com/mrdoob/three.js/r79/examples/js/loaders/OBJLoader.js"></script>
+    <script src="https://cdn.rawgit.com/mrdoob/three.js/r79/examples/js/loaders/MTLLoader.js"></script>
     <style>
         body{
             margin: 0;
@@ -18,7 +20,8 @@
             alpha: true
         });
         renderer.setClearColor(new THREE.Color(), 0);
-        renderer.setSize(window.innerHeight, window.innerWidth);
+        // renderer.setSize(640, 480);
+        renderer.setSize(window.innerWidth, window.innerHeight);
         renderer.domElement.style.position = 'absolute';
         renderer.domElement.style.top = '0px';
         renderer.domElement.style.left = '0px';
