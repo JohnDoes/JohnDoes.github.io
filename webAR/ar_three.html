@@ -15,16 +15,16 @@
 <body>
 
 <!-- Three.js のインクルード -->
-<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.min.js'></script>
+<script src='https://raw.githubusercontent.com/mrdoob/three.js/dev/build/three.js'></script>
 
 <!-- AR.js のインクルード -->
-<script src="https://jeromeetienne.github.io/AR.js/three.js/build/ar.min.js"></script>
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/three.js/build/ar.js"></script>
 
-<script src="https://github.com/jeromeetienne/AR.js/blob/master/three.js/examples/vendor/three.js/examples/js/loaders/OBJLoader.js"></script>
+<script src="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/jsm/loaders/OBJLoader.js"></script>
 
-<script src="https://github.com/jeromeetienne/AR.js/blob/master/three.js/examples/vendor/three.js/examples/js/loaders/MTLLoader.js"></script>
+<script src="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/jsm/loaders/MTLLoader.js"></script>
 
-<script src="https://github.com/jeromeetienne/AR.js/blob/master/three.js/examples/vendor/three.js/examples/js/loaders/GLTFLoader.js"></script>
+<script src="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/jsm/loaders/GLTFLoader.js"></script>
 
 <script>
 
@@ -37,7 +37,7 @@ var renderer = new THREE.WebGLRenderer({              // レンダラの作成
   alpha: true,                                        // canvasに透明度バッファを持たせる
 });
 renderer.setClearColor(new THREE.Color("black"), 0);  // レンダラの背景色
-renderer.setSize(innerWidth, innerHeight);                           // レンダラのサイズ
+renderer.setSize(window.innerWidth, window.innerHeight);                           // レンダラのサイズ
 renderer.domElement.style.position = "absolute";      // レンダラの位置は絶対値
 renderer.domElement.style.top = "0px";                // レンダラの上端
 renderer.domElement.style.left = "0px";               // レンダラの左端
@@ -63,7 +63,7 @@ source.init(function onReady() {                      // ソースを初期化�
 //===================================================================
 var context = new THREEx.ArToolkitContext({           // arToolkitContextの作成
   debug: false,                                       // デバッグ用キャンバス表示（デフォルトfalse）
-  cameraParametersUrl: "https://jeromeetienne.github.io/AR.js/data/data/camera_para.dat",             // カメラパラメータファイル
+  cameraParametersUrl: "./lib/camera_para.dat",             // カメラパラメータファイル
   detectionMode: "mono",                              // 検出モード（color/color_and_matrix/mono/mono_and_matrix）
   imageSmoothingEnabled: true,                        // 画像をスムージングするか（デフォルトfalse）
   maxDetectionRate: 60,                               // マーカの検出レート（デフォルト60）
