@@ -23,11 +23,14 @@
 
 <script type="module" src="../loaders/GLTFLoader.js"></script>
 
-<!-- AR.js のインクルード -->
+<!-- AR.js のインクルード 
 <script src="https://raw.githack.com/AR-js-org/AR.js/3.1.0/three.js/build/ar.js"></script>
-
+-->
 
 <script>
+window.onload = function() {
+    import("https://raw.githack.com/AR-js-org/AR.js/3.1.0/three.js/build/ar.js");
+}
 
 //===================================================================
 // three.js の各種設定
