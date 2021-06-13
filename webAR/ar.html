@@ -18,7 +18,6 @@
       <a-assets>
         <a-asset-item id="obj" src="./treeData/tree.obj"></a-asset-item>   <!-- objファイル -->
         <a-asset-item id="mtl" src="./treeData/tree.mtl"></a-asset-item>   <!-- mtlファイル -->
-        <a-asset-item id="gltf" src="./shipData/ship.gltf"></a-asset-item>   <!-- gltfファイル -->
       </a-assets>
 
       <!-- マーカーを登録（プリセットされている「hiro」マーカー） -->
@@ -47,11 +46,6 @@
         </a-obj-model>
       </a-marker>
 
-      <!-- マーカーを登録（プリセットされている「kanji」マーカー） -->
-      <a-marker type="pattern" url="./pattern/ship.patt">
-        <!-- マーカーの場所に OBJ 形式の 3DCG を置く -->
-        <a-entity gltf-model="#gltf" scale="1 1 1"></a-entity>
-      </a-marker>
 
       <!-- AR用のカメラを置く -->
       <a-entity camera></a-entity>
