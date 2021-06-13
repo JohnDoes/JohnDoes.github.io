@@ -151,14 +151,14 @@ var controls = new THREEx.ArMarkerControls(context, marker2, {    // マーカ�
 });
 scene.add(marker2);
 
-var objLoader = new OBJLoader();
+var objLoader = new THREE.OBJLoader();
 objLoader.load( './treeData/tree.obj', function ( obj ) {
 	var geo2 = obj;
 }, undefined, function ( error ) {
 	console.error( error );
 } );
 
-var mtlLoader = new MTLLoader();
+var mtlLoader = new THREE.MTLLoader();
 mtlLoader.load( './treeData/tree.mtl', function ( mtl ) {
 	var mat2 = mtl;
 }, undefined, function ( error ) {
@@ -184,7 +184,7 @@ var controls = new THREEx.ArMarkerControls(context, marker3, {    // マーカ�
 });
 scene.add(marker3);
 
-var gltfLoader = new GLTFLoader();
+var gltfLoader = new THREE.GLTFLoader();
 gltfLoader.load( './shipData/ship.gltf', function ( gtlf ) {
     marker3.add(gtlf.scene);
 }, undefined, function ( error ) {
