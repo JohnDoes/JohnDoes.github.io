@@ -15,16 +15,16 @@
 <body>
 
 <!-- Three.js のインクルード -->
-<script src='webAR\lib\three.js'></script>
+<script src='./lib/three.js'></script>
 
 <!-- AR.js のインクルード -->
-<script src="webAR\lib\ar.js"></script>
+<script src="./lib/ar.js"></script>
 
-<script src="webAR\lib\OBJLoader.js"></script>
+<script src="./lib/OBJLoader.js"></script>
 
-<script src="webAR\lib\MTLLoader.js"></script>
+<script src="./lib\MTLLoader.js"></script>
 
-<script src="webAR\lib\GLTFLoader.js"></script>
+<script src="./lib\GLTFLoader.js"></script>
 
 <script>
 
@@ -101,7 +101,7 @@ function onResize(){
 var marker1 = new THREE.Group();                      // マーカをグループとして作成
 var controls = new THREEx.ArMarkerControls(context, marker1, {    // マーカを登録
   type: "pattern",                                    // マーカのタイプ
-  patternUrl: "./cubeData/cube.patt",                            // マーカファイル
+  patternUrl: "./pattern/cube.patt",                            // マーカファイル
 });
 
 
@@ -152,7 +152,7 @@ marker1.add(mesh1);                                   // メッシュをマー�
 var marker2 = new THREE.Group();
 var controls = new THREEx.ArMarkerControls(context, marker2, {    // マーカを登録
   type: "pattern",                                    // マーカのタイプ
-  patternUrl: "./treeData/tree.patt",                            // マーカファイル
+  patternUrl: "./pattern/tree.patt",                            // マーカファイル
 });
 scene.add(marker2);
 
@@ -185,7 +185,7 @@ marker2.add(mesh2);                                   // メッシュをマー�
 var marker3 = new THREE.Group();
 var controls = new THREEx.ArMarkerControls(context, marker3, {    // マーカを登録
   type: "pattern",                                    // マーカのタイプ
-  patternUrl: "./shipData/ship.patt",                            // マーカファイル
+  patternUrl: "./pattern/ship.patt",                            // マーカファイル
 });
 scene.add(marker3);
 
