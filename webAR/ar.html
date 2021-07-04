@@ -5,15 +5,18 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>ARsample</title>
     <script type="text/javascript">
-      var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
-      if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
-        var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
-        if(judge) {
-
-        }else {
-          alert("このページは横向き専用です。")
+      document.addEventListener('DOMContentLoaded', (event) => {
+        var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
+        if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
+          window.stop = true;
+          var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
+          if(judge) {
+            window.stop = false;
+          }else {
+            alert("このページは横向き専用です。")
+          }
         }
-      }
+      });
     </script>
     
   </head>
@@ -30,10 +33,20 @@
         }, 1);
       }
 
+      var sphere_tex = ["earth_day.jpg", "earth_night.jpg"];
+      var sphere_tex2 = ["ginga.jpg", "hinode.jpg", "sky.jpg"];
+      var now = new Date().getHours();
+      if(now <= 17 && now >= 6) {
+        document.getElementById("terra").spherical-env-map == sphere_tex[1];
+      }else {
+        document.getElementById("terra").spherical-env-map == sphere_tex[0];
+      }
+
+
     </script>
 
     <!-- A-Frame の VR空間に AR.js を紐づける（デバッグUIを非表示） -->
-    <a-scene embedded arjs="debugUIEnabled:false;">
+    <a-scene embedded arjs=’sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;’>
 
       <!-- OBJ形式のCGモデルの読み込み -->
       <a-assets>
@@ -71,8 +84,34 @@
       <!-- マーカーを登録（プリセットされている「hiro」マーカー） -->
       <a-marker type="pattern" url="./pattern/maru.patt">
         <!-- マーカーの場所に箱を置く（見やすいようにワイヤーフレーム表示） -->
-        <a-sphere env-map="true" position="0, 1, 0" scale="2, 2, 2"></a-sphere>
+        <a-sphere id="terra" spherical-env-map="./texture/earth_day.jpg" position="0, 1, 0" scale="1, 1, 1">
+          <a-animation
+          attribute="rotation"
+          to="0 0 360"
+          dur="30000"
+          easing="linear"
+          repeat="indefinite">
+          </a-animation>
+
+
+        </a-sphere>
       </a-marker>
+
+      <!-- マーカーを登録（プリセットされている「hiro」マーカー） 
+      <a-marker type="pattern" url="./pattern/kyu.patt">
+        <a-sphere id="gyoku" spherical-env-map="./texture/kyu.jpg" position="0, 1, 0" scale="1, 1, 1">
+          <a-animation
+          attribute="rotation"
+          to="0 0 360"
+          dur="30000"
+          easing="linear"
+          repeat="indefinite">
+          </a-animation>
+
+
+        </a-sphere>
+      </a-marker>
+    -->
 
       <!-- AR用のカメラを置く -->
       <a-entity camera></a-entity>
