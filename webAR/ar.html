@@ -33,14 +33,14 @@
         }, 1);
       }
 
-      var sphere_tex = ["earth_day.jpg", "earth_night.jpg"];
-      var sphere_tex2 = ["ginga.jpg", "hinode.jpg", "sky.jpg"];
-      var now = new Date().getHours();
-      if(now <= 17 && now >= 6) {
-        document.getElementById("terra").spherical-env-map == sphere_tex[1];
-      }else {
-        document.getElementById("terra").spherical-env-map == sphere_tex[0];
-      }
+      // var sphere_tex = ["earth_day.jpg", "earth_night.jpg"];
+      // var sphere_tex2 = ["ginga.jpg", "hinode.jpg", "sky.jpg"];
+      // var now = new Date().getHours();
+      // if(now <= 17 && now >= 6) {
+      //   document.getElementById("terra").spherical-env-map == sphere_tex[1];
+      // }else {
+      //   document.getElementById("terra").spherical-env-map == sphere_tex[0];
+      // }
 
 
     </script>
@@ -84,7 +84,7 @@
       <!-- マーカーを登録（プリセットされている「hiro」マーカー） -->
       <a-marker type="pattern" url="./pattern/maru.patt">
         <!-- マーカーの場所に箱を置く（見やすいようにワイヤーフレーム表示） -->
-        <a-sphere id="terra" spherical-env-map="./texture/earth_day.jpg" position="0, 1, 0" scale="1, 1, 1">
+        <a-sphere id="terra" material = "spherical-env-map: ./texture/earth_day.jpg;" position="0, 1, 0" scale="1, 1, 1">
           <a-animation
           attribute="rotation"
           to="0 0 360"
