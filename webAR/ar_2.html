@@ -36,10 +36,10 @@
 
     <a-scene embedded arjs="debugUIEnabled:false;" renderer="gammaOutput: true;" vr-mode-ui="enabled: false">
         <a-assets>
-            <a-asset-item id="model" src="./ball/holo.fbx"></a-asset-item>
+            <a-asset-item id="model" src="./ball/butterfly.FBX"></a-asset-item>
         </a-assets>
 
-        <a-entity id="fly" scale="1 1 1" position="0 0 -3" animation-mixer="clip:*" fbx-model="#model" visible="true" onclick="particle();">
+        <a-entity id="fly" scale="1 1 1" position="0 3 0" animation-mixer="clip:*" fbx-model="#model" visible="true" onclick="particle();">
         </a-entity>
 
         <a-entity 
