@@ -36,7 +36,7 @@
 
     <a-scene embedded arjs="debugUIEnabled:false;" renderer="gammaOutput: true;" vr-mode-ui="enabled: false">
         <a-assets>
-            <a-asset-item id="model" src="webAR\ball\holo.fbx"></a-asset-item>
+            <a-asset-item id="model" src="./ball/holo.fbx"></a-asset-item>
         </a-assets>
 
         <a-entity id="fly" scale="100 100 100" position="0 0.4 -3" animation-mixer="clip:*" fbx-model="#model" visible="true" onclick="particle();">
