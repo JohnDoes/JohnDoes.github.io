@@ -1,6 +1,17 @@
 {
+    "background_color": "#ffffff",
+    "description": "系統的な知識が学べる学習アプリがついに登場！学習アプリでは断片的な知識しか学べない・・・。そんな悩みをもつあなたにぴったりの学習アプリです！",
+    "dir": "ltr",
+    "display": "fullscreen",
     "name": "まじめな学習アプリ",
+    "orientation": "any",
+    "scope": "/",
     "short_name": "まじ学",
+    "start_url": "/index.html",
+    "theme_color": "white",
+    "categories": [],
+    "screenshots": [],
+    "shortcuts": [],
     "icons": [{
       "src": "/images/icon-128.png",
         "sizes": "128x128",
@@ -26,9 +37,5 @@
         "sizes": "512x512",
         "type": "image/png"
       }],
-    "lang": "en-US",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "white",
-    "theme_color": "white"
+    "lang": "en-US"
 }
