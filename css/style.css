@@ -12,7 +12,7 @@ body {
     width: 100%;
   }
   
-  /* コンテンツは画面の中央に来るようにね*/
+  /* コンテンツは画面の中央に来るようにね
   .container {
     margin: auto;
     text-align: center;
@@ -21,3 +21,5 @@ body {
   .title {
     font-size: 3rem;
   }
+  */
+  
