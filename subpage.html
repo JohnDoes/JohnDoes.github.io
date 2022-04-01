@@ -77,6 +77,33 @@
 <div id="footer">
 </div>
 <!-- / フッター -->
-
+<script>
+	var pat1, pat2, pat3, pat4, pat5, pat6, pat7, pat8, pat9, pat10;
+	var pat1 = ["num_0", "(", "num_1", "alp_0", "num_2", ")"];
+	var pat2 = ["(", "num_0", "alp_0", "num_1", ")", "<sup>2</sup>"]
+	var pat3 = ["(", "num_0", "alp_0", "num_1", ")", "(", "num_0", "alp_0", "-", "num_1", ")"]
+	var pat4 = ["(", "num_0", "alp_0", "num_1", ")", "(", "num_0", "alp_0", "num_2", ")"]
+	
+	var mode_list = [pat1, pat2, pat3, pat4, pat5, pat6, pat7, pat8, pat9, pat10];
+	
+	var num_list = [-13, -11, -7, -5, -3, -2, -1, 1, 2, 3, 5, 7, 11, 13];
+	var alp_x = ["x", "y", "z"];
+	var alp_a = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t"];
+	
+	function getRandomInt(max) {
+  		return Math.floor(Math.random() * max);
+	}
+	/*
+	var easyMode = mode_list[getRandomInt(3)];
+	var jadge;
+	for(var i = 0; i <  easyMode.length; i++){
+		jadge = easyMode[i].split("_");
+		switch(jadge[0]){
+			case jadge[0]:
+				
+		}
+	}
+	*/
+</script>
 </body>
 </html>
