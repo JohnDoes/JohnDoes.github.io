@@ -61,11 +61,21 @@ for(int i = 0; i < ex_gl.len(); i++)
         elif ex_gl[i] = ""
     wex_gl += str(ex_gl[i])
 
+ex_ga = sympy.expand(ex_g)
+ex_gal = ex_ga.split("")
+for(int i = 0; i < ex_gal.len(); i++)
+    if ex_gal[i] == "*":
+        if ex_gal[i+1] == "*":
+            ex_gal.slice(i:i+1) = "<sup>"
+            ex_gal.insert(i+3, "</sup>")
+        elif ex_gal[i] = ""
+    wex_gal += str(ex_gal[i])
+
 
 # 置換えデータ作成（サンプル用）
 page_data = {}
-page_data['qEasy'] = "<p>" + ex_g + "</p>"
-page_data['aEasy'] = sympy.factor(ex_g)
+page_data['qEasy'] = "<p>" + wex_gl + "</p>"
+page_data['aEasy'] = "<p>" + wex_gal + "</p>"
 page_data['qNormal'] = '<h1>ONE NOTES</h1>'
 page_data['aNormal'] = '<h2>'+ page_data['page_title'] +'</h2><p>Pythonを使って作成したサンプルページです</p>'
 page_data['qHard'] = '<p>サイドバー</p>'
