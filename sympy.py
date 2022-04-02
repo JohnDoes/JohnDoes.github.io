@@ -52,10 +52,19 @@ f2 = efcont[mode][1]
 # 多項式の積
 g = f1 * f2
 ex_g = sympy.expand(g)
+ex_gl = ex_g.split("")
+for(int i = 0; i < ex_gl.len(); i++)
+    if ex_gl[i] == "*":
+        if ex_gl[i+1] == "*":
+            ex_gl.slice(i:i+1) = "<sup>"
+            ex_gl.insert(i+3, "</sup>")
+        elif ex_gl[i] = ""
+    wex_gl += str(ex_gl[i])
+
 
 # 置換えデータ作成（サンプル用）
 page_data = {}
-page_data['qEasy'] = ex_g
+page_data['qEasy'] = "<p>" + ex_g + "</p>"
 page_data['aEasy'] = sympy.factor(ex_g)
 page_data['qNormal'] = '<h1>ONE NOTES</h1>'
 page_data['aNormal'] = '<h2>'+ page_data['page_title'] +'</h2><p>Pythonを使って作成したサンプルページです</p>'
