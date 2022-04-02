@@ -42,24 +42,24 @@ echo shell_exec("python sympy.py");
 		<section class="content">
 			<h3 class="heading">イージーモード</h3>
 			<article>
-				<p id="ques_easy">ax<sup>2</sup>+2ax+a<button id="ansOpen_easy" onclick = "ansOpen(0);">答えをみる</button></p>
-				<p id="ans_easy" style="visibility: hidden;">a(x+1)<sup>2</sup></p>
+				<p id="ques_easy">{% qEasy %}<button id="ansOpen_easy" onclick = "ansOpen(0);">答えをみる</button></p>
+				<p id="ans_easy" style="visibility: hidden;">{% aEasy %}</p>
 			</article>
 		</section>
     
 		<section class="content">
 			<h3 class="heading">ノーマルモード</h3>
 			<article>
-				<p id="ques_nomal">ax<sup>2</sup>+2ax+a<button id="ansOpen_nomal" onclick = "ansOpen(1);">答えをみる</button></p>
-				<p id="ans_nomal" style="visibility: hidden;">a(x+1)<sup>2</sup></p>
+				<p id="ques_nomal">{% qNormal %}<button id="ansOpen_nomal" onclick = "ansOpen(1);">答えをみる</button></p>
+				<p id="ans_nomal" style="visibility: hidden;">{% aNormal %}</p>
 			</article>
 		</section>
 
 		<section class="content">
 			<h3 class="heading">ハードモード</h3>
 			<article>
-				<p id="ques_hard">ax<sup>2</sup>+2ax+a<button id="ansOpen_hard" onclick = "ansOpen(2);">答えをみる</button></p>
-				<p id="ans_hard" style="visibility: hidden;">a(x+1)<sup>2</sup></p>
+				<p id="ques_hard">{% qHard %}<button id="ansOpen_hard" onclick = "ansOpen(2);">答えをみる</button></p>
+				<p id="ans_hard" style="visibility: hidden;">{% aHard %}</p>
 			</article>
 		</section>
 
