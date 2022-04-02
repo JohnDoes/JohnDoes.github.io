@@ -1,5 +1,8 @@
+# coding: utf-8
+# Your code here!
+
 # sympyをインポート
-import sympy, cgitb,io,sys
+import sympy,cgitb,io,sys,random
 
 #エラー表示
 cgitb.enable()
@@ -16,11 +19,12 @@ sympy.var('a b c d e')
 
 num = []
 n = 0
-for(int i = 0; i < 10; i++)
+for i in range(10):
     n = random.randint(0, 10) - 5
-    while n != 0:
+    while n == 0:
       n = random.randint(0, 10) - 5
     num.append(n)
+print(num)
 
 efcont = [
           [[num[0]], 
@@ -49,26 +53,30 @@ mode = random.randint(0, 5)
 f1 = efcont[mode][0]
 f2 = efcont[mode][1]
 
+print(f1, f2)
+
 # 多項式の積
-g = f1 * f2
+g = f1[0] * f2[0]
 ex_g = sympy.expand(g)
 ex_gl = ex_g.split("")
-for(int i = 0; i < ex_gl.len(); i++)
+for i in range(ex_gl.len()):
     if ex_gl[i] == "*":
         if ex_gl[i+1] == "*":
-            ex_gl.slice(i:i+1) = "<sup>"
+            ex_gl[i:i+1] = "<sup>"
             ex_gl.insert(i+3, "</sup>")
-        elif ex_gl[i] = ""
+        else:
+            ex_gl[i] = ""
     wex_gl += str(ex_gl[i])
 
 ex_ga = sympy.expand(ex_g)
 ex_gal = ex_ga.split("")
-for(int i = 0; i < ex_gal.len(); i++)
+for i in range(ex_gal.len()):
     if ex_gal[i] == "*":
         if ex_gal[i+1] == "*":
-            ex_gal.slice(i:i+1) = "<sup>"
+            ex_gal[i:i+1] = "<sup>"
             ex_gal.insert(i+3, "</sup>")
-        elif ex_gal[i] = ""
+        else:
+            ex_gal[i] = ""
     wex_gal += str(ex_gal[i])
 
 
@@ -92,4 +100,3 @@ for key, value in page_data.items():
 
 #HTML出力
 print(html)
-
