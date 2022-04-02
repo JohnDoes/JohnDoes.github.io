@@ -11,6 +11,9 @@
 <script src="js/html5.js"></script>
 <script src="js/css3-mediaqueries.js"></script>
 <![endif]-->
+<?PHP
+echo shell_exec("python sympy.py");
+?>
 </head>
 <body id="subpage">
 <h1><p class="inner">因数分解を解いて楽しむゲームです。</p></h1>
@@ -39,8 +42,7 @@
 		<section class="content">
 			<h3 class="heading">イージーモード</h3>
 			<article>
-				<img src="images/sample1.jpg" width="320" height="240" alt="" class="alignright frame">
-				<p id="ques_easy">ax<sup>2</sup>+2ax+a<button id="ansOpen_easy">答えをみる</button><button id="ques_easy" >問題作成</button></p>
+				<p id="ques_easy">ax<sup>2</sup>+2ax+a<button id="ansOpen_easy" onclick = "ansOpen(0);">答えをみる</button></p>
 				<p id="ans_easy" style="visibility: hidden;">a(x+1)<sup>2</sup></p>
 			</article>
 		</section>
@@ -48,18 +50,22 @@
 		<section class="content">
 			<h3 class="heading">ノーマルモード</h3>
 			<article>
-				<img src="images/sample1.jpg" width="320" height="240" alt="" class="alignright frame">
-				<p id="ques_nomal">ax<sup>2</sup>+2ax+a<button id="ansOpen_nomal">答えをみる</button><button id="quesMake_normal" >問題作成</button></p>
-				<p id="ans_nomal">a(x+1)<sup>2</sup></p>
+				<p id="ques_nomal">ax<sup>2</sup>+2ax+a<button id="ansOpen_nomal" onclick = "ansOpen(1);">答えをみる</button></p>
+				<p id="ans_nomal" style="visibility: hidden;">a(x+1)<sup>2</sup></p>
 			</article>
 		</section>
 
 		<section class="content">
 			<h3 class="heading">ハードモード</h3>
 			<article>
-				<img src="images/sample1.jpg" width="320" height="240" alt="" class="alignright frame">
-				<p id="ques_hard">ax<sup>2</sup>+2ax+a<button id="ansOpen_hard">答えをみる</button><button id="quesMake_hard" >問題作成</button></p>
-				<p id="ans_hard">a(x+1)<sup>2</sup></p>
+				<p id="ques_hard">ax<sup>2</sup>+2ax+a<button id="ansOpen_hard" onclick = "ansOpen(2);">答えをみる</button></p>
+				<p id="ans_hard" style="visibility: hidden;">a(x+1)<sup>2</sup></p>
+			</article>
+		</section>
+
+		<section class="content">
+			<article>
+				<button id="make_ques" onclick = "location.reload();">問題再生成</button>
 			</article>
 		</section>
 
@@ -78,6 +84,7 @@
 </div>
 <!-- / フッター -->
 <script>
+	/*
 	var pat1, pat2, pat3, pat4, pat5, pat6, pat7, pat8, pat9, pat10;
 	var pat1 = ["num_0", "(", "num_1", "alp_0", "num_2", ")"];
 	var pat2 = ["(", "num_0", "alp_0", "num_1", ")", "<sup>2</sup>"]
@@ -93,7 +100,7 @@
 	function getRandomInt(max) {
   		return Math.floor(Math.random() * max);
 	}
-	/*
+	
 	var easyMode = mode_list[getRandomInt(3)];
 	var jadge;
 	for(var i = 0; i <  easyMode.length; i++){
@@ -104,6 +111,40 @@
 		}
 	}
 	*/
+	function ansOpen(e){
+		switch(e){
+			case 0:
+				if(document.getElementById("ans_easy").style.visibility == "hidden"){
+					document.getElementById("ans_easy").style.visibility = "visible";
+					document.getElementById("ansOpen_easy").textContent = "答えを隠す";
+				}else{
+					document.getElementById("ans_easy").style.visibility = "hidden";
+					document.getElementById("ansOpen_easy").textContent = "答えをみる";
+				}
+				break;
+			case 1:
+				if(document.getElementById("ans_normal").style.visibility == "hidden"){
+					document.getElementById("ans_normal").style.visibility = "visible";
+					document.getElementById("ansOpen_normal").textContent = "答えを隠す";
+				}else{
+					document.getElementById("ans_normal").style.visibility = "hidden";
+					document.getElementById("ansOpen_normal").textContent = "答えをみる";
+				}
+				break;
+			case 2:
+				if(document.getElementById("ans_hard").style.visibility == "hidden"){
+					document.getElementById("ans_hard").style.visibility = "visible";
+					document.getElementById("ansOpen_hard").textContent = "答えを隠す";
+				}else{
+					document.getElementById("ans_hard").style.visibility = "hidden";
+					document.getElementById("ansOpen_hard").textContent = "答えをみる";
+				}
+				break;
+			default:
+				break;
+		}
+	} 
+	
 </script>
 </body>
 </html>
