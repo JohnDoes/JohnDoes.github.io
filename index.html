@@ -6,8 +6,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ar.js/2.1.1/aframe-ar.min.js"></script>
 
 -->
-	<script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ar.js/2.1.1/aframe-ar.js"></script>
+   <!-- A-Frame ライブラリの読み込み -->
+   <script src="https://aframe.io/releases/0.6.1/aframe.min.js"></script>
+   <!-- AR.js ライブラリの読み込み -->
+   <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
 
     <script type="text/javascript">
 		document.addEventListener('DOMContentLoaded', (event) => {
@@ -39,7 +41,7 @@
 
 
 	<!-- 3D text -->
-	<a-marker type="pattern" url="/box.patt">
+	<a-marker type="pattern" url="./box.patt">
 		<!-- 
 			using aframe-text-geometry component
 			can set: bevelSize, bevelThickness, curveSegments, font, height, size, style, value.
@@ -47,11 +49,11 @@
 			for more info, see: https://www.npmjs.com/package/aframe-text-geometry-component
 		<a-entity text="value: Happy Birthday MR.TEARANISHI!; font: https://cdn.aframe.io/fonts/Aileron-Semibold.fnt;"
 		 -->
-		 <a-entity text="value: Happy Birthday MR.TEARANISHI!;"	rotation="-90 0 0">
+		 <a-entity text="value: Happy Birthday MR.TEARANISHI!;">
 		</a-entity>
 	</a-marker>
 
-	<a-marker type="pattern" url="/cake.patt">
+	<a-marker type="pattern" url="./cake.patt">
         <a-obj-model
           src="#obj"
           mtl="#mtl"
