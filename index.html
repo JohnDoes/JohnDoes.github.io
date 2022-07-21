@@ -1,252 +1,60 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>まじめな学習アプリ</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!--
-    <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-  -->
-  <meta name="description" content="まじめな学習アプリ | 至ってまじめな学習アプリです。これだけで全ての基本知識が抑えられることを目標に作っています。">
-  <meta name="keywords" content="">
+<!doctype HTML>
+<html>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ar.js/2.1.1/aframe-ar.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ar.js/2.1.1/aframe-ar.js"></script>
+
+    <script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', (event) => {
+		  var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
+		  if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
+			window.stop = true;
+			var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
+			if(judge) {
+			  window.stop = false;
+			}else {
+			  alert("このページは横向き専用です。")
+			}
+		  }
+		});
+	  </script>
   
-  <!-- PWA -->
-  <link rel="manifest" href="/manifest.json">
-  <meta name="theme-color" content="white"/>
-  <link rel="icon" href="favicon.ico" type="image/x-icon" />  
-  <link rel="apple-touch-icon" href="images/icon-152.png">   
-  <meta name="theme-color" content="white"/>  
-  <meta name="apple-mobile-web-app-capable" content="yes">  
-  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
-  <meta name="apple-mobile-web-app-title" content="まじめな学習アプリ"> 
-  <meta name="msapplication-TileImage" content="images/icon-144.png">  
-  <meta name="msapplication-TileColor" content="#FFFFFF">
+<!-- support 3D text -->
+<script src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script>
 
-  <!-- css -->
-  <!--
-  <link rel="stylesheet" href="css/style.css">
-  -->
-  <link rel="stylesheet" href="css/card.css">
-  <link rel="stylesheet" href="css/chart.css">
-  <link rel="stylesheet" href="css/templete.css">
+<body style="margin: 0px; overflow: hidden;">
+<a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: false;">
 
-</head>
-<body class="fullscreen">
-  <!--
-  <div class="container" id="c1">
-
-  -->
-
-  <!--
-    
-      <div class="titleSpace">
-      <h1 class="title">まじめな学習アプリ</h1>
-    </div>
-    <div class="content">
-    </div>
-    <div class="control">
-      <div id="btn0"></div>
-      <div id="btn1"></div>
-      <div id="btn2"></div>
-      <div id="btn3"></div>
-      <div id="btn4"></div>
-      <div id="btn5"></div>
-    </div>
-    
-  -->
-    
-    <!-- chart parts
-    
-      <div class="widget">
-      <div class="header">Site Visitors</div>
-      <div id="chart" class="chart-container"></div>
-    </div>
-    
-    -->
-
-    <!-- card parts   
-
-    <div class="l-wrapper_01">
-      <article class="card_01">
-        <div class="card__header_01">
-          <p class="card__title_01">サムネイルのタイトル</p>
-          <figure class="card__thumbnail_01">
-            <img src="https://dubdesign.net/wp-content/uploads/2020/05/0514_inhouse_designereyecatch.jpg" alt="サムネイル" class="card__image_01">
-        </figure>
-        </div>
-        <div class="card__body_01">
-          <p class="card__text2_01">これはカード型のデザインです。これはカード型のデザインです。これはカード型のデザインです。これはカード型のデザインです。</p>
-        </div>
-        <div class="card__footer_01">
-          <p class="card__text_01"><a href="#" class="button_01 -compact">この記事を詳しく見る</a></p>
-        </div>
-        
-      </article>
-    </div>
-
-    -->
-    
-    <!--
-  </div>
-
-    -->
-
-<!-- 上がテンプレート以外 -->
-
-  <!-- トップナビゲーション 
-	<ul id="topnav">
-		<li class="active"><a href="index.html">トップページ<br><span>Top</span></a></li>
-		<li><a href="subpage.html">ごあいさつ<br><span>Greeting</span></a></li>
-		<li><a href="subpage.html">サービス概要<br><span>Service</span></a></li>
-		<li><a href="subpage.html">弊社の取り組み<br><span>Approach</span></a></li>
-		<li><a href="subpage.html">会社情報<br><span>Company</span></a></li>
-		<li><a href="subpage.html">お問い合わせ<br><span>Contact</span></a></li>
-	</ul>
-	トップナビゲーション -->
+      <!-- OBJ形式のCGモデルの読み込み -->
+      <a-assets>
+        <a-asset-item id="obj" src="./birthCake.obj"></a-asset-item>   <!-- objファイル -->
+        <a-asset-item id="mtl" src="./birthCake.mtl"></a-asset-item>   <!-- mtlファイル -->
+        <!-- <video style="display: none;" id="bg"></video> -->
+      </a-assets>
 
 
-  <h1><p class="inner">まじめな学習アプリ</p></h1>
+	<!-- 3D text -->
+	<a-marker type="pattern" url="/box.patt">
+		<!-- 
+			using aframe-text-geometry component
+			can set: bevelSize, bevelThickness, curveSegments, font, height, size, style, value.
+			alignment (centering) may be tricky; try calculating bounding box and repositioning.
+			for more info, see: https://www.npmjs.com/package/aframe-text-geometry-component
+		<a-entity text="value: Happy Birthday MR.TEARANISHI!; font: https://cdn.aframe.io/fonts/Aileron-Semibold.fnt;"
+		 -->
+		 <a-entity text="value: Happy Birthday MR.TEARANISHI!;"	rotation="-90 0 0">
+		</a-entity>
+	</a-marker>
 
-  <!-- ヘッダー -->
-  <div id="header">
-    <div class="inner">
-      
-      
-      <!-- ロゴ -->
-      <div class="logo">
-        <a href="index.html">まじ学<br><span>至ってまじめな学習アプリ</span></a>
-      </div>
-      <!-- / ロゴ -->
-      
-      <!-- 電話番号+受付時間 -->
-      <div class="info">
-        <!--
-        <p class="tel">電話: <strong>012-3456-7890</strong></p>
-        <p>受付時間: 平日 AM 10:00 〜 PM 5:00</p>
-        -->
-        <p class="tel">準備中・・・</p>
-      </div>
-      <!-- / 電話番号+受付時間 -->
-  
-    </div>
-  </div>
-  <!-- / ヘッダー -->
-  
-  <div id="wrapper">
-  
-  
-    <!-- メイン画像 -->
-    <div id="mainBanner" class="mainImg">
-      <img src="images/mainImg.jpg" width="940" height="300" alt="">
-      <div class="slogan">
-        <h2>まじめな学習アプリ</h2>
-        <h3>このアプリ一つで基本的な知識全てが身につくことを目指します。</h3>
-      </div>
-    </div>
-    <!-- / メイン画像 -->
-   
-    <!-- 4カラム -->
-    <section class="gridWrapper">
-      <article class="grid colDark">
-        <h3>自然との調和を目指す企業です</h3>	
-        <p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      </article>
-  
+	<a-marker type="pattern" url="/cake.patt">
+        <a-obj-model
+          src="#obj"
+          mtl="#mtl"
+          scale="1 1 1"
+          position="0 0.5 0">
+        </a-obj-model>
+	</a-marker>
 
-      <article class="grid colDark">
-        <h3>自然との調和を目指す企業です</h3>	
-        <p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-        <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      </article>
-  
-
-
-    <article class="grid colDark">
-      <h3>自然との調和を目指す企業です</h3>	
-      <p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-    </article>
-
-
-
-    <article class="grid colDark">
-      <h3>自然との調和を目指す企業です</h3>	
-      <p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-      <p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
-    </article>
-  </section>
-
-  <!-- / 4カラム -->
-
-
-
-  
-  </div>
-  <!-- / WRAPPER -->
-  
-  <!-- フッター -->
-  <div id="footer">
-    <div class="inner">
-      
-      <!-- 3カラム -->
-      <section class="gridWrapper">
-        
-        <article class="grid">
-          <!-- ロゴ -->
-          <p class="logo"><a href="index.html">Company Name<br /><span>Your Company Slogan</span></a></p>
-          <!-- / ロゴ -->
-        </article>
-        
-        <!--
-
-        <article class="grid col3">
-          <ul>
-            <li><a href="subpage.html">eco・環境事業</a></li>
-            <li><a href="subpage.html">コンピュータ</a></li>
-            <li><a href="subpage.html">飲食店事業</a></li>
-            <li><a href="subpage.html">ごあいさつ</a></li>
-            <li><a href="subpage.html">サービス概要</a></li>
-            <li><a href="subpage.html">会社情報</a></li>
-            <li><a href="subpage.html">お問い合わせ</a></li>
-            <li><a href="subpage.html">サイトマップ</a></li>
-          </ul>
-          <p>Copyright(c) 2012 Sample Inc. All Rights Reserved. Design by <a href="http://f-tpl.com" target="_blank" rel="nofollow">http://f-tpl.com</a></p>
-        </article>
-
-      -->
-        <article class="grid col3">
-          <p>Copyright(c) 2012 Sample Inc. All Rights Reserved. Design by <a href="http://f-tpl.com" target="_blank" rel="nofollow">http://f-tpl.com</a></p>
-        </article>
-      
-      </section>
-      <!-- / 3カラム -->
-        
-    </div>
-  </div>
-  <!-- / フッター -->
-  
-
-
-
-
-
-  <script src="js/main.js"></script>
+	<a-entity camera></a-entity>
+</a-scene>
 </body>
 </html>
