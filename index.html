@@ -36,6 +36,7 @@
       <a-assets>
         <a-asset-item id="obj" src="./birthCake.obj"></a-asset-item>   <!-- objファイル -->
         <a-asset-item id="mtl" src="./birthCake.mtl"></a-asset-item>   <!-- mtlファイル -->
+		<img id="map" src="./text.png"></img>
         <!-- <video style="display: none;" id="bg"></video> -->
       </a-assets>
 
@@ -49,8 +50,7 @@
 			for more info, see: https://www.npmjs.com/package/aframe-text-geometry-component
 		<a-entity text="value: Happy Birthday MR.TEARANISHI!; font: https://cdn.aframe.io/fonts/Aileron-Semibold.fnt;"
 		 -->
-		 <a-plane color="white" rotation="-90 0 0" position="0 -0.25 0" width="0.5" material="transparent: true; opacity: 0.90"></a-plane>
-		 <a-text value="Hello, world!" color="red" rotation="-90 0 0" align="center" scale="0.2 0.2 0.2"></a-text>
+		 <a-plane src="#map" color="white" rotation="-90 0 0" position="0 -0.25 0" width="3" material="transparent: true; opacity: 0.90"></a-plane>
 	</a-marker>
 
 	<a-marker type="pattern" url="./cake.patt">
