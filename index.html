@@ -40,5 +40,39 @@
 
 	<a-entity camera></a-entity>
 </a-scene>
+<script>
+	// ビデオ格納用の変数定義を追加
+	var video = null;
+
+	AFRAME.registerComponent('registerevents', {
+		init: function () {
+			var marker = this.el;
+
+			// マーカーを検出したイベントの登録
+			marker.addEventListener('markerFound', function () {
+
+				// マーカー認識したら、ビデオ再生
+				if (video == null) {
+					video = document.querySelector('#video_w');
+				}
+				video.play();
+			});
+
+			// マーカーを見失ったイベントの登録
+			marker.addEventListener('markerLost', function () {
+				
+				// マーカー認識が外れたら、、ビデオ停止
+				video.pause();
+			});
+		}
+	});
+
+	/* ビデオクリックで再生するイベントは、一旦コメントアウトしました
+	window.addEventListener('click', function () {
+		video = document.querySelector('#ar-video');
+		video.play();
+	});
+	*/
+</script>
 </body>
 </html>
