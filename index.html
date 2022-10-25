@@ -1,30 +1,33 @@
 <!doctype HTML>
 <html>
-
-<!--
-	trash
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ar.js/2.1.1/aframe-ar.min.js"></script>
-
--->
-   <!-- A-Frame ライブラリの読み込み -->
-   <script src="https://aframe.io/releases/0.6.1/aframe.min.js"></script>
-   <!-- AR.js ライブラリの読み込み -->
-   <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
-
-    <script type="text/javascript">
-		document.addEventListener('DOMContentLoaded', (event) => {
-		  var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
-		  if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
-			window.stop = true;
-			var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
-			if(judge) {
-			  window.stop = false;
-			}else {
-			  alert("このページは横向き専用です。")
-			}
-		  }
-		});
-	  </script>
+	<head>
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<!--
+			trash
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/ar.js/2.1.1/aframe-ar.min.js"></script>
+		
+		-->
+		   <!-- A-Frame ライブラリの読み込み -->
+		   <script src="https://aframe.io/releases/0.6.1/aframe.min.js"></script>
+		   <!-- AR.js ライブラリの読み込み -->
+		   <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+		
+			<script type="text/javascript">
+				document.addEventListener('DOMContentLoaded', (event) => {
+				  var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
+				  if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
+					window.stop = true;
+					var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
+					if(judge) {
+					  window.stop = false;
+					}else {
+					  alert("このページは横向き専用です。")
+					}
+				  }
+				});
+			  </script>
+		
+	</head>
   
 <!-- support 3D text 
 <script src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script>
