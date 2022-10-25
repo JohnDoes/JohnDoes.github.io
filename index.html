@@ -32,7 +32,7 @@
 <body style="margin: 0px; overflow: hidden;">
 <a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: true;">
 	<a-assets>
-		<video id="video_w" src="./welcome_anime.mp4" autoplay loop="true" preload="auto"></video>
+		<video id="video_w" src="./welcome_anime.mp4" autoplay loop="true" preload="auto" webkit-playsinline playsinline></video>
 	</a-assets>
 	<a-marker type="pattern" url="./pattern.patt">
 		<a-video src="#video_w" scale="1 1 1" position="0 0 0" rotation="270 0 0" play="true"></a-video>
