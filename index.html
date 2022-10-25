@@ -32,7 +32,7 @@
 <body style="margin: 0px; overflow: hidden;">
 <a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: true;">
 	<a-assets timeout="30000">
-		<video id="video_w" src="./welcome_anime.mp4" loop="true"></video>
+		<video id="video_w" src="./welcome_anime.mp4" autoplay loop="true"></video>
 	</a-assets>
 	<a-marker type="pattern" url="./pattern.patt">
 		<a-video src="#video_w" width="4.6" height="4.6" position="0 0 0" rotation="270 0 0" play="true"></a-video>
