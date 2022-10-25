@@ -32,24 +32,10 @@
 <body style="margin: 0px; overflow: hidden;">
 <a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: false;">
 
-      <!-- OBJ形式のCGモデルの読み込み -->
-      <a-assets>
-        <a-asset-item id="obj" src="./birthCake.obj"></a-asset-item>   <!-- objファイル -->
-        <a-asset-item id="mtl" src="./birthCake.mtl"></a-asset-item>   <!-- mtlファイル -->
-		<!-- <img id="map" src="./text.png"></img>
-        <video style="display: none;" id="bg"></video> -->
-      </a-assets>
-	<a-marker type="pattern" url="./cake_2.patt">
-		<!-- 
-			<a-plane src="#map" color="white" rotation="-90 0 0" position="0 -0.25 2" width="3" material="transparent: true; opacity: 0.90"></a-plane>
-		-->
-		<a-plane color="white" rotation="-90 0 0" position="0 -0.25 0" width="3" height="3" material="transparent: true; opacity: 0.9"></a-plane>
-        <a-obj-model
-          src="#obj"
-          mtl="#mtl"
-          scale="0.1 0.1 0.1"
-          position="0 0.1 0"
-		  rotation="-90 0 0"></a-obj-model>
+	<a-marker type="pattern" url=".pattern.patt">
+		<a-assets timeout="30000">
+			<video id="video_namahage" src="./welcome_anime.mp4" loop="true"></video>
+		</a-assets>
 	</a-marker>
 
 	<a-entity camera></a-entity>
