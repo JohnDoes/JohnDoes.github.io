@@ -1,81 +1,79 @@
-<!doctype HTML>
+<!doctype html>
 <html>
-	<head>
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<!--
-			trash
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/ar.js/2.1.1/aframe-ar.min.js"></script>
-		
-		-->
-		   <!-- A-Frame ライブラリの読み込み -->
-		   <script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
-		   <!-- AR.js ライブラリの読み込み -->
-		   <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
-		
-			<script type="text/javascript">
-				document.addEventListener('DOMContentLoaded', (event) => {
-				  var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
-				  if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
-					window.stop = true;
-					var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
-					if(judge) {
-					  window.stop = false;
-					}else {
-					  alert("このページは横向き専用です。")
-					}
-				  }
-				});
-			  </script>
-		
-	</head>
-  
-<!-- support 3D text 
-<script src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script>
--->
-<body style="margin: 0px; overflow: hidden;">
-<a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: true;">
-	<a-assets>
-		<video id="video_w" src="./welcome_anime.mp4" autoplay loop="true" preload="auto" webkit-playsinline playsinline muted></video>
-	</a-assets>
-	<a-marker type="pattern" url="./pattern.patt">
-		<a-video src="#video_w" scale="1 1 1" position="0 0 0" rotation="270 0 0" play="true"></a-video>
-	</a-marker>
+    <head>
+        <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+        <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+        <script src="https://raw.githack.com/AR-js-org/studio-backend/master/src/modules/marker/tools/gesture-detector.js"></script>
+        <script src="https://raw.githack.com/AR-js-org/studio-backend/master/src/modules/marker/tools/gesture-handler.js"></script>
+        <script>
+            AFRAME.registerComponent('videohandler', {
+                init: function () {
+                    var marker = this.el;
+                    this.vid = document.querySelector("#vid");
 
-	<a-entity camera></a-entity>
-</a-scene>
-<script>
-	// ビデオ格納用の変数定義を追加
-	var video = null;
+                    marker.addEventListener('markerFound', function () {
+                        this.toggle = true;
+                        this.vid.play();
+                    }.bind(this));
 
-	AFRAME.registerComponent('registerevents', {
-		init: function () {
-			var marker = this.el;
+                    marker.addEventListener('markerLost', function () {
+                        this.toggle = false;
+                        this.vid.pause();
+                    }.bind(this));
+                },
+            });
+        </script>
+    </head>
 
-			// マーカーを検出したイベントの登録
-			marker.addEventListener('markerFound', function () {
+    <body style="margin: 0; overflow: hidden;">
+        <a-scene
+            vr-mode-ui="enabled: false"
+            loading-screen="enabled: false;"
+            arjs='sourceType: webcam; debugUIEnabled: false;'
+            id="scene"
+            embedded
+            gesture-detector
+        >
+            <a-assets>
+                <video
+                    id="vid"
+                    src="assets/asset.mp4"
+                    preload="auto"
+                    response-type="arraybuffer"
+                    loop
+                    crossorigin
+                    webkit-playsinline
+                    autoplay
+                    muted
+                    playsinline
+                ></video>
+            </a-assets>
 
-				// マーカー認識したら、ビデオ再生
-				if (video == null) {
-					video = document.querySelector('#video_w');
-				}
-				video.play();
-			});
+            <a-marker
+                type="pattern"
+                preset="custom"
+                url="assets/marker.patt"
+                videohandler
+                smooth="true"
+                smoothCount="10"
+                smoothTolerance="0.01"
+                smoothThreshold="5"
+                raycaster="objects: .clickable"
+                emitevents="true"
+                cursor="fuse: false; rayOrigin: mouse;"
+                id="markerA"
+            >
+                <a-video
+                    src="#vid"
+                    scale="1 1 1"
+                    position="0 0.1 0"
+                    rotation="-90 0 0"
+                    class="clickable"
+                    gesture-handler
+                ></a-video>
+            </a-marker>
 
-			// マーカーを見失ったイベントの登録
-			marker.addEventListener('markerLost', function () {
-				
-				// マーカー認識が外れたら、、ビデオ停止
-				video.pause();
-			});
-		}
-	});
-
-	/* ビデオクリックで再生するイベントは、一旦コメントアウトしました
-	window.addEventListener('click', function () {
-		video = document.querySelector('#ar-video');
-		video.play();
-	});
-	*/
-</script>
-</body>
+            <a-entity camera></a-entity>
+        </a-scene>
+    </body>
 </html>
