@@ -22,6 +22,20 @@
                     }.bind(this));
                 },
             });
+			
+			document.addEventListener('DOMContentLoaded', (event) => {
+				var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
+				if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
+				window.stop = true;
+				var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
+				if(judge) {
+					window.stop = false;
+				}else {
+					alert("このページは横向き専用です。")
+				}
+				}
+			});
+
         </script>
     </head>
 
