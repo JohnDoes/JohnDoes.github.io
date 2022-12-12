@@ -1,93 +1,256 @@
-<!doctype html>
-<html>
-    <head>
-        <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-        <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-        <script src="https://raw.githack.com/AR-js-org/studio-backend/master/src/modules/marker/tools/gesture-detector.js"></script>
-        <script src="https://raw.githack.com/AR-js-org/studio-backend/master/src/modules/marker/tools/gesture-handler.js"></script>
-        <script>
-            AFRAME.registerComponent('videohandler', {
-                init: function () {
-                    var marker = this.el;
-                    this.vid = document.querySelector("#vid");
+<html lang="ja">
+<head>
+  <meta charset="UTF-8"/>
+  <title>LngLrn</title>
+  <link rel='stylesheet' href='style.css' type='text/css' media='all' />
+  <script>
+    var sceneData = JSON.parse("assets/talk.json/");
+    console.log(sceneData);
 
-                    marker.addEventListener('markerFound', function () {
-                        this.toggle = true;
-                        this.vid.play();
-                    }.bind(this));
+    var lngID = '設定';
+    var stgID = 0;
+    var logID = 0;
+    var Char = 1;
+    var Name = 'navigator';
+    var Log = 'どの言語を学びたい？<form method="post" onchange="changeLang(this.value)" id="lng"><select name="pref"><option value=1>ドイツ語</option><option value=2>フランス語</option><option value=3>ロシア語</option></select></form>';
+    var icon = "";
+    var i = 0;
+    var nextLng = 'ドイツ語';
+    var nextStg = 1;
+    var nextLog = 1;
+    var answer = "";
+    var status = "a";
 
-                    marker.addEventListener('markerLost', function () {
-                        this.toggle = false;
-                        this.vid.pause();
-                    }.bind(this));
-                },
-            });
 
-			document.addEventListener('DOMContentLoaded', (event) => {
-				var orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
-				if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
-				window.stop = true;
-				var judge = confirm("このページは横向き専用です。　デバイスを横向きにしましたか？");
-				if(judge) {
-					window.stop = false;
-				}else {
-					alert("このページは横向き専用です。")
-				}
-				}
-			});
+    var scene1 = sceneData.filter(function(scene){
+        return scene.LangID == lngID;
+    });
+    var scene2 = scene1.filter(function(scene){
+        return scene.StageID == stgID;
+    });
+    var scene3 = scene2.filter(function(scene){
+        return scene.LogID == logID;
+    });
+    judgeChat(scene3);
 
-        </script>
-    </head>
 
-    <body style="margin: 0; overflow: hidden;">
-        <a-scene
-            vr-mode-ui="enabled: false"
-            loading-screen="enabled: false;"
-            arjs='sourceType: webcam; debugUIEnabled: false;'
-            id="scene"
-            embedded
-            gesture-detector
-        >
-            <a-assets>
-                <video
-                    id="vid"
-                    src="assets/asset.mp4"
-                    preload="auto"
-                    response-type="arraybuffer"
-                    loop
-                    crossorigin
-                    webkit-playsinline
-                    autoplay
-                    muted
-                    playsinline
-                ></video>
-            </a-assets>
+    function judgeChat(data) {
+        status = data.type;
+        switch(data.type){
+            case "a":
+                botloading(data);
+                logID +=1
+                break;
+            case "b":
+                makeQ(data);
+                logID +=1
+                break;
+            case "q":
+                answer = data.Log;
+                logID +=1
+                break;
+            case "e":
+                nextStg = stgID + 1;
+                botloading(data);
+                nxtStage();
+                break;
+            default:
 
-            <a-marker
-                type="pattern"
-                preset="custom"
-                url="assets/marker.patt"
-                videohandler
-                smooth="true"
-                smoothCount="10"
-                smoothTolerance="0.01"
-                smoothThreshold="5"
-                raycaster="objects: .clickable"
-                emitevents="true"
-                cursor="fuse: false; rayOrigin: mouse;"
-                id="markerA"
-            >
-                <a-video
-                    src="#vid"
-                    scale="8 6 1"
-                    position="0 0.1 0"
-                    rotation="-90 0 0"
-                    class="clickable"
-                    gesture-handler
-                ></a-video>
-            </a-marker>
+        }
 
-            <a-entity camera></a-entity>
-        </a-scene>
-    </body>
+    }
+
+    function makeQ(data){
+        switch (data.LogID){
+            case 1:
+                var el = document.createElement("div");
+                el.setAttribute("class", "line__left");
+                el.innerHTML = '<div class="stamp"><img src="assets/gif/load.gif" /></div>'
+                window.setTimeout( function() {
+                    el.innerHTML = '<div class="line__left"><figure><img src='+
+                        data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
+                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeLang(this.value)" id="lng"><select name="pref"><option value=1>ドイツ語</option><option value=2>フランス語</option><option value=3>ロシア語</option></select></form></div></div></div>';
+                }, 1000 );
+                break;
+            case 2:
+            var el = document.createElement("div");
+                el.setAttribute("class", "line__left");
+                el.innerHTML = '<div class="stamp"><img src="assets/gif/load.gif" /></div>'
+                window.setTimeout( function() {
+                    el.innerHTML = '<div class="line__left"><figure><img src='+
+                        data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
+                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeStage(this.value)" id="stg"><select name="pref"><option value=1>1</option><option value=2>2</option><option value=3>3</option><option value=4>4</option><option value=5>5</option><option value=6>6</option><option value=7>7</option><option value=8>8</option><option value=9>9</option><option value=10>10</option><option value=11>11</option><option value=12>12</option><option value=13>13</option><option value=14>14</option><option value=15>15</option><option value=16>16</option><option value=17>17</option><option value=18>18</option><option value=19>19</option><option value=20>20</option><option value=21>21</option><option value=22>22</option><option value=23>23</option><option value=24>24</option><option value=25>25</option><option value=26>26</option><option value=27>27</option><option value=28>28</option><option value=29>29</option><option value=30>30</option><option value=31>31</option><option value=32>32</option><option value=33>33</option><option value=34>34</option><option value=35>35</option><option value=36>36</option><option value=37>37</option><option value=38>38</option><option value=39>39</option><option value=40>40</option></select></form></div></div></div>';
+                }, 1000 );
+                break;
+            default:
+        }
+    }
+
+    var send = document.getElementById("send");
+    send.addEventListener("submit", function (e) {
+        e.preventDefault();
+        if(status = "q"){
+            if (input.value) {
+            mychat(input.value);
+                if(input.value = answer) {
+                    scenario();
+                }else {
+                    var el = document.createElement("div");
+                    el.setAttribute("class", "line__left");
+                    el.innerHTML = '<div class="stamp"><img src="/assets/gif/load.gif" /></div>'
+                    window.setTimeout( wrongAns(el), 1000 )
+                }
+            }
+
+        }
+    });
+
+    function wrongAns(el) {
+        el.innerHTML = '<div class="line__left"><figure>'+
+            '<img src="C:\Users\真樹\Desktop\JohnDoes.github.io\assets\icons\image014.png" />'+
+            '</figure><div class="line__left-text"><div class="name">Navigator</div>'+
+            '<div class="text">何かのミスがあるようです。もう一度回答をお願いします。またはスキップしますか？'+
+                '<a onclick="skip()" class="btn btn--orange">スキップ</a></div></div></div>';
+;
+    }
+
+    function skip(){
+        scenario();
+    }
+
+    function botchat(data, el) {
+        el.innerHTML = '<div class="line__left"><figure><img src='+
+            data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
+                data.Name +'</div><div class="text">' + data.Log + '</div></div></div>';
+
+    }
+    function botloading(data){
+        var el = document.createElement("div");
+        el.setAttribute("class", "line__left");
+        el.innerHTML = '<div class="stamp"><img src="/assets/gif/load.gif" /></div>'
+        window.setTimeout( botchat(data, el), 1000 )
+
+    }
+    function mychat(msg){
+        var el = document.createElement("div");
+        el.setAttribute("class", "line__right");
+        el.innerHTML = '<div class="line__right"><div class="text">'+ msg +'</div></div>';
+    }
+
+    function cancel(){
+        lngID = "設定";
+        stgID = 0;
+        logID = 0;
+        scenario();
+    }
+    function changeLang(k) {
+        switch(k){
+            case 0:
+                nextLng = "設定";
+                break;
+            case 1:
+                nextLng = "ドイツ語";
+                break;
+            case 2:
+                nextLng = "フランス語";
+                break;
+            default:
+        }
+        scenario();
+    }
+    function changeStage(k){
+        nextStg = k;
+    }
+    function nxtStage(){
+        logID = 0;
+        stgID = nextStg;
+        lngID = nextLng;
+        scenario();
+    }
+    function scenario(){
+        scene1 = sceneData.filter(function(scene){
+            return scene.LangID == lngID;
+        });
+        scene2 = scene1.filter(function(scene){
+            return scene.StageID == stgID;
+        });
+        scene3 = scene2.filter(function(scene){
+            return scene.LogID == logID;
+        });
+        judgeChat(scene3);
+    }
+
+  </script>
+</head>
+<body>
+
+    <div class="chat_container">
+
+  <!-- ▼LINE風ここから -->
+  <div class="line__container">
+    <!-- タイトル -->
+    <div class="line__title">
+      Language Laerning
+      <a onclick="cancel()" style="float: right;" class="btn btn--orange">終了</a>
+     </div>
+
+    <!-- ▼会話エリア scrollを外すと高さ固定解除 -->
+    <div class="line__contents scroll">
+
+      <!-- 相手の吹き出し -->
+      <div class="line__left">
+        <figure>
+          <img src="icon.png" />
+        </figure>
+        <div class="line__left-text">
+          <div class="name">うさきち</div>
+          <div class="text">ねぇねぇ、帰ってくるのおそいんだけど！！今どこいまどこいまどこーー</div>
+        </div>
+      </div>
+
+      <!-- 相手のスタンプ -->
+      <div class="line__left">
+        <div class="stamp"><img src="./stamp/13.png" /></div>
+      </div>
+
+      <!-- 相手の吹き出し -->
+      <div class="line__left">
+        <figure>
+          <img src="icon.png" />
+        </figure>
+        <div class="line__left-text">
+          <div class="name">うさきち</div>
+          <div class="text">今から帰るよー</div>
+        </div>
+      </div>
+
+      <!-- 自分の吹き出し -->
+      <div class="line__right">
+        <div class="text">了解！寝過ごさないようにだよ〜風呂ためとこ</div>
+        <span class="date">既読<br>0:30</span>
+      </div>
+
+      <!-- 自分のスタンプ -->
+      <div class="line__right">
+        <div class="stamp"><img src="./stamp/22.png" /></div>
+        <span class="date">既読<br>0:30</span>
+      </div>
+
+    </div>
+    <!--　▲会話エリア ここまで -->
+  </div>
+  <!--　▲LINE風ここまで -->
+  <div class="message-area">
+    <div class="message-area-text">
+      <textarea id="text"></textarea>
+    </div>
+    <div class="message-area-button">
+      <button id="send" class="disabled-button">送信</button>
+    </div>
+    </div>
+
+    </div>
+
+</body>
+
 </html>
