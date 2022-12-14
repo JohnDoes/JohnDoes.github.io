@@ -1580,7 +1580,7 @@ var sceneData = JSON.parse(jsonData);
         el.setAttribute("class", "line__left");
         el.innerHTML = '<div class="stamp"><img src="assets/gif/load.gif" /></div>'
         document.getElementById("chatArea").appendChild(el);
-        window.setTimeout( function (data, el) {
+        window.setTimeout( function () {
 			el.innerHTML = '<div class="line__left"><figure><img src='+
             data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
                 data.Name +'</div><div class="text">' + data.Log + '</div></div></div>';
