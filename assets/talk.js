@@ -1,4 +1,4 @@
-[
+var dataSet = [
 	{
 		"LangID":"設定",
 		"StageID":"0",
