@@ -7,7 +7,7 @@
 		"Name":"navigator",
 		"Log":"どの言語を学びたい？",
 		"type":"b",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"設定",
@@ -17,17 +17,17 @@
 		"Name":"navigator",
 		"Log":"最後に学習したのはステージいくつ？",
 		"type":"b",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"設定",
 		"StageID":"0",
-		"LogID":"4",
+		"LogID":"3",
 		"Chara":"1",
 		"Name":"navigator",
 		"Log":"それでは学習を始めましょう！",
 		"type":"e",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -37,7 +37,7 @@
 		"Name":"navigator",
 		"Log":"Lektion eins",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -47,7 +47,7 @@
 		"Name":"navigator",
 		"Log":"レッスン1",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -57,7 +57,7 @@
 		"Name":"tanaka",
 		"Log":"Guten Tag, Frau Schneider.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -67,7 +67,7 @@
 		"Name":"tanaka",
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -77,7 +77,7 @@
 		"Name":"Schneider.",
 		"Log":"Hallo, Herr Tanaka.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -87,7 +87,7 @@
 		"Name":"Schneider.",
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -97,7 +97,7 @@
 		"Name":"Schneider.",
 		"Log":"Wie geht es Ihnen?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -107,7 +107,7 @@
 		"Name":"Schneider.",
 		"Log":"お元気ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -117,7 +117,7 @@
 		"Name":"tanaka",
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -127,7 +127,7 @@
 		"Name":"tanaka",
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -137,7 +137,7 @@
 		"Name":"Schneider.",
 		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -147,7 +147,7 @@
 		"Name":"Schneider.",
 		"Log":"私も元気です。ありがとう。[バスが来る]",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -157,7 +157,7 @@
 		"Name":"Schneider.",
 		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -167,7 +167,7 @@
 		"Name":"Schneider.",
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -177,7 +177,7 @@
 		"Name":"tanaka",
 		"Log":"Bis morgen. Auf Wiedersehen.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -187,7 +187,7 @@
 		"Name":"tanaka",
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -197,7 +197,7 @@
 		"Name":"navigator",
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -207,7 +207,7 @@
 		"Name":"tanaka",
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -217,7 +217,7 @@
 		"Name":"player",
 		"Log":"Guten Tag, Frau Schneider.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -227,7 +227,7 @@
 		"Name":"Schneider.",
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -237,7 +237,7 @@
 		"Name":"player",
 		"Log":"Hallo, Herr Tanaka.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -247,7 +247,7 @@
 		"Name":"Schneider.",
 		"Log":"お元気ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -257,7 +257,7 @@
 		"Name":"player",
 		"Log":"Wie geht es Ihnen?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -267,7 +267,7 @@
 		"Name":"tanaka",
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -277,7 +277,7 @@
 		"Name":"player",
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -287,7 +287,7 @@
 		"Name":"Schneider.",
 		"Log":"私も元気です。ありがとう。[バスが来る]",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -297,7 +297,7 @@
 		"Name":"player",
 		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -307,7 +307,7 @@
 		"Name":"Schneider.",
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image003.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -317,7 +317,7 @@
 		"Name":"player",
 		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -327,7 +327,7 @@
 		"Name":"tanaka",
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -337,7 +337,7 @@
 		"Name":"player",
 		"Log":"Bis morgen. Auf Wiedersehen.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -347,7 +347,7 @@
 		"Name":"navigator",
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -357,7 +357,7 @@
 		"Name":"navigator",
 		"Log":"Lektion zwei",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -367,7 +367,7 @@
 		"Name":"navigator",
 		"Log":"レッスン2",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -377,7 +377,7 @@
 		"Name":"tanaka",
 		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -387,7 +387,7 @@
 		"Name":"tanaka",
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -397,7 +397,7 @@
 		"Name":"Weber",
 		"Log":"Mein Name ist Andrea Weber.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -407,7 +407,7 @@
 		"Name":"Weber",
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -417,7 +417,7 @@
 		"Name":"Weber",
 		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -427,7 +427,7 @@
 		"Name":"Weber",
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -437,7 +437,7 @@
 		"Name":"tanaka",
 		"Log":"Freut mich auch.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -447,7 +447,7 @@
 		"Name":"tanaka",
 		"Log":"私も嬉しいです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -457,7 +457,7 @@
 		"Name":"tanaka",
 		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -467,7 +467,7 @@
 		"Name":"tanaka",
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -477,7 +477,7 @@
 		"Name":"Weber",
 		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -487,7 +487,7 @@
 		"Name":"Weber",
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -497,7 +497,7 @@
 		"Name":"Weber",
 		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -507,7 +507,7 @@
 		"Name":"Weber",
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -517,7 +517,7 @@
 		"Name":"tanaka",
 		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -527,7 +527,7 @@
 		"Name":"tanaka",
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -537,7 +537,7 @@
 		"Name":"navigator",
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -547,7 +547,7 @@
 		"Name":"tanaka",
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -557,7 +557,7 @@
 		"Name":"player",
 		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -567,7 +567,7 @@
 		"Name":"Weber",
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -577,7 +577,7 @@
 		"Name":"player",
 		"Log":"Mein Name ist Andrea Weber.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -587,7 +587,7 @@
 		"Name":"Weber",
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -597,7 +597,7 @@
 		"Name":"player",
 		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -607,7 +607,7 @@
 		"Name":"tanaka",
 		"Log":"私も嬉しいです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -617,7 +617,7 @@
 		"Name":"player",
 		"Log":"Freut mich auch.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -627,7 +627,7 @@
 		"Name":"tanaka",
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -637,7 +637,7 @@
 		"Name":"player",
 		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -647,7 +647,7 @@
 		"Name":"Weber",
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -657,7 +657,7 @@
 		"Name":"player",
 		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -667,7 +667,7 @@
 		"Name":"Weber",
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image016.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -677,7 +677,7 @@
 		"Name":"player",
 		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -687,7 +687,7 @@
 		"Name":"tanaka",
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image013.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -697,7 +697,7 @@
 		"Name":"player",
 		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -707,7 +707,7 @@
 		"Name":"navigator",
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -717,7 +717,7 @@
 		"Name":"navigator",
 		"Log":"Leçon un",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -727,7 +727,7 @@
 		"Name":"navigator",
 		"Log":"レッスン 1",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -737,7 +737,7 @@
 		"Name":"Minako",
 		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -747,7 +747,7 @@
 		"Name":"Minako",
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -757,7 +757,7 @@
 		"Name":"Céline",
 		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -767,7 +767,7 @@
 		"Name":"Céline",
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -777,7 +777,7 @@
 		"Name":"Minako",
 		"Log":"Oui. Je suis de Kyoto.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -787,7 +787,7 @@
 		"Name":"Minako",
 		"Log":"はい。京都出身です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -797,7 +797,7 @@
 		"Name":"Céline",
 		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -807,7 +807,7 @@
 		"Name":"Céline",
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -817,7 +817,7 @@
 		"Name":"Céline",
 		"Log":"Et vous, vous êtes français ?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -827,7 +827,7 @@
 		"Name":"Céline",
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -837,7 +837,7 @@
 		"Name":"Luigi",
 		"Log":"Non, je suis italien. Enchanté.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image023.png"
+		"icon":"assets/icons/image023.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -847,7 +847,7 @@
 		"Name":"Luigi",
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image023.png"
+		"icon":"assets/icons/image023.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -857,7 +857,7 @@
 		"Name":"Minako",
 		"Log":"Enchantée.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -867,7 +867,7 @@
 		"Name":"Minako",
 		"Log":"はじめまして。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -877,7 +877,7 @@
 		"Name":"navigator",
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -887,7 +887,7 @@
 		"Name":"Minako",
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -897,7 +897,7 @@
 		"Name":"player",
 		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -907,7 +907,7 @@
 		"Name":"Céline",
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -917,7 +917,7 @@
 		"Name":"player",
 		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -927,7 +927,7 @@
 		"Name":"Minako",
 		"Log":"はい。京都出身です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -937,7 +937,7 @@
 		"Name":"player",
 		"Log":"Oui. Je suis de Kyoto.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -947,7 +947,7 @@
 		"Name":"Céline",
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -957,7 +957,7 @@
 		"Name":"player",
 		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -967,7 +967,7 @@
 		"Name":"Céline",
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image078.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -977,7 +977,7 @@
 		"Name":"player",
 		"Log":"Et vous, vous êtes français ?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -987,7 +987,7 @@
 		"Name":"Luigi",
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image023.png"
+		"icon":"assets/icons/image023.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -997,7 +997,7 @@
 		"Name":"player",
 		"Log":"Non, je suis italien. Enchanté.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1007,7 +1007,7 @@
 		"Name":"Minako",
 		"Log":"はじめまして。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1017,7 +1017,7 @@
 		"Name":"player",
 		"Log":"Enchantée.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1027,7 +1027,7 @@
 		"Name":"navigator",
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1037,7 +1037,7 @@
 		"Name":"navigator",
 		"Log":"Leçon deux",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1047,7 +1047,7 @@
 		"Name":"navigator",
 		"Log":"レッスン 2",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1057,7 +1057,7 @@
 		"Name":"M. Dubois",
 		"Log":"Voilà votre chambre.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1067,7 +1067,7 @@
 		"Name":"M. Dubois",
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1077,7 +1077,7 @@
 		"Name":"Minako",
 		"Log":"Elle est très jolie.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1087,7 +1087,7 @@
 		"Name":"Minako",
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1097,7 +1097,7 @@
 		"Name":"M. Dubois",
 		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1107,7 +1107,7 @@
 		"Name":"M. Dubois",
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1117,7 +1117,7 @@
 		"Name":"Minako",
 		"Log":"Et ça, qu'est-ce que c'est ?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1127,7 +1127,7 @@
 		"Name":"Minako",
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1137,7 +1137,7 @@
 		"Name":"M. Dubois",
 		"Log":"C'est une table de nuit.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1147,7 +1147,7 @@
 		"Name":"M. Dubois",
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1157,7 +1157,7 @@
 		"Name":"Minako",
 		"Log":"Et ça ?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1167,7 +1167,7 @@
 		"Name":"Minako",
 		"Log":"それで、これは?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1177,7 +1177,7 @@
 		"Name":"M. Dubois",
 		"Log":"Ce sont des prises de courant.",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1187,7 +1187,7 @@
 		"Name":"M. Dubois",
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1197,7 +1197,7 @@
 		"Name":"navigator",
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1207,7 +1207,7 @@
 		"Name":"M. Dubois",
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1217,7 +1217,7 @@
 		"Name":"player",
 		"Log":"Voilà votre chambre.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1227,7 +1227,7 @@
 		"Name":"Minako",
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1237,7 +1237,7 @@
 		"Name":"player",
 		"Log":"Elle est très jolie.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1247,7 +1247,7 @@
 		"Name":"M. Dubois",
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1257,7 +1257,7 @@
 		"Name":"player",
 		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1267,7 +1267,7 @@
 		"Name":"Minako",
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1277,7 +1277,7 @@
 		"Name":"player",
 		"Log":"Et ça, qu'est-ce que c'est ?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1287,7 +1287,7 @@
 		"Name":"M. Dubois",
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1297,7 +1297,7 @@
 		"Name":"player",
 		"Log":"C'est une table de nuit.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1307,7 +1307,7 @@
 		"Name":"Minako",
 		"Log":"それで、これは?",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image086.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1317,7 +1317,7 @@
 		"Name":"player",
 		"Log":"Et ça ?",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1327,7 +1327,7 @@
 		"Name":"M. Dubois",
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image033.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1337,7 +1337,7 @@
 		"Name":"player",
 		"Log":"Ce sont des prises de courant.",
 		"type":"q",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image326.png"
+		"icon":"assets/icons/image326.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1347,6 +1347,6 @@
 		"Name":"navigator",
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
-		"icon":"C:/Users/真樹/Desktop/JohnDoes.github.io/assets/icons/image014.png"
+		"icon":"assets/icons/image014.png"
 	}
 ]
