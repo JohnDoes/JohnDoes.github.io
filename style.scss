@@ -20,6 +20,10 @@ $myTextColor:  #8de055; // 吹き出しの色
   height: 99vh;
 }
 
+input {
+  font-size: 100%;
+  }
+
 /* メッセージの入力部分は高さを10vhにして、テキストエリアとボタンをflexで横並びにする*/
 .message-area {
   height: 10vh;
@@ -37,7 +41,7 @@ $myTextColor:  #8de055; // 吹き出しの色
   resize: none; /* これでユーザーのリサイズをできなくする */
   border: 1px solid #ddd; /* 枠線をつけて領域を分かりやすく */
   box-sizing: border-box; /* borderを付けてるので、border込の大きさにする */
-  font-size: 1.0rem;
+  font-size: 2.0rem;
   margin: 5px auto;
 
  }
@@ -78,7 +82,7 @@ a.btn--orange:hover {
   /*max-width: 400px;*/
   max-width: 98vw;
   margin: 2px auto;
-  font-size: 80%;
+  font-size: 20px;
 
    /* タイトル部分 */
   .line__title {
@@ -90,14 +94,14 @@ a.btn--orange:hover {
   }
   /* スタンプ画像最大幅 */
    .stamp img {
-    max-width:150px;
+    max-width:30vw;
   }
 
   /* 会話部分 */
   .line__contents {
     padding: 10px;
     overflow: hidden;
-    line-height: 135%;
+    line-height: 10vw;
 
     &.scroll {
       /*height: 500px;*/
@@ -116,26 +120,28 @@ a.btn--orange:hover {
 
       /* アイコン画像 */
       figure {
-        width: 50px;
+        width: 0;
         position: absolute;
-        top: 15px;
+        top: 3vw;
         left: 0;
         padding: 0;
         margin: 0;
         /* 正方形を用意 */
         img{
           border-radius: 50%;
-          width: 50px;
-          height: 50px;
+          width: 10vw;
+          height: 10vw;
         }
       }
 
       .line__left-text {
-        margin-left: 70px;
+        margin-left: 17vw;
 
         .name {
           font-size: 80%;
           color: #ffffff;
+          line-height: 2vw;
+
         }
       }
       /* コメントエリア */
@@ -166,7 +172,7 @@ a.btn--orange:hover {
         position: relative;
         display: block;
         margin: 5px 0;
-        max-width: 75%;
+        max-width: 75vw;
         float: right;
         margin-right: 15px;
         clear: both;

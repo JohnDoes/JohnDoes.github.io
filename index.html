@@ -290,28 +290,38 @@ var sceneData = JSON.parse(jsonData);
         window.setTimeout(judgeChat(scene3[0]),5000);
     }
 
-		var container;
-		function scroll() {
-			container = document.getElementById("chatArea");
-			console.log(isScrollBottom());
-			if (isScrollBottom()) {
-				//scrollToBottom();
-			}else{
-				scrollToBottom();
-			}
-		}
-		// 下までスクロールする
-		function scrollToBottom() {
-			if(container.scrollTop&&container.scrollHeight){
-				container.scrollTop = container.scrollHeight;
-			}
-		}
-		// 一番下までスクロールしているかどうか
-		function isScrollBottom() {
-			if(container.scrollTop&&container.scrollHeight){
-				return container.scrollHeight === container.scrollTop + container.offsetHeight;
-			}
-		}
+    /*
+    var container;
+    function scroll() {
+        container = document.getElementById("chatArea");
+        console.log(isScrollBottom());
+        if (isScrollBottom()) {
+            scrollToBottom();
+        }else{
+            scrollToBottom();
+        }
+    }
+    // 下までスクロールする
+    function scrollToBottom() {
+        if(container.scrollTop&&container.scrollHeight){
+            container.scrollTop = container.scrollHeight;
+        }
+    }
+    // 一番下までスクロールしているかどうか
+    function isScrollBottom() {
+        if(container.scrollTop&&container.scrollHeight){
+            return container.scrollHeight === container.scrollTop + container.offsetHeight;
+        }
+    }
+    */
+    var container;
+    function scroll() {
+        container = document.getElementById("chatArea");
+        container.scrollBy({
+            top: 60000,
+            behavior: 'smooth'
+        });
+    }
 
 
 
