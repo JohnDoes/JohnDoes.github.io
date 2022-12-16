@@ -11,8 +11,8 @@
   height: 99vh;
 }
 
-input {
-  font-size: 100%;
+.opt {
+  font-size: 30px;
   }
 
 /* メッセージの入力部分は高さを10vhにして、テキストエリアとボタンをflexで横並びにする*/
