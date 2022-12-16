@@ -4,7 +4,7 @@ var dataSet = [
 		"StageID":"0",
 		"LogID":"1",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"どの言語を学びたい？",
 		"type":"b",
 		"icon":"assets/icons/image014.png"
@@ -14,7 +14,7 @@ var dataSet = [
 		"StageID":"0",
 		"LogID":"2",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"最後に学習したのはステージいくつ？",
 		"type":"b",
 		"icon":"assets/icons/image014.png"
@@ -24,7 +24,7 @@ var dataSet = [
 		"StageID":"0",
 		"LogID":"3",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"それでは学習を始めましょう！",
 		"type":"e",
 		"icon":"assets/icons/image014.png"
@@ -34,7 +34,7 @@ var dataSet = [
 		"StageID":"1",
 		"LogID":"1",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"Lektion eins",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -44,7 +44,7 @@ var dataSet = [
 		"StageID":"1",
 		"LogID":"2",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"レッスン1",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -53,18 +53,18 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"3",
-		"Chara":"2",
-		"Name":"tanaka",
-		"Log":"Guten Tag, Frau Schneider.",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
-		"icon":"assets/icons/image013.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"4",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -73,11 +73,11 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"5",
-		"Chara":"3",
-		"Name":"Schneider.",
-		"Log":"Hallo, Herr Tanaka.",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Guten Tag, Frau Schneider.",
 		"type":"a",
-		"icon":"assets/icons/image003.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -95,7 +95,7 @@ var dataSet = [
 		"LogID":"7",
 		"Chara":"3",
 		"Name":"Schneider.",
-		"Log":"Wie geht es Ihnen?",
+		"Log":"Hallo, Herr Tanaka.",
 		"type":"a",
 		"icon":"assets/icons/image003.png"
 	},
@@ -113,18 +113,18 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"9",
-		"Chara":"2",
-		"Name":"tanaka",
-		"Log":"Danke, gut. Und Ihnen?",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Wie geht es Ihnen?",
 		"type":"a",
-		"icon":"assets/icons/image013.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"10",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -133,11 +133,11 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"11",
-		"Chara":"3",
-		"Name":"Schneider.",
-		"Log":"Auch gut, danke. (Der Bus kommt.)",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Danke, gut. Und Ihnen?",
 		"type":"a",
-		"icon":"assets/icons/image003.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -155,7 +155,7 @@ var dataSet = [
 		"LogID":"13",
 		"Chara":"3",
 		"Name":"Schneider.",
-		"Log":"Also dann, Herr Tanaka, bis morgen.",
+		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"a",
 		"icon":"assets/icons/image003.png"
 	},
@@ -173,18 +173,18 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"15",
-		"Chara":"2",
-		"Name":"tanaka",
-		"Log":"Bis morgen. Auf Wiedersehen.",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"a",
-		"icon":"assets/icons/image013.png"
+		"icon":"assets/icons/image003.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"16",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -193,18 +193,28 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"17",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Bis morgen. Auf Wiedersehen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"18",
 		"Chara":"1",
-		"Name":"navigator",
-		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"Name":"Navigator",
+		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"18",
+		"LogID":"19",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -212,30 +222,20 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"19",
-		"Chara":"0",
-		"Name":"player",
-		"Log":"Guten Tag, Frau Schneider.",
-		"type":"q",
-		"icon":"assets/icons/image326.png"
-	},
-	{
-		"LangID":"ドイツ語",
-		"StageID":"1",
 		"LogID":"20",
-		"Chara":"3",
-		"Name":"Schneider.",
-		"Log":"こんにちは、田中さん。",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Guten Tag, Frau Schneider.",
 		"type":"a",
-		"icon":"assets/icons/image003.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"21",
 		"Chara":"0",
-		"Name":"player",
-		"Log":"Hallo, Herr Tanaka.",
+		"Name":"Player",
+		"Log":"Guten Tag, Frau Schneider.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
 	},
@@ -245,7 +245,7 @@ var dataSet = [
 		"LogID":"22",
 		"Chara":"3",
 		"Name":"Schneider.",
-		"Log":"お元気ですか?",
+		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png"
 	},
@@ -253,8 +253,48 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"1",
 		"LogID":"23",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Hallo, Herr Tanaka.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"24",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
+		"Log":"Hallo, Herr Tanaka.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"25",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"お元気ですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"26",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Wie geht es Ihnen?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"27",
+		"Chara":"0",
+		"Name":"Player",
 		"Log":"Wie geht es Ihnen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -262,9 +302,9 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"24",
+		"LogID":"28",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -272,9 +312,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"25",
+		"LogID":"29",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Danke, gut. Und Ihnen?",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"30",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -282,7 +332,7 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"26",
+		"LogID":"31",
 		"Chara":"3",
 		"Name":"Schneider.",
 		"Log":"私も元気です。ありがとう。[バスが来る]",
@@ -292,9 +342,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"27",
+		"LogID":"32",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Auch gut, danke. (Der Bus kommt.)",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"33",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -302,7 +362,7 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"28",
+		"LogID":"34",
 		"Chara":"3",
 		"Name":"Schneider.",
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
@@ -312,9 +372,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"29",
+		"LogID":"35",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Also dann, Herr Tanaka, bis morgen.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"36",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -322,9 +392,9 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"30",
+		"LogID":"37",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -332,9 +402,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"31",
+		"LogID":"38",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Bis morgen. Auf Wiedersehen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"39",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Bis morgen. Auf Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -342,9 +422,159 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"1",
-		"LogID":"32",
+		"LogID":"40",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
+		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"41",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"こんにちは、シュナイダー夫人。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"42",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Guten Tag, Frau Schneider.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"43",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"こんにちは、田中さん。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"44",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Hallo, Herr Tanaka.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"45",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"お元気ですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"46",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wie geht es Ihnen?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"47",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ありがとう、元気です。それで、あなたは？",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"48",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Danke, gut. Und Ihnen?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"49",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"私も元気です。ありがとう。[バスが来る]",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"50",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auch gut, danke. (Der Bus kommt.)",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"51",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"それでは、田中さん、また明日お会いしましょう。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"52",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Also dann, Herr Tanaka, bis morgen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"53",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ではまた明日。じゃあ、さようなら。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"54",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Bis morgen. Auf Wiedersehen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"1",
+		"LogID":"55",
+		"Chara":"1",
+		"Name":"Navigator",
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png"
@@ -354,7 +584,7 @@ var dataSet = [
 		"StageID":"2",
 		"LogID":"1",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"Lektion zwei",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -364,7 +594,7 @@ var dataSet = [
 		"StageID":"2",
 		"LogID":"2",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"レッスン2",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -373,18 +603,18 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"3",
-		"Chara":"2",
-		"Name":"tanaka",
-		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
-		"icon":"assets/icons/image013.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"4",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -393,11 +623,11 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"5",
-		"Chara":"4",
-		"Name":"Weber",
-		"Log":"Mein Name ist Andrea Weber.",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"a",
-		"icon":"assets/icons/image016.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -415,7 +645,7 @@ var dataSet = [
 		"LogID":"7",
 		"Chara":"4",
 		"Name":"Weber",
-		"Log":"Freut mich, Sie kennen zu lernen.",
+		"Log":"Mein Name ist Andrea Weber.",
 		"type":"a",
 		"icon":"assets/icons/image016.png"
 	},
@@ -433,18 +663,18 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"9",
-		"Chara":"2",
-		"Name":"tanaka",
-		"Log":"Freut mich auch.",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"a",
-		"icon":"assets/icons/image013.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"10",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -454,8 +684,8 @@ var dataSet = [
 		"StageID":"2",
 		"LogID":"11",
 		"Chara":"2",
-		"Name":"tanaka",
-		"Log":"Woher kommen Sie, Frau Weber?",
+		"Name":"Tanaka",
+		"Log":"Freut mich auch.",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
 	},
@@ -464,7 +694,7 @@ var dataSet = [
 		"StageID":"2",
 		"LogID":"12",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -473,11 +703,11 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"13",
-		"Chara":"4",
-		"Name":"Weber",
-		"Log":"Ich komme aus Südtirol, aus Italien.",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"a",
-		"icon":"assets/icons/image016.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -495,7 +725,7 @@ var dataSet = [
 		"LogID":"15",
 		"Chara":"4",
 		"Name":"Weber",
-		"Log":"Und Sie? Kommen Sie aus Korea?",
+		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"a",
 		"icon":"assets/icons/image016.png"
 	},
@@ -513,18 +743,18 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"17",
-		"Chara":"2",
-		"Name":"tanaka",
-		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"a",
-		"icon":"assets/icons/image013.png"
+		"icon":"assets/icons/image016.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"18",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -533,18 +763,28 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"19",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"20",
 		"Chara":"1",
-		"Name":"navigator",
-		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"Name":"Navigator",
+		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"20",
+		"LogID":"21",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -552,30 +792,20 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"21",
-		"Chara":"0",
-		"Name":"player",
-		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
-		"type":"q",
-		"icon":"assets/icons/image326.png"
-	},
-	{
-		"LangID":"ドイツ語",
-		"StageID":"2",
 		"LogID":"22",
-		"Chara":"4",
-		"Name":"Weber",
-		"Log":"私の名前はアンドレア・ウェーバーです。",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"a",
-		"icon":"assets/icons/image016.png"
+		"icon":"assets/icons/image013.png"
 	},
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"23",
 		"Chara":"0",
-		"Name":"player",
-		"Log":"Mein Name ist Andrea Weber.",
+		"Name":"Player",
+		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
 	},
@@ -585,7 +815,7 @@ var dataSet = [
 		"LogID":"24",
 		"Chara":"4",
 		"Name":"Weber",
-		"Log":"お会いできて嬉しいです。",
+		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png"
 	},
@@ -593,8 +823,48 @@ var dataSet = [
 		"LangID":"ドイツ語",
 		"StageID":"2",
 		"LogID":"25",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Mein Name ist Andrea Weber.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"26",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
+		"Log":"Mein Name ist Andrea Weber.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"27",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お会いできて嬉しいです。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"28",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Freut mich, Sie kennen zu lernen.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"29",
+		"Chara":"0",
+		"Name":"Player",
 		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -602,9 +872,9 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"26",
+		"LogID":"30",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -612,9 +882,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"27",
+		"LogID":"31",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Freut mich auch.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"32",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Freut mich auch.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -622,9 +902,9 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"28",
+		"LogID":"33",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -632,9 +912,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"29",
+		"LogID":"34",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Woher kommen Sie, Frau Weber?",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"35",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -642,7 +932,7 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"30",
+		"LogID":"36",
 		"Chara":"4",
 		"Name":"Weber",
 		"Log":"私はイタリアにある南チロルから来ました。",
@@ -652,9 +942,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"31",
+		"LogID":"37",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Ich komme aus Südtirol, aus Italien.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"38",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -662,7 +962,7 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"32",
+		"LogID":"39",
 		"Chara":"4",
 		"Name":"Weber",
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
@@ -672,9 +972,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"33",
+		"LogID":"40",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Und Sie? Kommen Sie aus Korea?",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"41",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -682,9 +992,9 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"34",
+		"LogID":"42",
 		"Chara":"2",
-		"Name":"tanaka",
+		"Name":"Tanaka",
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png"
@@ -692,9 +1002,19 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"35",
+		"LogID":"43",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"44",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -702,9 +1022,179 @@ var dataSet = [
 	{
 		"LangID":"ドイツ語",
 		"StageID":"2",
-		"LogID":"36",
+		"LogID":"45",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
+		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"46",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"こんにちは。わたしは田中といいます。田中健です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"47",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"48",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"私の名前はアンドレア・ウェーバーです。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"49",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Mein Name ist Andrea Weber.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"50",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お会いできて嬉しいです。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"51",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Freut mich, Sie kennen zu lernen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"52",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私も嬉しいです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"53",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Freut mich auch.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"54",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ウェーバーさん、どこから来ましたか?",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"55",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Woher kommen Sie, Frau Weber?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"56",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"私はイタリアにある南チロルから来ました。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"57",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ich komme aus Südtirol, aus Italien.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"58",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"そしてあなたは?あなたは韓国出身ですか?",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"59",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Und Sie? Kommen Sie aus Korea?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"60",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"いいえ、韓国出身ではなく、日本出身です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"61",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"2",
+		"LogID":"62",
+		"Chara":"1",
+		"Name":"Navigator",
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png"
@@ -714,7 +1204,7 @@ var dataSet = [
 		"StageID":"1",
 		"LogID":"1",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"Leçon un",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -724,7 +1214,7 @@ var dataSet = [
 		"StageID":"1",
 		"LogID":"2",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"レッスン 1",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -733,11 +1223,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"1",
 		"LogID":"3",
-		"Chara":"5",
-		"Name":"Minako",
-		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
 		"type":"a",
-		"icon":"assets/icons/image086.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -753,11 +1243,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"1",
 		"LogID":"5",
-		"Chara":"6",
-		"Name":"Céline",
-		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"a",
-		"icon":"assets/icons/image078.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -773,11 +1263,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"1",
 		"LogID":"7",
-		"Chara":"5",
-		"Name":"Minako",
-		"Log":"Oui. Je suis de Kyoto.",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"a",
-		"icon":"assets/icons/image086.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -793,11 +1283,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"1",
 		"LogID":"9",
-		"Chara":"6",
-		"Name":"Céline",
-		"Log":"Je suis française. Je suis d'Orléans.",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Oui. Je suis de Kyoto.",
 		"type":"a",
-		"icon":"assets/icons/image078.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -815,7 +1305,7 @@ var dataSet = [
 		"LogID":"11",
 		"Chara":"6",
 		"Name":"Céline",
-		"Log":"Et vous, vous êtes français ?",
+		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"a",
 		"icon":"assets/icons/image078.png"
 	},
@@ -833,11 +1323,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"1",
 		"LogID":"13",
-		"Chara":"7",
-		"Name":"Luigi",
-		"Log":"Non, je suis italien. Enchanté.",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Et vous, vous êtes français ?",
 		"type":"a",
-		"icon":"assets/icons/image023.png"
+		"icon":"assets/icons/image078.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -853,11 +1343,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"1",
 		"LogID":"15",
-		"Chara":"5",
-		"Name":"Minako",
-		"Log":"Enchantée.",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Non, je suis italien. Enchanté.",
 		"type":"a",
-		"icon":"assets/icons/image086.png"
+		"icon":"assets/icons/image023.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -873,16 +1363,26 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"1",
 		"LogID":"17",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Enchantée.",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"18",
 		"Chara":"1",
-		"Name":"navigator",
-		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"Name":"Navigator",
+		"Log":"次のフランス語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"18",
+		"LogID":"19",
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
@@ -892,9 +1392,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"19",
+		"LogID":"20",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"21",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -902,7 +1412,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"20",
+		"LogID":"22",
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
@@ -912,9 +1422,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"21",
+		"LogID":"23",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
+		"type":"a",
+		"icon":"assets/icons/image078.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"24",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -922,7 +1442,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"22",
+		"LogID":"25",
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"はい。京都出身です。",
@@ -932,9 +1452,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"23",
+		"LogID":"26",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Oui. Je suis de Kyoto.",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"27",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Oui. Je suis de Kyoto.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -942,7 +1472,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"24",
+		"LogID":"28",
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"私はフランス人です。私はオルレアン出身です。",
@@ -952,9 +1482,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"25",
+		"LogID":"29",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Je suis française. Je suis d'Orléans.",
+		"type":"a",
+		"icon":"assets/icons/image078.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"30",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -962,7 +1502,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"26",
+		"LogID":"31",
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"そして、あなたはフランス人ですか?",
@@ -972,9 +1512,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"27",
+		"LogID":"32",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Et vous, vous êtes français ?",
+		"type":"a",
+		"icon":"assets/icons/image078.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"33",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Et vous, vous êtes français ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -982,7 +1532,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"28",
+		"LogID":"34",
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
@@ -992,9 +1542,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"29",
+		"LogID":"35",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Non, je suis italien. Enchanté.",
+		"type":"a",
+		"icon":"assets/icons/image023.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"36",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Non, je suis italien. Enchanté.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -1002,7 +1562,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"30",
+		"LogID":"37",
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"はじめまして。",
@@ -1012,9 +1572,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"31",
+		"LogID":"38",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Enchantée.",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"39",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Enchantée.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -1022,9 +1592,159 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"1",
-		"LogID":"32",
+		"LogID":"40",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
+		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"41",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"42",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"43",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
+		"type":"a",
+		"icon":"assets/icons/image078.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"44",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"45",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"はい。京都出身です。",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"46",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oui. Je suis de Kyoto.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"47",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私はフランス人です。私はオルレアン出身です。",
+		"type":"a",
+		"icon":"assets/icons/image078.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"48",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je suis française. Je suis d'Orléans.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"49",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"そして、あなたはフランス人ですか?",
+		"type":"a",
+		"icon":"assets/icons/image078.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"50",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Et vous, vous êtes français ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"51",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"いいえ、私はイタリア人です。はじめまして。",
+		"type":"a",
+		"icon":"assets/icons/image023.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"52",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Non, je suis italien. Enchanté.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"53",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"はじめまして。",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"54",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Enchantée.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"1",
+		"LogID":"55",
+		"Chara":"1",
+		"Name":"Navigator",
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png"
@@ -1034,7 +1754,7 @@ var dataSet = [
 		"StageID":"2",
 		"LogID":"1",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"Leçon deux",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -1044,7 +1764,7 @@ var dataSet = [
 		"StageID":"2",
 		"LogID":"2",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
 		"Log":"レッスン 2",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
@@ -1053,11 +1773,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"3",
-		"Chara":"8",
-		"Name":"M. Dubois",
-		"Log":"Voilà votre chambre.",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
 		"type":"a",
-		"icon":"assets/icons/image033.png"
+		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1073,11 +1793,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"5",
-		"Chara":"5",
-		"Name":"Minako",
-		"Log":"Elle est très jolie.",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"Voilà votre chambre.",
 		"type":"a",
-		"icon":"assets/icons/image086.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1093,11 +1813,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"7",
-		"Chara":"8",
-		"Name":"M. Dubois",
-		"Log":"Vous avez un lit, un bureau et une commode.",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Elle est très jolie.",
 		"type":"a",
-		"icon":"assets/icons/image033.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1113,11 +1833,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"9",
-		"Chara":"5",
-		"Name":"Minako",
-		"Log":"Et ça, qu'est-ce que c'est ?",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"a",
-		"icon":"assets/icons/image086.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1133,11 +1853,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"11",
-		"Chara":"8",
-		"Name":"M. Dubois",
-		"Log":"C'est une table de nuit.",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Et ça, qu'est-ce que c'est ?",
 		"type":"a",
-		"icon":"assets/icons/image033.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1153,11 +1873,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"13",
-		"Chara":"5",
-		"Name":"Minako",
-		"Log":"Et ça ?",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"C'est une table de nuit.",
 		"type":"a",
-		"icon":"assets/icons/image086.png"
+		"icon":"assets/icons/image033.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1173,11 +1893,11 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"15",
-		"Chara":"8",
-		"Name":"M. Dubois",
-		"Log":"Ce sont des prises de courant.",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Et ça ?",
 		"type":"a",
-		"icon":"assets/icons/image033.png"
+		"icon":"assets/icons/image086.png"
 	},
 	{
 		"LangID":"フランス語",
@@ -1193,16 +1913,26 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"17",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"Ce sont des prises de courant.",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"18",
 		"Chara":"1",
-		"Name":"navigator",
-		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"Name":"Navigator",
+		"Log":"次のフランス語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png"
 	},
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"18",
+		"LogID":"19",
 		"Chara":"8",
 		"Name":"M. Dubois",
 		"Log":"ここがあなたの部屋です。",
@@ -1212,9 +1942,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"19",
+		"LogID":"20",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"Voilà votre chambre.",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"21",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Voilà votre chambre.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -1222,7 +1962,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"20",
+		"LogID":"22",
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"（それは）とてもきれいですね。",
@@ -1232,9 +1972,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"21",
+		"LogID":"23",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Elle est très jolie.",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"24",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Elle est très jolie.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -1242,7 +1992,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"22",
+		"LogID":"25",
 		"Chara":"8",
 		"Name":"M. Dubois",
 		"Log":"ベッド、机、箪笥があります。",
@@ -1252,40 +2002,10 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"23",
-		"Chara":"0",
-		"Name":"player",
-		"Log":"Vous avez un lit, un bureau et une commode.",
-		"type":"q",
-		"icon":"assets/icons/image326.png"
-	},
-	{
-		"LangID":"フランス語",
-		"StageID":"2",
-		"LogID":"24",
-		"Chara":"5",
-		"Name":"Minako",
-		"Log":"（そして、）それは何ですか?",
-		"type":"a",
-		"icon":"assets/icons/image086.png"
-	},
-	{
-		"LangID":"フランス語",
-		"StageID":"2",
-		"LogID":"25",
-		"Chara":"0",
-		"Name":"player",
-		"Log":"Et ça, qu'est-ce que c'est ?",
-		"type":"q",
-		"icon":"assets/icons/image326.png"
-	},
-	{
-		"LangID":"フランス語",
-		"StageID":"2",
 		"LogID":"26",
 		"Chara":"8",
 		"Name":"M. Dubois",
-		"Log":"ベッドサイドテーブルです。",
+		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"a",
 		"icon":"assets/icons/image033.png"
 	},
@@ -1294,8 +2014,8 @@ var dataSet = [
 		"StageID":"2",
 		"LogID":"27",
 		"Chara":"0",
-		"Name":"player",
-		"Log":"C'est une table de nuit.",
+		"Name":"Player",
+		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
 	},
@@ -1305,7 +2025,7 @@ var dataSet = [
 		"LogID":"28",
 		"Chara":"5",
 		"Name":"Minako",
-		"Log":"それで、これは?",
+		"Log":"（そして、）それは何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image086.png"
 	},
@@ -1313,8 +2033,78 @@ var dataSet = [
 		"LangID":"フランス語",
 		"StageID":"2",
 		"LogID":"29",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Et ça, qu'est-ce que c'est ?",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"30",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
+		"Log":"Et ça, qu'est-ce que c'est ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"31",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"ベッドサイドテーブルです。",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"32",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"C'est une table de nuit.",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"33",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"C'est une table de nuit.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"34",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"それで、これは?",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"35",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Et ça ?",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"36",
+		"Chara":"0",
+		"Name":"Player",
 		"Log":"Et ça ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -1322,7 +2112,7 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"30",
+		"LogID":"37",
 		"Chara":"8",
 		"Name":"M. Dubois",
 		"Log":"これらは電源コンセントです。",
@@ -1332,9 +2122,19 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"31",
+		"LogID":"38",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"Ce sont des prises de courant.",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"39",
 		"Chara":"0",
-		"Name":"player",
+		"Name":"Player",
 		"Log":"Ce sont des prises de courant.",
 		"type":"q",
 		"icon":"assets/icons/image326.png"
@@ -1342,10 +2142,2230 @@ var dataSet = [
 	{
 		"LangID":"フランス語",
 		"StageID":"2",
-		"LogID":"32",
+		"LogID":"40",
 		"Chara":"1",
-		"Name":"navigator",
+		"Name":"Navigator",
+		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"41",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"ここがあなたの部屋です。",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"42",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Voilà votre chambre.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"43",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"（それは）とてもきれいですね。",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"44",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Elle est très jolie.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"45",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"ベッド、机、箪笥があります。",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"46",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vous avez un lit, un bureau et une commode.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"47",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"（そして、）それは何ですか?",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"48",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Et ça, qu'est-ce que c'est ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"49",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"ベッドサイドテーブルです。",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"50",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"C'est une table de nuit.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"51",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"それで、これは?",
+		"type":"a",
+		"icon":"assets/icons/image086.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"52",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Et ça ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"53",
+		"Chara":"8",
+		"Name":"M. Dubois",
+		"Log":"これらは電源コンセントです。",
+		"type":"a",
+		"icon":"assets/icons/image033.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"54",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ce sont des prises de courant.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"2",
+		"LogID":"55",
+		"Chara":"1",
+		"Name":"Navigator",
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Lektion drei",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン 3",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"4",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"田中さん、こんにちは。お元気ですか。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"5",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Hallo, Herr Tanaka. Wie geht's?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"6",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ありがとう、いいね。それで、あなたは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"7",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Danke, gut. Und Ihnen?",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"8",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"とても良いです、ありがとう。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"9",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Ausgezeichnet, danke.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"10",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"シュナイダーさん、こちらはバウアーさんです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"11",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Frau Schneider, das ist Herr Bauer.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"12",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"13",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"14",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"15",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Herr Bauer, das ist Frau Schneider.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"16",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"彼女は私の隣人であり、料理の先生です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"17",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"18",
+		"Chara":"9",
+		"Name":"Bauer",
+		"Log":"嬉しい。料理も大好きです。",
+		"type":"a",
+		"icon":"assets/icons/image009.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"19",
+		"Chara":"9",
+		"Name":"Bauer",
+		"Log":"Freut mich. Ich koche auch sehr gern.",
+		"type":"a",
+		"icon":"assets/icons/image009.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"20",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"素晴らしい。それに、共通点があります。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"21",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Schön. Dann haben wir etwas gemeinsam.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"22",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のを真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"23",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"田中さん、こんにちは。お元気ですか。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"24",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Hallo, Herr Tanaka. Wie geht's?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"25",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Hallo, Herr Tanaka. Wie geht's?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"26",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ありがとう、いいね。それで、あなたは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"27",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Danke, gut. Und Ihnen?",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"28",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Danke, gut. Und Ihnen?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"29",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"とても良いです、ありがとう。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"30",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Ausgezeichnet, danke.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"31",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ausgezeichnet, danke.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"32",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"シュナイダーさん、こちらはバウアーさんです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"33",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Frau Schneider, das ist Herr Bauer.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"34",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Frau Schneider, das ist Herr Bauer.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"35",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"36",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"37",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"38",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"39",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Herr Bauer, das ist Frau Schneider.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"40",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Herr Bauer, das ist Frau Schneider.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"41",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"彼女は私の隣人であり、料理の先生です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"42",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"43",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"44",
+		"Chara":"9",
+		"Name":"Bauer",
+		"Log":"嬉しい。料理も大好きです。",
+		"type":"a",
+		"icon":"assets/icons/image009.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"45",
+		"Chara":"9",
+		"Name":"Bauer",
+		"Log":"Freut mich. Ich koche auch sehr gern.",
+		"type":"a",
+		"icon":"assets/icons/image009.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"46",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Freut mich. Ich koche auch sehr gern.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"47",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"素晴らしい。それに、共通点があります。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"48",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Schön. Dann haben wir etwas gemeinsam.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"49",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Schön. Dann haben wir etwas gemeinsam.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"50",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"51",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"田中さん、こんにちは。お元気ですか。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"52",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Hallo, Herr Tanaka. Wie geht's?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"53",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ありがとう、いいね。それで、あなたは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"54",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Danke, gut. Und Ihnen?",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"55",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"とても良いです、ありがとう。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"56",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Ausgezeichnet, danke.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"57",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"シュナイダーさん、こちらはバウアーさんです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"58",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Frau Schneider, das ist Herr Bauer.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"59",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"60",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"61",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"62",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Herr Bauer, das ist Frau Schneider.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"63",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"彼女は私の隣人であり、料理の先生です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"64",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
+		"type":"a",
+		"icon":"assets/icons/image013.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"65",
+		"Chara":"9",
+		"Name":"Bauer",
+		"Log":"嬉しい。料理も大好きです。",
+		"type":"a",
+		"icon":"assets/icons/image009.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"66",
+		"Chara":"9",
+		"Name":"Bauer",
+		"Log":"Freut mich. Ich koche auch sehr gern.",
+		"type":"a",
+		"icon":"assets/icons/image009.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"67",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"素晴らしい。それに、共通点があります。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"68",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Schön. Dann haben wir etwas gemeinsam.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"3",
+		"LogID":"69",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン3はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Lektion vier",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン 1",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"4",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"すみません、市庁舎はどこですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"5",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Entschuldigung, wo ist das Rathaus?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"6",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"少々お待ちください。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"7",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Moment.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"8",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"ここを直進し、右側の最初の通りを進みます。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"9",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"10",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"そこに市庁舎があります。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"11",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Da ist das Rathaus.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"12",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ありがとうございました。そしてもう1つの質問。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"13",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Vielen Dank. Und noch eine Frage.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"14",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ここのバス停はどこですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"15",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Wo ist hier eine Bushaltestelle?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"16",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"バス停、「シラー通り」があります",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"17",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"18",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"あ はい。ありがとうございました。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"19",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"A ja. Danke schön.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"20",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"どういたしまして。じゃあまた。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"21",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Nichts zu danken. Auf Wiedersehen.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"22",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"また。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"23",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Wiedersehen.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"24",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のを真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"25",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"すみません、市庁舎はどこですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"26",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Entschuldigung, wo ist das Rathaus?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"27",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Entschuldigung, wo ist das Rathaus?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"28",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"少々お待ちください。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"29",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Moment.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"30",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Moment.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"31",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"ここを直進し、右側の最初の通りを進みます。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"32",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"33",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"34",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"そこに市庁舎があります。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"35",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Da ist das Rathaus.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"36",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Da ist das Rathaus.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"37",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ありがとうございました。そしてもう1つの質問。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"38",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Vielen Dank. Und noch eine Frage.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"39",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vielen Dank. Und noch eine Frage.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"40",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ここのバス停はどこですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"41",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Wo ist hier eine Bushaltestelle?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"42",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wo ist hier eine Bushaltestelle?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"43",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"バス停、「シラー通り」があります",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"44",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"45",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"46",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"あ はい。ありがとうございました。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"47",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"A ja. Danke schön.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"48",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"A ja. Danke schön.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"49",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"どういたしまして。じゃあまた。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"50",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"Nichts zu danken. Auf Wiedersehen.",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"51",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Nichts zu danken. Auf Wiedersehen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"52",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"また。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"53",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Wiedersehen.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"54",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wiedersehen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"55",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"56",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"すみません、市庁舎はどこですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"57",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Entschuldigung, wo ist das Rathaus?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"58",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"少々お待ちください。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"59",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Moment.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"60",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"ここを直進し、右側の最初の通りを進みます。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"61",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"62",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"そこに市庁舎があります。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"63",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Da ist das Rathaus.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"64",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ありがとうございました。そしてもう1つの質問。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"65",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vielen Dank. Und noch eine Frage.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"66",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"このあたりのバス停はどこですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"67",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wo ist hier eine Bushaltestelle?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"68",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"そこにバス停、「シラー通り」があります",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"69",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"70",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"あ はい。ありがとうございました。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"71",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"A ja. Danke schön.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"72",
+		"Chara":"10",
+		"Name":"Passantin",
+		"Log":"どういたしまして。じゃあまた。",
+		"type":"a",
+		"icon":"assets/icons/image081.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"73",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Nichts zu danken. Auf Wiedersehen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"74",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"また。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"75",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wiedersehen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"4",
+		"LogID":"76",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン4はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Lektion fünf",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン5",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"4",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"5",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"6",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"7",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"8",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"彼女はイタリア人です。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"9",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Sie ist Italienerin.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"10",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"面白いね。兄弟がいますか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"11",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Interessant. Hast du eigentlich Geschwister?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"12",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"はい、私には弟と妹がいます。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"13",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"14",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"私の弟はザルツブルクで勉強しています。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"15",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Mein Bruder studiert in Salzburg.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"16",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"17",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"18",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"彼はそこにケーキ屋をやっています。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"19",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Er hat eine Konditorei dort.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"20",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のを真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"21",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"22",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"23",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"24",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"25",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"26",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"27",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"彼女はイタリア人です。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"28",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Sie ist Italienerin.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"29",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Sie ist Italienerin.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"30",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"面白いね。兄弟がいますか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"31",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Interessant. Hast du eigentlich Geschwister?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"32",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Interessant. Hast du eigentlich Geschwister?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"33",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"はい、私には弟と妹がいます。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"34",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"35",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"36",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"私の弟はザルツブルクで勉強しています。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"37",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Mein Bruder studiert in Salzburg.",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"38",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Mein Bruder studiert in Salzburg.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"39",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"40",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"41",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"42",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"彼はそこにケーキ屋をやっています。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"43",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Er hat eine Konditorei dort.",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"44",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Er hat eine Konditorei dort.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"45",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"46",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"47",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"48",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"49",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"50",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"彼女はイタリア人です。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"51",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Sie ist Italienerin.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"52",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"面白いね。兄弟がいますか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"53",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Interessant. Hast du eigentlich Geschwister?",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"54",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"はい、私には弟と妹がいます。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"55",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"56",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"私の弟はザルツブルクで勉強しています。",
+		"type":"a",
+		"icon":"assets/icons/image016.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"57",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Mein Bruder studiert in Salzburg.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"58",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"59",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"60",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"彼はそこにケーキ屋をやっています。",
+		"type":"a",
+		"icon":"assets/icons/image003.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"61",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Er hat eine Konditorei dort.",
+		"type":"q",
+		"icon":"assets/icons/image326.png"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"5",
+		"LogID":"62",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスンドイツ語はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png"
 	}
