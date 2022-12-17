@@ -1,7 +1,10 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    '/johndoes.github.io/',
+    '/',
+    '/assets/talk.js',
+    '/index.html',
+    '/style.css'
 ];
 
 // インストール処理
