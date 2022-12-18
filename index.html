@@ -104,17 +104,13 @@ var sceneData = JSON.parse(jsonData);
                 logID +=1
                 break;
             case "e":
-				if(nextStg==stgID){
-					nextStg = stgID + 1;
-				}
+                console.log(nextStg, stgID);
                 botloading(data);
-				window.setTimeout(nxtStage,2000);				
+				window.setTimeout(nxtStage,6000);				
                 break;
             default:
 
         }
-		scroll();
-
     }
 
     function makeQ(data){
@@ -131,7 +127,6 @@ var sceneData = JSON.parse(jsonData);
                         data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
                         data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeLang()" class ="opt" name="lang"><select name="lng" id="lng"><option value=0>言語を選択</option><option value=1>ドイツ語</option><option value=2>フランス語</option><option value=3>中国語</option></select></form></div></div></div>';
                 }, 2000 );
-                scroll();
                 break;
             case "2":
             var el = document.createElement("div");
@@ -143,10 +138,10 @@ var sceneData = JSON.parse(jsonData);
                         data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
                         data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeStage()" class ="opt" name="stage"><select name="stg" id="stg"><option value=0>数字を選択</option><option value=1>1</option><option value=2>2</option><option value=3>3</option><option value=4>4</option><option value=5>5</option><option value=6>6</option><option value=7>7</option><option value=8>8</option><option value=9>9</option><option value=10>10</option><option value=11>11</option><option value=12>12</option><option value=13>13</option><option value=14>14</option><option value=15>15</option><option value=16>16</option><option value=17>17</option><option value=18>18</option><option value=19>19</option><option value=20>20</option><option value=21>21</option><option value=22>22</option><option value=23>23</option><option value=24>24</option><option value=25>25</option><option value=26>26</option><option value=27>27</option><option value=28>28</option><option value=29>29</option><option value=30>30</option><option value=31>31</option><option value=32>32</option><option value=33>33</option><option value=34>34</option><option value=35>35</option><option value=36>36</option><option value=37>37</option><option value=38>38</option><option value=39>39</option><option value=40>40</option></select></form></div></div></div>';
                 }, 2000 );
-                scroll();
                 break;
             default:
         }
+        scroll();
     }
 
 	var filter1 = new RegExp('[A-Z]');
@@ -213,6 +208,8 @@ var sceneData = JSON.parse(jsonData);
             '</figure><div class="line__left-text"><div class="name">Navigator</div>'+
             '<div class="text">何かのミスがあるようです。もう一度回答をお願いします。またはスキップしますか？'+
                 '<a onclick="skip()" class="btn btn--orange">スキップ</a></div></div></div>';
+        		scroll();
+
     }
 
     function skip(){
@@ -236,6 +233,8 @@ var sceneData = JSON.parse(jsonData);
 			el.innerHTML = '<div class="line__left"><figure><img src='+
             data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
                 data.Name +'</div><div class="text">' + data.Log + '</div></div></div>';
+        		scroll();
+
 
 		}, 5000 )
     }
@@ -276,7 +275,12 @@ var sceneData = JSON.parse(jsonData);
     function changeStage(){
 		var l = document.getElementById("stg").value;
 		console.log(l);
-        nextStg = l;
+		console.log(typeof l);
+        if(typeof l == "string"){
+            nextStg = parseInt(l);
+        }else{
+            nextStg = l;
+        }
 		scenario();				
     }
     function nxtStage(){
@@ -297,6 +301,12 @@ var sceneData = JSON.parse(jsonData);
         scene3 = scene2.filter(function(scene){
             return scene.LogID == logID.toString();
         });
+        if(typeof stgID == "string"){
+            parseInt(stgID);
+        }
+        if(typeof logID == "string"){
+            parseInt(logID);
+        }
         console.log(lngID);
         console.log(stgID);
         console.log(logID);
