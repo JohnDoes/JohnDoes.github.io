@@ -8,7 +8,7 @@ var dataSet = [
 		"Log":"どの言語を学びたい？",
 		"type":"b",
 		"icon":"assets/icons/image014.png",
-		"say":"ja"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"設定",
@@ -19,7 +19,7 @@ var dataSet = [
 		"Log":"最後に学習したのはステージいくつ？",
 		"type":"b",
 		"icon":"assets/icons/image014.png",
-		"say":"ja"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"設定",
@@ -30,7 +30,7 @@ var dataSet = [
 		"Log":"それでは学習を始めましょう！",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"ja"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -41,7 +41,7 @@ var dataSet = [
 		"Log":"Lektion eins",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -52,7 +52,7 @@ var dataSet = [
 		"Log":"レッスン1",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -63,7 +63,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -74,7 +74,7 @@ var dataSet = [
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -85,7 +85,7 @@ var dataSet = [
 		"Log":"Guten Tag, Frau Schneider.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -96,7 +96,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -107,7 +107,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -118,7 +118,7 @@ var dataSet = [
 		"Log":"お元気ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -129,7 +129,7 @@ var dataSet = [
 		"Log":"Wie geht es Ihnen?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -140,7 +140,7 @@ var dataSet = [
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -151,7 +151,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -162,7 +162,7 @@ var dataSet = [
 		"Log":"私も元気です。ありがとう。(バスが来る)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -173,7 +173,7 @@ var dataSet = [
 		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -184,7 +184,7 @@ var dataSet = [
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -195,7 +195,7 @@ var dataSet = [
 		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -206,7 +206,7 @@ var dataSet = [
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -217,7 +217,7 @@ var dataSet = [
 		"Log":"Bis morgen. Auf Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -228,7 +228,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -239,7 +239,7 @@ var dataSet = [
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -250,7 +250,7 @@ var dataSet = [
 		"Log":"Guten Tag, Frau Schneider.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -261,7 +261,7 @@ var dataSet = [
 		"Log":"Guten Tag, Frau Schneider.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -272,7 +272,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -283,7 +283,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -294,7 +294,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -305,7 +305,7 @@ var dataSet = [
 		"Log":"お元気ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -316,7 +316,7 @@ var dataSet = [
 		"Log":"Wie geht es Ihnen?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -327,7 +327,7 @@ var dataSet = [
 		"Log":"Wie geht es Ihnen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -338,7 +338,7 @@ var dataSet = [
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -349,7 +349,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -360,7 +360,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -371,7 +371,7 @@ var dataSet = [
 		"Log":"私も元気です。ありがとう。(バスが来る)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -382,7 +382,7 @@ var dataSet = [
 		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -393,7 +393,7 @@ var dataSet = [
 		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -404,7 +404,7 @@ var dataSet = [
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -415,7 +415,7 @@ var dataSet = [
 		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -426,7 +426,7 @@ var dataSet = [
 		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -437,7 +437,7 @@ var dataSet = [
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -448,7 +448,7 @@ var dataSet = [
 		"Log":"Bis morgen. Auf Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -459,7 +459,7 @@ var dataSet = [
 		"Log":"Bis morgen. Auf Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -470,7 +470,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -481,7 +481,7 @@ var dataSet = [
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -492,7 +492,7 @@ var dataSet = [
 		"Log":"Guten Tag, Frau Schneider.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -503,7 +503,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -514,7 +514,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -525,7 +525,7 @@ var dataSet = [
 		"Log":"お元気ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -536,7 +536,7 @@ var dataSet = [
 		"Log":"Wie geht es Ihnen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -547,7 +547,7 @@ var dataSet = [
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -558,7 +558,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -569,7 +569,7 @@ var dataSet = [
 		"Log":"私も元気です。ありがとう。(バスが来る)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -580,7 +580,7 @@ var dataSet = [
 		"Log":"Auch gut, danke. (Der Bus kommt.)",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -591,7 +591,7 @@ var dataSet = [
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -602,7 +602,7 @@ var dataSet = [
 		"Log":"Also dann, Herr Tanaka, bis morgen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -613,7 +613,7 @@ var dataSet = [
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -624,7 +624,7 @@ var dataSet = [
 		"Log":"Bis morgen. Auf Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -635,7 +635,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -646,7 +646,7 @@ var dataSet = [
 		"Log":"Lektion zwei",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -657,7 +657,7 @@ var dataSet = [
 		"Log":"レッスン2",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -668,7 +668,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -679,7 +679,7 @@ var dataSet = [
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -690,7 +690,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -701,7 +701,7 @@ var dataSet = [
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -712,7 +712,7 @@ var dataSet = [
 		"Log":"Mein Name ist Andrea Weber.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -723,7 +723,7 @@ var dataSet = [
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -734,7 +734,7 @@ var dataSet = [
 		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -745,7 +745,7 @@ var dataSet = [
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -756,7 +756,7 @@ var dataSet = [
 		"Log":"Freut mich auch.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -767,7 +767,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -778,7 +778,7 @@ var dataSet = [
 		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -789,7 +789,7 @@ var dataSet = [
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -800,7 +800,7 @@ var dataSet = [
 		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -811,7 +811,7 @@ var dataSet = [
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -822,7 +822,7 @@ var dataSet = [
 		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -833,7 +833,7 @@ var dataSet = [
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -844,7 +844,7 @@ var dataSet = [
 		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -855,7 +855,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -866,7 +866,7 @@ var dataSet = [
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -877,7 +877,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -888,7 +888,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -899,7 +899,7 @@ var dataSet = [
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -910,7 +910,7 @@ var dataSet = [
 		"Log":"Mein Name ist Andrea Weber.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -921,7 +921,7 @@ var dataSet = [
 		"Log":"Mein Name ist Andrea Weber.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -932,7 +932,7 @@ var dataSet = [
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -943,7 +943,7 @@ var dataSet = [
 		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -954,7 +954,7 @@ var dataSet = [
 		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -965,7 +965,7 @@ var dataSet = [
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -976,7 +976,7 @@ var dataSet = [
 		"Log":"Freut mich auch.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -987,7 +987,7 @@ var dataSet = [
 		"Log":"Freut mich auch.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -998,7 +998,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1009,7 +1009,7 @@ var dataSet = [
 		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1020,7 +1020,7 @@ var dataSet = [
 		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1031,7 +1031,7 @@ var dataSet = [
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1042,7 +1042,7 @@ var dataSet = [
 		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1053,7 +1053,7 @@ var dataSet = [
 		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1064,7 +1064,7 @@ var dataSet = [
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1075,7 +1075,7 @@ var dataSet = [
 		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1086,7 +1086,7 @@ var dataSet = [
 		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1097,7 +1097,7 @@ var dataSet = [
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1108,7 +1108,7 @@ var dataSet = [
 		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1119,7 +1119,7 @@ var dataSet = [
 		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1130,7 +1130,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1141,7 +1141,7 @@ var dataSet = [
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1152,7 +1152,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich heiße Tanaka. Ken Tanaka.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1163,7 +1163,7 @@ var dataSet = [
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1174,7 +1174,7 @@ var dataSet = [
 		"Log":"Mein Name ist Andrea Weber.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1185,7 +1185,7 @@ var dataSet = [
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1196,7 +1196,7 @@ var dataSet = [
 		"Log":"Freut mich, Sie kennen zu lernen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1207,7 +1207,7 @@ var dataSet = [
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1218,7 +1218,7 @@ var dataSet = [
 		"Log":"Freut mich auch.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1229,7 +1229,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1240,7 +1240,7 @@ var dataSet = [
 		"Log":"Woher kommen Sie, Frau Weber?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1251,7 +1251,7 @@ var dataSet = [
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1262,7 +1262,7 @@ var dataSet = [
 		"Log":"Ich komme aus Südtirol, aus Italien.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1273,7 +1273,7 @@ var dataSet = [
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1284,7 +1284,7 @@ var dataSet = [
 		"Log":"Und Sie? Kommen Sie aus Korea?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1295,7 +1295,7 @@ var dataSet = [
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1306,7 +1306,7 @@ var dataSet = [
 		"Log":"Nein, ich komme nicht aus Korea, sondern aus Japan.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1317,7 +1317,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"フランス語",
@@ -1328,7 +1328,7 @@ var dataSet = [
 		"Log":"Leçon un",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1339,7 +1339,7 @@ var dataSet = [
 		"Log":"レッスン 1",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1350,7 +1350,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1361,7 +1361,7 @@ var dataSet = [
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1372,7 +1372,7 @@ var dataSet = [
 		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1383,7 +1383,7 @@ var dataSet = [
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1394,7 +1394,7 @@ var dataSet = [
 		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1405,7 +1405,7 @@ var dataSet = [
 		"Log":"はい。京都出身です。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1416,7 +1416,7 @@ var dataSet = [
 		"Log":"Oui. Je suis de Kyoto.",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1427,7 +1427,7 @@ var dataSet = [
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1438,7 +1438,7 @@ var dataSet = [
 		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1449,7 +1449,7 @@ var dataSet = [
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1460,7 +1460,7 @@ var dataSet = [
 		"Log":"Et vous, vous êtes français ?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1471,7 +1471,7 @@ var dataSet = [
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1482,7 +1482,7 @@ var dataSet = [
 		"Log":"Non, je suis italien. Enchanté.",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1493,7 +1493,7 @@ var dataSet = [
 		"Log":"はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1504,7 +1504,7 @@ var dataSet = [
 		"Log":"Enchantée.",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1515,7 +1515,7 @@ var dataSet = [
 		"Log":"次のフランス語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1526,7 +1526,7 @@ var dataSet = [
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1537,7 +1537,7 @@ var dataSet = [
 		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1548,7 +1548,7 @@ var dataSet = [
 		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1559,7 +1559,7 @@ var dataSet = [
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1570,7 +1570,7 @@ var dataSet = [
 		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1581,7 +1581,7 @@ var dataSet = [
 		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1592,7 +1592,7 @@ var dataSet = [
 		"Log":"はい。京都出身です。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1603,7 +1603,7 @@ var dataSet = [
 		"Log":"Oui. Je suis de Kyoto.",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1614,7 +1614,7 @@ var dataSet = [
 		"Log":"Oui. Je suis de Kyoto.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1625,7 +1625,7 @@ var dataSet = [
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1636,7 +1636,7 @@ var dataSet = [
 		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1647,7 +1647,7 @@ var dataSet = [
 		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1658,7 +1658,7 @@ var dataSet = [
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1669,7 +1669,7 @@ var dataSet = [
 		"Log":"Et vous, vous êtes français ?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1680,7 +1680,7 @@ var dataSet = [
 		"Log":"Et vous, vous êtes français ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1691,7 +1691,7 @@ var dataSet = [
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1702,7 +1702,7 @@ var dataSet = [
 		"Log":"Non, je suis italien. Enchanté.",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1713,7 +1713,7 @@ var dataSet = [
 		"Log":"Non, je suis italien. Enchanté.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1724,7 +1724,7 @@ var dataSet = [
 		"Log":"はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1735,7 +1735,7 @@ var dataSet = [
 		"Log":"Enchantée.",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1746,7 +1746,7 @@ var dataSet = [
 		"Log":"Enchantée.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1757,7 +1757,7 @@ var dataSet = [
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1768,7 +1768,7 @@ var dataSet = [
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1779,7 +1779,7 @@ var dataSet = [
 		"Log":"Bonjour. Je m'appelle Minako. Et vous ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1790,7 +1790,7 @@ var dataSet = [
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1801,7 +1801,7 @@ var dataSet = [
 		"Log":"Je m'appelle Céline. Vous êtes japonaise ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1812,7 +1812,7 @@ var dataSet = [
 		"Log":"はい。京都出身です。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1823,7 +1823,7 @@ var dataSet = [
 		"Log":"Oui. Je suis de Kyoto.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1834,7 +1834,7 @@ var dataSet = [
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1845,7 +1845,7 @@ var dataSet = [
 		"Log":"Je suis française. Je suis d'Orléans.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1856,7 +1856,7 @@ var dataSet = [
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1867,7 +1867,7 @@ var dataSet = [
 		"Log":"Et vous, vous êtes français ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1878,7 +1878,7 @@ var dataSet = [
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1889,7 +1889,7 @@ var dataSet = [
 		"Log":"Non, je suis italien. Enchanté.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1900,7 +1900,7 @@ var dataSet = [
 		"Log":"はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1911,7 +1911,7 @@ var dataSet = [
 		"Log":"Enchantée.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1922,7 +1922,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1933,7 +1933,7 @@ var dataSet = [
 		"Log":"Leçon deux",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1944,7 +1944,7 @@ var dataSet = [
 		"Log":"レッスン 2",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1955,7 +1955,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1966,7 +1966,7 @@ var dataSet = [
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1977,7 +1977,7 @@ var dataSet = [
 		"Log":"Voilà votre chambre.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1988,7 +1988,7 @@ var dataSet = [
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -1999,7 +1999,7 @@ var dataSet = [
 		"Log":"Elle est très jolie.",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2010,7 +2010,7 @@ var dataSet = [
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2021,7 +2021,7 @@ var dataSet = [
 		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2032,7 +2032,7 @@ var dataSet = [
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2043,7 +2043,7 @@ var dataSet = [
 		"Log":"Et ça, qu'est-ce que c'est ?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2054,7 +2054,7 @@ var dataSet = [
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2065,7 +2065,7 @@ var dataSet = [
 		"Log":"C'est une table de nuit.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2076,7 +2076,7 @@ var dataSet = [
 		"Log":"それで、これは?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2087,7 +2087,7 @@ var dataSet = [
 		"Log":"Et ça ?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2098,7 +2098,7 @@ var dataSet = [
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2109,7 +2109,7 @@ var dataSet = [
 		"Log":"Ce sont des prises de courant.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2120,7 +2120,7 @@ var dataSet = [
 		"Log":"次のフランス語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2131,7 +2131,7 @@ var dataSet = [
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2142,7 +2142,7 @@ var dataSet = [
 		"Log":"Voilà votre chambre.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2153,7 +2153,7 @@ var dataSet = [
 		"Log":"Voilà votre chambre.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2164,7 +2164,7 @@ var dataSet = [
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2175,7 +2175,7 @@ var dataSet = [
 		"Log":"Elle est très jolie.",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2186,7 +2186,7 @@ var dataSet = [
 		"Log":"Elle est très jolie.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2197,7 +2197,7 @@ var dataSet = [
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2208,7 +2208,7 @@ var dataSet = [
 		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2219,7 +2219,7 @@ var dataSet = [
 		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2230,7 +2230,7 @@ var dataSet = [
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2241,7 +2241,7 @@ var dataSet = [
 		"Log":"Et ça, qu'est-ce que c'est ?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2252,7 +2252,7 @@ var dataSet = [
 		"Log":"Et ça, qu'est-ce que c'est ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2263,7 +2263,7 @@ var dataSet = [
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2274,7 +2274,7 @@ var dataSet = [
 		"Log":"C'est une table de nuit.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2285,7 +2285,7 @@ var dataSet = [
 		"Log":"C'est une table de nuit.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2296,7 +2296,7 @@ var dataSet = [
 		"Log":"それで、これは?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2307,7 +2307,7 @@ var dataSet = [
 		"Log":"Et ça ?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2318,7 +2318,7 @@ var dataSet = [
 		"Log":"Et ça ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2329,7 +2329,7 @@ var dataSet = [
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2340,7 +2340,7 @@ var dataSet = [
 		"Log":"Ce sont des prises de courant.",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2351,7 +2351,7 @@ var dataSet = [
 		"Log":"Ce sont des prises de courant.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2362,7 +2362,7 @@ var dataSet = [
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2373,7 +2373,7 @@ var dataSet = [
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2384,7 +2384,7 @@ var dataSet = [
 		"Log":"Voilà votre chambre.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2395,7 +2395,7 @@ var dataSet = [
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2406,7 +2406,7 @@ var dataSet = [
 		"Log":"Elle est très jolie.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2417,7 +2417,7 @@ var dataSet = [
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2428,7 +2428,7 @@ var dataSet = [
 		"Log":"Vous avez un lit, un bureau et une commode.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2439,7 +2439,7 @@ var dataSet = [
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2450,7 +2450,7 @@ var dataSet = [
 		"Log":"Et ça, qu'est-ce que c'est ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2461,7 +2461,7 @@ var dataSet = [
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2472,7 +2472,7 @@ var dataSet = [
 		"Log":"C'est une table de nuit.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2483,7 +2483,7 @@ var dataSet = [
 		"Log":"それで、これは?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2494,7 +2494,7 @@ var dataSet = [
 		"Log":"Et ça ?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2505,7 +2505,7 @@ var dataSet = [
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2516,7 +2516,7 @@ var dataSet = [
 		"Log":"Ce sont des prises de courant.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -2527,7 +2527,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"fr"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2538,7 +2538,7 @@ var dataSet = [
 		"Log":"Lektion drei",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2549,7 +2549,7 @@ var dataSet = [
 		"Log":"レッスン 3",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2560,7 +2560,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2571,7 +2571,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは。お元気ですか。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2582,7 +2582,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka. Wie geht's?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2593,7 +2593,7 @@ var dataSet = [
 		"Log":"ありがとう、いいね。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2604,7 +2604,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2615,7 +2615,7 @@ var dataSet = [
 		"Log":"とても良いです、ありがとう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2626,7 +2626,7 @@ var dataSet = [
 		"Log":"Ausgezeichnet, danke.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2637,7 +2637,7 @@ var dataSet = [
 		"Log":"シュナイダーさん、こちらはバウアーさんです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2648,7 +2648,7 @@ var dataSet = [
 		"Log":"Frau Schneider, das ist Herr Bauer.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2659,7 +2659,7 @@ var dataSet = [
 		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2670,7 +2670,7 @@ var dataSet = [
 		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2681,7 +2681,7 @@ var dataSet = [
 		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2692,7 +2692,7 @@ var dataSet = [
 		"Log":"Herr Bauer, das ist Frau Schneider.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2703,7 +2703,7 @@ var dataSet = [
 		"Log":"彼女は私の隣人であり、料理の先生です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2714,7 +2714,7 @@ var dataSet = [
 		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2725,7 +2725,7 @@ var dataSet = [
 		"Log":"嬉しい。料理も大好きです。",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2736,7 +2736,7 @@ var dataSet = [
 		"Log":"Freut mich. Ich koche auch sehr gern.",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2747,7 +2747,7 @@ var dataSet = [
 		"Log":"素晴らしい。それに、共通点があります。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2758,7 +2758,7 @@ var dataSet = [
 		"Log":"Schön. Dann haben wir etwas gemeinsam.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2769,7 +2769,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2780,7 +2780,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは。お元気ですか。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2791,7 +2791,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka. Wie geht's?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2802,7 +2802,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka. Wie geht's?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2813,7 +2813,7 @@ var dataSet = [
 		"Log":"ありがとう、いいね。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2824,7 +2824,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2835,7 +2835,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2846,7 +2846,7 @@ var dataSet = [
 		"Log":"とても良いです、ありがとう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2857,7 +2857,7 @@ var dataSet = [
 		"Log":"Ausgezeichnet, danke.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2868,7 +2868,7 @@ var dataSet = [
 		"Log":"Ausgezeichnet, danke.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2879,7 +2879,7 @@ var dataSet = [
 		"Log":"シュナイダーさん、こちらはバウアーさんです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2890,7 +2890,7 @@ var dataSet = [
 		"Log":"Frau Schneider, das ist Herr Bauer.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2901,7 +2901,7 @@ var dataSet = [
 		"Log":"Frau Schneider, das ist Herr Bauer.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2912,7 +2912,7 @@ var dataSet = [
 		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2923,7 +2923,7 @@ var dataSet = [
 		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2934,7 +2934,7 @@ var dataSet = [
 		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2945,7 +2945,7 @@ var dataSet = [
 		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2956,7 +2956,7 @@ var dataSet = [
 		"Log":"Herr Bauer, das ist Frau Schneider.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2967,7 +2967,7 @@ var dataSet = [
 		"Log":"Herr Bauer, das ist Frau Schneider.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2978,7 +2978,7 @@ var dataSet = [
 		"Log":"彼女は私の隣人であり、料理の先生です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2989,7 +2989,7 @@ var dataSet = [
 		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3000,7 +3000,7 @@ var dataSet = [
 		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3011,7 +3011,7 @@ var dataSet = [
 		"Log":"嬉しい。料理も大好きです。",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3022,7 +3022,7 @@ var dataSet = [
 		"Log":"Freut mich. Ich koche auch sehr gern.",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3033,7 +3033,7 @@ var dataSet = [
 		"Log":"Freut mich. Ich koche auch sehr gern.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3044,7 +3044,7 @@ var dataSet = [
 		"Log":"素晴らしい。それに、共通点があります。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3055,7 +3055,7 @@ var dataSet = [
 		"Log":"Schön. Dann haben wir etwas gemeinsam.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3066,7 +3066,7 @@ var dataSet = [
 		"Log":"Schön. Dann haben wir etwas gemeinsam.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3077,7 +3077,7 @@ var dataSet = [
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3088,7 +3088,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは。お元気ですか。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3099,7 +3099,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka. Wie geht's?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3110,7 +3110,7 @@ var dataSet = [
 		"Log":"ありがとう、いいね。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3121,7 +3121,7 @@ var dataSet = [
 		"Log":"Danke, gut. Und Ihnen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3132,7 +3132,7 @@ var dataSet = [
 		"Log":"とても良いです、ありがとう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3143,7 +3143,7 @@ var dataSet = [
 		"Log":"Ausgezeichnet, danke.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3154,7 +3154,7 @@ var dataSet = [
 		"Log":"シュナイダーさん、こちらはバウアーさんです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3165,7 +3165,7 @@ var dataSet = [
 		"Log":"Frau Schneider, das ist Herr Bauer.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3176,7 +3176,7 @@ var dataSet = [
 		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3187,7 +3187,7 @@ var dataSet = [
 		"Log":"Er ist mein Kollege. Wir arbeiten zusammen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3198,7 +3198,7 @@ var dataSet = [
 		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3209,7 +3209,7 @@ var dataSet = [
 		"Log":"Herr Bauer, das ist Frau Schneider.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3220,7 +3220,7 @@ var dataSet = [
 		"Log":"彼女は私の隣人であり、料理の先生です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3231,7 +3231,7 @@ var dataSet = [
 		"Log":"Sie ist meine Nachbarin und Kochlehrerin.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3242,7 +3242,7 @@ var dataSet = [
 		"Log":"嬉しい。料理も大好きです。",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3253,7 +3253,7 @@ var dataSet = [
 		"Log":"Freut mich. Ich koche auch sehr gern.",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3264,7 +3264,7 @@ var dataSet = [
 		"Log":"素晴らしい。それに、共通点があります。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3275,7 +3275,7 @@ var dataSet = [
 		"Log":"Schön. Dann haben wir etwas gemeinsam.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3286,7 +3286,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン3はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3297,7 +3297,7 @@ var dataSet = [
 		"Log":"Lektion vier",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3308,7 +3308,7 @@ var dataSet = [
 		"Log":"レッスン 1",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3319,7 +3319,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語と中国語を一文ずつ流すので中国語を真似して下さい。最後に日本語のみを流すので、中国語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3330,7 +3330,7 @@ var dataSet = [
 		"Log":"すみません、市庁舎はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3341,7 +3341,7 @@ var dataSet = [
 		"Log":"Entschuldigung, wo ist das Rathaus?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3352,7 +3352,7 @@ var dataSet = [
 		"Log":"少々お待ちください。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3363,7 +3363,7 @@ var dataSet = [
 		"Log":"Moment.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3374,7 +3374,7 @@ var dataSet = [
 		"Log":"ここを直進し、右側の最初の通りを進みます。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3385,7 +3385,7 @@ var dataSet = [
 		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3396,7 +3396,7 @@ var dataSet = [
 		"Log":"そこに市庁舎があります。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3407,7 +3407,7 @@ var dataSet = [
 		"Log":"Da ist das Rathaus.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3418,7 +3418,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そしてもう1つの質問。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3429,7 +3429,7 @@ var dataSet = [
 		"Log":"Vielen Dank. Und noch eine Frage.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3440,7 +3440,7 @@ var dataSet = [
 		"Log":"ここのバス停はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3451,7 +3451,7 @@ var dataSet = [
 		"Log":"Wo ist hier eine Bushaltestelle?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3462,7 +3462,7 @@ var dataSet = [
 		"Log":"バス停、「シラー通り」があります",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3473,7 +3473,7 @@ var dataSet = [
 		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3484,7 +3484,7 @@ var dataSet = [
 		"Log":"あ はい。ありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3495,7 +3495,7 @@ var dataSet = [
 		"Log":"A ja. Danke schön.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3506,7 +3506,7 @@ var dataSet = [
 		"Log":"どういたしまして。じゃあまた。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3517,7 +3517,7 @@ var dataSet = [
 		"Log":"Nichts zu danken. Auf Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3528,7 +3528,7 @@ var dataSet = [
 		"Log":"また。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3539,7 +3539,7 @@ var dataSet = [
 		"Log":"Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3550,7 +3550,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3561,7 +3561,7 @@ var dataSet = [
 		"Log":"すみません、市庁舎はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3572,7 +3572,7 @@ var dataSet = [
 		"Log":"Entschuldigung, wo ist das Rathaus?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3583,7 +3583,7 @@ var dataSet = [
 		"Log":"Entschuldigung, wo ist das Rathaus?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3594,7 +3594,7 @@ var dataSet = [
 		"Log":"少々お待ちください。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3605,7 +3605,7 @@ var dataSet = [
 		"Log":"Moment.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3616,7 +3616,7 @@ var dataSet = [
 		"Log":"Moment.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3627,7 +3627,7 @@ var dataSet = [
 		"Log":"ここを直進し、右側の最初の通りを進みます。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3638,7 +3638,7 @@ var dataSet = [
 		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3649,7 +3649,7 @@ var dataSet = [
 		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3660,7 +3660,7 @@ var dataSet = [
 		"Log":"そこに市庁舎があります。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3671,7 +3671,7 @@ var dataSet = [
 		"Log":"Da ist das Rathaus.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3682,7 +3682,7 @@ var dataSet = [
 		"Log":"Da ist das Rathaus.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3693,7 +3693,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そしてもう1つの質問。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3704,7 +3704,7 @@ var dataSet = [
 		"Log":"Vielen Dank. Und noch eine Frage.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3715,7 +3715,7 @@ var dataSet = [
 		"Log":"Vielen Dank. Und noch eine Frage.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3726,7 +3726,7 @@ var dataSet = [
 		"Log":"ここのバス停はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3737,7 +3737,7 @@ var dataSet = [
 		"Log":"Wo ist hier eine Bushaltestelle?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3748,7 +3748,7 @@ var dataSet = [
 		"Log":"Wo ist hier eine Bushaltestelle?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3759,7 +3759,7 @@ var dataSet = [
 		"Log":"バス停、「シラー通り」があります",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3770,7 +3770,7 @@ var dataSet = [
 		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3781,7 +3781,7 @@ var dataSet = [
 		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3792,7 +3792,7 @@ var dataSet = [
 		"Log":"あ はい。ありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3803,7 +3803,7 @@ var dataSet = [
 		"Log":"A ja. Danke schön.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3814,7 +3814,7 @@ var dataSet = [
 		"Log":"A ja. Danke schön.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3825,7 +3825,7 @@ var dataSet = [
 		"Log":"どういたしまして。じゃあまた。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3836,7 +3836,7 @@ var dataSet = [
 		"Log":"Nichts zu danken. Auf Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3847,7 +3847,7 @@ var dataSet = [
 		"Log":"Nichts zu danken. Auf Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3858,7 +3858,7 @@ var dataSet = [
 		"Log":"また。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3869,7 +3869,7 @@ var dataSet = [
 		"Log":"Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3880,7 +3880,7 @@ var dataSet = [
 		"Log":"Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3891,7 +3891,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3902,7 +3902,7 @@ var dataSet = [
 		"Log":"すみません、市庁舎はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3913,7 +3913,7 @@ var dataSet = [
 		"Log":"Entschuldigung, wo ist das Rathaus?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3924,7 +3924,7 @@ var dataSet = [
 		"Log":"少々お待ちください。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3935,7 +3935,7 @@ var dataSet = [
 		"Log":"Moment.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3946,7 +3946,7 @@ var dataSet = [
 		"Log":"ここを直進し、右側の最初の通りを進みます。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3957,7 +3957,7 @@ var dataSet = [
 		"Log":"Gehen Sie hier geradeaus, und dann die erste Straße rechts.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3968,7 +3968,7 @@ var dataSet = [
 		"Log":"そこに市庁舎があります。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3979,7 +3979,7 @@ var dataSet = [
 		"Log":"Da ist das Rathaus.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3990,7 +3990,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そしてもう1つの質問。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4001,7 +4001,7 @@ var dataSet = [
 		"Log":"Vielen Dank. Und noch eine Frage.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4012,7 +4012,7 @@ var dataSet = [
 		"Log":"このあたりのバス停はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4023,7 +4023,7 @@ var dataSet = [
 		"Log":"Wo ist hier eine Bushaltestelle?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4034,7 +4034,7 @@ var dataSet = [
 		"Log":"そこにバス停、「シラー通り」があります",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4045,7 +4045,7 @@ var dataSet = [
 		"Log":"Da vorne ist die Haltestelle, 'Schillerstraße'",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4056,7 +4056,7 @@ var dataSet = [
 		"Log":"あ はい。ありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4067,7 +4067,7 @@ var dataSet = [
 		"Log":"A ja. Danke schön.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4078,7 +4078,7 @@ var dataSet = [
 		"Log":"どういたしまして。じゃあまた。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4089,7 +4089,7 @@ var dataSet = [
 		"Log":"Nichts zu danken. Auf Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4100,7 +4100,7 @@ var dataSet = [
 		"Log":"また。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4111,7 +4111,7 @@ var dataSet = [
 		"Log":"Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4122,7 +4122,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン4はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4133,7 +4133,7 @@ var dataSet = [
 		"Log":"Lektion fünf",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4144,7 +4144,7 @@ var dataSet = [
 		"Log":"レッスン5",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4155,7 +4155,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4166,7 +4166,7 @@ var dataSet = [
 		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4177,7 +4177,7 @@ var dataSet = [
 		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4188,7 +4188,7 @@ var dataSet = [
 		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4199,7 +4199,7 @@ var dataSet = [
 		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4210,7 +4210,7 @@ var dataSet = [
 		"Log":"彼女はイタリア人です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4221,7 +4221,7 @@ var dataSet = [
 		"Log":"Sie ist Italienerin.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4232,7 +4232,7 @@ var dataSet = [
 		"Log":"面白いね。兄弟がいますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4243,7 +4243,7 @@ var dataSet = [
 		"Log":"Interessant. Hast du eigentlich Geschwister?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4254,7 +4254,7 @@ var dataSet = [
 		"Log":"はい、私には弟と妹がいます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4265,7 +4265,7 @@ var dataSet = [
 		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4276,7 +4276,7 @@ var dataSet = [
 		"Log":"私の弟はザルツブルクで勉強しています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4287,7 +4287,7 @@ var dataSet = [
 		"Log":"Mein Bruder studiert in Salzburg.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4298,7 +4298,7 @@ var dataSet = [
 		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4309,7 +4309,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4320,7 +4320,7 @@ var dataSet = [
 		"Log":"彼はそこにケーキ屋をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4331,7 +4331,7 @@ var dataSet = [
 		"Log":"Er hat eine Konditorei dort.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4342,7 +4342,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4353,7 +4353,7 @@ var dataSet = [
 		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4364,7 +4364,7 @@ var dataSet = [
 		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4375,7 +4375,7 @@ var dataSet = [
 		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4386,7 +4386,7 @@ var dataSet = [
 		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4397,7 +4397,7 @@ var dataSet = [
 		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4408,7 +4408,7 @@ var dataSet = [
 		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4419,7 +4419,7 @@ var dataSet = [
 		"Log":"彼女はイタリア人です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4430,7 +4430,7 @@ var dataSet = [
 		"Log":"Sie ist Italienerin.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4441,7 +4441,7 @@ var dataSet = [
 		"Log":"Sie ist Italienerin.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4452,7 +4452,7 @@ var dataSet = [
 		"Log":"面白いね。兄弟がいますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4463,7 +4463,7 @@ var dataSet = [
 		"Log":"Interessant. Hast du eigentlich Geschwister?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4474,7 +4474,7 @@ var dataSet = [
 		"Log":"Interessant. Hast du eigentlich Geschwister?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4485,7 +4485,7 @@ var dataSet = [
 		"Log":"はい、私には弟と妹がいます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4496,7 +4496,7 @@ var dataSet = [
 		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4507,7 +4507,7 @@ var dataSet = [
 		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4518,7 +4518,7 @@ var dataSet = [
 		"Log":"私の弟はザルツブルクで勉強しています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4529,7 +4529,7 @@ var dataSet = [
 		"Log":"Mein Bruder studiert in Salzburg.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4540,7 +4540,7 @@ var dataSet = [
 		"Log":"Mein Bruder studiert in Salzburg.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4551,7 +4551,7 @@ var dataSet = [
 		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4562,7 +4562,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4573,7 +4573,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4584,7 +4584,7 @@ var dataSet = [
 		"Log":"彼はそこにケーキ屋をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4595,7 +4595,7 @@ var dataSet = [
 		"Log":"Er hat eine Konditorei dort.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4606,7 +4606,7 @@ var dataSet = [
 		"Log":"Er hat eine Konditorei dort.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4617,7 +4617,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4628,7 +4628,7 @@ var dataSet = [
 		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4639,7 +4639,7 @@ var dataSet = [
 		"Log":"Sag mal, Andrea, sprichst du eigentlich zu Hause Deutsch oder Italienisch?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4650,7 +4650,7 @@ var dataSet = [
 		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4661,7 +4661,7 @@ var dataSet = [
 		"Log":"Mein Vater und ich sprechen immer Deutsch, aber meine Mutter spricht nur Italienisch.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4672,7 +4672,7 @@ var dataSet = [
 		"Log":"彼女はイタリア人です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4683,7 +4683,7 @@ var dataSet = [
 		"Log":"Sie ist Italienerin.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4694,7 +4694,7 @@ var dataSet = [
 		"Log":"面白いね。兄弟がいますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4705,7 +4705,7 @@ var dataSet = [
 		"Log":"Interessant. Hast du eigentlich Geschwister?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4716,7 +4716,7 @@ var dataSet = [
 		"Log":"はい、私には弟と妹がいます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4727,7 +4727,7 @@ var dataSet = [
 		"Log":"Ja, ich habe einen Bruder und eine Schwester.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4738,7 +4738,7 @@ var dataSet = [
 		"Log":"私の弟はザルツブルクで勉強しています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4749,7 +4749,7 @@ var dataSet = [
 		"Log":"Mein Bruder studiert in Salzburg.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4760,7 +4760,7 @@ var dataSet = [
 		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4771,7 +4771,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig. Mein Bruder wohnt auch in Salzburg.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4782,7 +4782,7 @@ var dataSet = [
 		"Log":"彼はそこにケーキ屋をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4793,7 +4793,7 @@ var dataSet = [
 		"Log":"Er hat eine Konditorei dort.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4804,7 +4804,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスンドイツ語はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"中国語",
@@ -4815,7 +4815,7 @@ var dataSet = [
 		"Log":"レッスン1",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4826,7 +4826,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4837,7 +4837,7 @@ var dataSet = [
 		"Log":"すみません、鈴木さんですか?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4848,7 +4848,7 @@ var dataSet = [
 		"Log":"请问, 您 是 铃木 小姐 吗?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4859,7 +4859,7 @@ var dataSet = [
 		"Log":"はい、私は鈴木恵子です。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4870,7 +4870,7 @@ var dataSet = [
 		"Log":"是, 我 是 铃木 惠子。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4881,7 +4881,7 @@ var dataSet = [
 		"Log":"リーさんですか?",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4892,7 +4892,7 @@ var dataSet = [
 		"Log":"您 是 李 先生 吗?",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4903,7 +4903,7 @@ var dataSet = [
 		"Log":"はい、私はリー・ミンです。",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4914,7 +4914,7 @@ var dataSet = [
 		"Log":"是, 我 是 李明。",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4925,7 +4925,7 @@ var dataSet = [
 		"Log":"リー・ミンさん こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4936,7 +4936,7 @@ var dataSet = [
 		"Log":"李明 先生, 你 好!",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4947,7 +4947,7 @@ var dataSet = [
 		"Log":"こんにちは 鈴木さん!",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4958,7 +4958,7 @@ var dataSet = [
 		"Log":"你 好, 铃木 小姐!",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4969,7 +4969,7 @@ var dataSet = [
 		"Log":"次の中国語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4980,7 +4980,7 @@ var dataSet = [
 		"Log":"すみません、鈴木さんですか?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -4991,7 +4991,7 @@ var dataSet = [
 		"Log":"请问, 您 是 铃木 小姐 吗?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5002,7 +5002,7 @@ var dataSet = [
 		"Log":"请问, 您 是 铃木 小姐 吗?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5013,7 +5013,7 @@ var dataSet = [
 		"Log":"はい、私は鈴木恵子です。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5024,7 +5024,7 @@ var dataSet = [
 		"Log":"是, 我 是 铃木 惠子。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5035,7 +5035,7 @@ var dataSet = [
 		"Log":"是, 我 是 铃木 惠子。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5046,7 +5046,7 @@ var dataSet = [
 		"Log":"リーさんですか?",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5057,7 +5057,7 @@ var dataSet = [
 		"Log":"您 是 李 先生 吗?",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5068,7 +5068,7 @@ var dataSet = [
 		"Log":"您 是 李 先生 吗?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5079,7 +5079,7 @@ var dataSet = [
 		"Log":"はい、私はリー・ミンです。",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5090,7 +5090,7 @@ var dataSet = [
 		"Log":"是, 我 是 李明。",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5101,7 +5101,7 @@ var dataSet = [
 		"Log":"是, 我 是 李明。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5112,7 +5112,7 @@ var dataSet = [
 		"Log":"リー・ミンさん こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5123,7 +5123,7 @@ var dataSet = [
 		"Log":"李明 先生, 你 好!",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5134,7 +5134,7 @@ var dataSet = [
 		"Log":"李明 先生, 你 好!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5145,7 +5145,7 @@ var dataSet = [
 		"Log":"こんにちは 鈴木さん!",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5156,7 +5156,7 @@ var dataSet = [
 		"Log":"你 好, 铃木 小姐!",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5167,7 +5167,7 @@ var dataSet = [
 		"Log":"你 好, 铃木 小姐!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5178,7 +5178,7 @@ var dataSet = [
 		"Log":"次の日本語を中国語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5189,7 +5189,7 @@ var dataSet = [
 		"Log":"すみません、鈴木さんですか?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5200,7 +5200,7 @@ var dataSet = [
 		"Log":"请问, 您 是 铃木 小姐 吗?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5211,7 +5211,7 @@ var dataSet = [
 		"Log":"はい、私は鈴木恵子です。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5222,7 +5222,7 @@ var dataSet = [
 		"Log":"是, 我 是 铃木 惠子。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5233,7 +5233,7 @@ var dataSet = [
 		"Log":"リーさんですか?",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5244,7 +5244,7 @@ var dataSet = [
 		"Log":"您 是 李 先生 吗?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5255,7 +5255,7 @@ var dataSet = [
 		"Log":"はい、私はリー・ミンです。",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5266,7 +5266,7 @@ var dataSet = [
 		"Log":"是, 我 是 李明。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5277,7 +5277,7 @@ var dataSet = [
 		"Log":"リー・ミンさん こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5288,7 +5288,7 @@ var dataSet = [
 		"Log":"李明 先生, 你 好!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5299,7 +5299,7 @@ var dataSet = [
 		"Log":"こんにちは 鈴木さん!",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5310,7 +5310,7 @@ var dataSet = [
 		"Log":"你 好, 铃木 小姐!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5321,7 +5321,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5332,7 +5332,7 @@ var dataSet = [
 		"Log":"レッスン2",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5343,7 +5343,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5354,7 +5354,7 @@ var dataSet = [
 		"Log":"お父さんは元気?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5365,7 +5365,7 @@ var dataSet = [
 		"Log":"你 爸爸 好 吗?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5376,7 +5376,7 @@ var dataSet = [
 		"Log":"ありがとう、彼は元気です。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5387,7 +5387,7 @@ var dataSet = [
 		"Log":"谢谢, 他 很 好。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5398,7 +5398,7 @@ var dataSet = [
 		"Log":"お父さんは 忙しいの?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5409,7 +5409,7 @@ var dataSet = [
 		"Log":"你 爸爸 忙 不忙?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5420,7 +5420,7 @@ var dataSet = [
 		"Log":"彼はとても忙しい。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5431,7 +5431,7 @@ var dataSet = [
 		"Log":"他　很　忙。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5442,7 +5442,7 @@ var dataSet = [
 		"Log":"お母さんは?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5453,7 +5453,7 @@ var dataSet = [
 		"Log":"你　妈妈　呢?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5464,7 +5464,7 @@ var dataSet = [
 		"Log":"彼女はそれほど忙しくありません。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5475,7 +5475,7 @@ var dataSet = [
 		"Log":"她　不　太　忙。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5486,7 +5486,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5497,7 +5497,7 @@ var dataSet = [
 		"Log":"お父さんは元気?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5508,7 +5508,7 @@ var dataSet = [
 		"Log":"你 爸爸 好 吗?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5519,7 +5519,7 @@ var dataSet = [
 		"Log":"你 爸爸 好 吗?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5530,7 +5530,7 @@ var dataSet = [
 		"Log":"ありがとう、彼は元気です。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5541,7 +5541,7 @@ var dataSet = [
 		"Log":"谢谢, 他 很 好。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5552,7 +5552,7 @@ var dataSet = [
 		"Log":"谢谢, 他 很 好。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5563,7 +5563,7 @@ var dataSet = [
 		"Log":"お父さんは 忙しいの?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5574,7 +5574,7 @@ var dataSet = [
 		"Log":"你 爸爸 忙 不忙?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5585,7 +5585,7 @@ var dataSet = [
 		"Log":"你 爸爸 忙 不忙?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5596,7 +5596,7 @@ var dataSet = [
 		"Log":"彼はとても忙しい。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5607,7 +5607,7 @@ var dataSet = [
 		"Log":"他　很　忙。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5618,7 +5618,7 @@ var dataSet = [
 		"Log":"他　很　忙。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5629,7 +5629,7 @@ var dataSet = [
 		"Log":"お母さんは?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5640,7 +5640,7 @@ var dataSet = [
 		"Log":"你　妈妈　呢?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5651,7 +5651,7 @@ var dataSet = [
 		"Log":"你　妈妈　呢?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5662,7 +5662,7 @@ var dataSet = [
 		"Log":"彼女はそれほど忙しくありません。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5673,7 +5673,7 @@ var dataSet = [
 		"Log":"她　不　太　忙。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5684,7 +5684,7 @@ var dataSet = [
 		"Log":"她　不　太　忙。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5695,7 +5695,7 @@ var dataSet = [
 		"Log":"次の日本語を中国語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5706,7 +5706,7 @@ var dataSet = [
 		"Log":"お父さんは元気?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5717,7 +5717,7 @@ var dataSet = [
 		"Log":"你 爸爸 好 吗?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5728,7 +5728,7 @@ var dataSet = [
 		"Log":"ありがとう、彼は元気です。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5739,7 +5739,7 @@ var dataSet = [
 		"Log":"谢谢, 他 很 好。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5750,7 +5750,7 @@ var dataSet = [
 		"Log":"お父さんは 忙しいの?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5761,7 +5761,7 @@ var dataSet = [
 		"Log":"你 爸爸 忙 不忙?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5772,7 +5772,7 @@ var dataSet = [
 		"Log":"彼はとても忙しい。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5783,7 +5783,7 @@ var dataSet = [
 		"Log":"他　很　忙。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5794,7 +5794,7 @@ var dataSet = [
 		"Log":"お母さんは?",
 		"type":"a",
 		"icon":"assets/icons/image144.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5805,7 +5805,7 @@ var dataSet = [
 		"Log":"你　妈妈　呢?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5816,7 +5816,7 @@ var dataSet = [
 		"Log":"彼女はそれほど忙しくありません。",
 		"type":"a",
 		"icon":"assets/icons/image037.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5827,7 +5827,7 @@ var dataSet = [
 		"Log":"她　不　太　忙。",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"中国語",
@@ -5838,7 +5838,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"zh"
+		"say":"zh-CN"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5849,7 +5849,7 @@ var dataSet = [
 		"Log":"Lektion sechs",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5860,7 +5860,7 @@ var dataSet = [
 		"Log":"レッスン6",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5871,7 +5871,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5882,7 +5882,7 @@ var dataSet = [
 		"Log":"おはよう田中さん。あら、何を持っているんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5893,7 +5893,7 @@ var dataSet = [
 		"Log":"Morgen, Herr Tanaka. Oh, was haben Sie da?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5904,7 +5904,7 @@ var dataSet = [
 		"Log":"これは柔道着です。わたしは柔道をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5915,7 +5915,7 @@ var dataSet = [
 		"Log":"Das ist ein Judogi. Ich mache Judo.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5926,7 +5926,7 @@ var dataSet = [
 		"Log":"凄い！それは定期的に行っていますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5937,7 +5937,7 @@ var dataSet = [
 		"Log":"Toll! Machen Sie das regelmäßig?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5948,7 +5948,7 @@ var dataSet = [
 		"Log":"はい、毎朝トレーニングに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5959,7 +5959,7 @@ var dataSet = [
 		"Log":"Ja, ich gehe jeden Morgen zum Training.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5970,7 +5970,7 @@ var dataSet = [
 		"Log":"シュナイダーさんも、スポーツをしますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5981,7 +5981,7 @@ var dataSet = [
 		"Log":"Machen Sie auch Sport, Frau Schneider?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5992,7 +5992,7 @@ var dataSet = [
 		"Log":"はい、サイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6003,7 +6003,7 @@ var dataSet = [
 		"Log":"Ja, ich fahre gern Rad.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6014,7 +6014,7 @@ var dataSet = [
 		"Log":"夫もサイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6025,7 +6025,7 @@ var dataSet = [
 		"Log":"Auch mein Mann fährt gern Rad.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6036,7 +6036,7 @@ var dataSet = [
 		"Log":"週末には自転車ツアーをよくします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6047,7 +6047,7 @@ var dataSet = [
 		"Log":"Wir machen oft Radtouren am Wochenende.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6058,7 +6058,7 @@ var dataSet = [
 		"Log":"それはいいですね。サイクリングも私の趣味です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6069,7 +6069,7 @@ var dataSet = [
 		"Log":"Das ist ja schön. Radfahren ist auch mein Hobby.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6080,7 +6080,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6091,7 +6091,7 @@ var dataSet = [
 		"Log":"これは柔道着です。わたしは柔道をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6102,7 +6102,7 @@ var dataSet = [
 		"Log":"Das ist ein Judogi. Ich mache Judo.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6113,7 +6113,7 @@ var dataSet = [
 		"Log":"Das ist ein Judogi. Ich mache Judo.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6124,7 +6124,7 @@ var dataSet = [
 		"Log":"凄い！それは定期的に行っていますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6135,7 +6135,7 @@ var dataSet = [
 		"Log":"Toll! Machen Sie das regelmäßig?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6146,7 +6146,7 @@ var dataSet = [
 		"Log":"Toll! Machen Sie das regelmäßig?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6157,7 +6157,7 @@ var dataSet = [
 		"Log":"はい、毎朝トレーニングに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6168,7 +6168,7 @@ var dataSet = [
 		"Log":"Ja, ich gehe jeden Morgen zum Training.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6179,7 +6179,7 @@ var dataSet = [
 		"Log":"Ja, ich gehe jeden Morgen zum Training.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6190,7 +6190,7 @@ var dataSet = [
 		"Log":"シュナイダーさんも、スポーツをしますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6201,7 +6201,7 @@ var dataSet = [
 		"Log":"Machen Sie auch Sport, Frau Schneider?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6212,7 +6212,7 @@ var dataSet = [
 		"Log":"Machen Sie auch Sport, Frau Schneider?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6223,7 +6223,7 @@ var dataSet = [
 		"Log":"はい、サイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6234,7 +6234,7 @@ var dataSet = [
 		"Log":"Ja, ich fahre gern Rad.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6245,7 +6245,7 @@ var dataSet = [
 		"Log":"Ja, ich fahre gern Rad.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6256,7 +6256,7 @@ var dataSet = [
 		"Log":"夫もサイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6267,7 +6267,7 @@ var dataSet = [
 		"Log":"Auch mein Mann fährt gern Rad.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6278,7 +6278,7 @@ var dataSet = [
 		"Log":"Auch mein Mann fährt gern Rad.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6289,7 +6289,7 @@ var dataSet = [
 		"Log":"週末には自転車ツアーをよくします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6300,7 +6300,7 @@ var dataSet = [
 		"Log":"Wir machen oft Radtouren am Wochenende.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6311,7 +6311,7 @@ var dataSet = [
 		"Log":"Wir machen oft Radtouren am Wochenende.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6322,7 +6322,7 @@ var dataSet = [
 		"Log":"それはいいですね。サイクリングも私の趣味です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6333,7 +6333,7 @@ var dataSet = [
 		"Log":"Das ist ja schön. Radfahren ist auch mein Hobby.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6344,7 +6344,7 @@ var dataSet = [
 		"Log":"Das ist ja schön. Radfahren ist auch mein Hobby.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6355,7 +6355,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6366,7 +6366,7 @@ var dataSet = [
 		"Log":"これは柔道着です。わたしは柔道をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6377,7 +6377,7 @@ var dataSet = [
 		"Log":"Das ist ein Judogi. Ich mache Judo.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6388,7 +6388,7 @@ var dataSet = [
 		"Log":"凄い！それは定期的に行っていますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6399,7 +6399,7 @@ var dataSet = [
 		"Log":"Toll! Machen Sie das regelmäßig?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6410,7 +6410,7 @@ var dataSet = [
 		"Log":"はい、毎朝トレーニングに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6421,7 +6421,7 @@ var dataSet = [
 		"Log":"Ja, ich gehe jeden Morgen zum Training.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6432,7 +6432,7 @@ var dataSet = [
 		"Log":"シュナイダーさんも、スポーツをしますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6443,7 +6443,7 @@ var dataSet = [
 		"Log":"Machen Sie auch Sport, Frau Schneider?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6454,7 +6454,7 @@ var dataSet = [
 		"Log":"はい、サイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6465,7 +6465,7 @@ var dataSet = [
 		"Log":"Ja, ich fahre gern Rad.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6476,7 +6476,7 @@ var dataSet = [
 		"Log":"夫もサイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6487,7 +6487,7 @@ var dataSet = [
 		"Log":"Auch mein Mann fährt gern Rad.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6498,7 +6498,7 @@ var dataSet = [
 		"Log":"週末には自転車ツアーをよくします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6509,7 +6509,7 @@ var dataSet = [
 		"Log":"Wir machen oft Radtouren am Wochenende.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6520,7 +6520,7 @@ var dataSet = [
 		"Log":"それはいいですね。サイクリングも私の趣味です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6531,7 +6531,7 @@ var dataSet = [
 		"Log":"Das ist ja schön. Radfahren ist auch mein Hobby.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6542,7 +6542,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン6はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6553,7 +6553,7 @@ var dataSet = [
 		"Log":"Lektion sieben",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6564,7 +6564,7 @@ var dataSet = [
 		"Log":"レッスン7",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6575,7 +6575,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6586,7 +6586,7 @@ var dataSet = [
 		"Log":"こんにちは。ご注文は何ですか?(あなたは何が欲しいですか?)",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6597,7 +6597,7 @@ var dataSet = [
 		"Log":"Guten Tag. Was darf's denn sein?",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6608,7 +6608,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6619,7 +6619,7 @@ var dataSet = [
 		"Log":"Ich hätte gern einen Käsekuchen und eine Tasse Tee.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6630,7 +6630,7 @@ var dataSet = [
 		"Log":"すぐにお持ちします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6641,7 +6641,7 @@ var dataSet = [
 		"Log":"Kommt sofort.",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6652,7 +6652,7 @@ var dataSet = [
 		"Log":"(しばらくして)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6663,7 +6663,7 @@ var dataSet = [
 		"Log":"(Nach einer Weile)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6674,7 +6674,7 @@ var dataSet = [
 		"Log":"すみません。お会計をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6685,7 +6685,7 @@ var dataSet = [
 		"Log":"Entschuldigung. Zahlen, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6696,7 +6696,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶、合計7ユーロ50をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6707,7 +6707,7 @@ var dataSet = [
 		"Log":"Ein Käsekuchen und eine Tasse Tee, das macht zusammen Sieben Euro Fünfzig, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6718,7 +6718,7 @@ var dataSet = [
 		"Log":"8ユーロでお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6729,7 +6729,7 @@ var dataSet = [
 		"Log":"Acht, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6740,7 +6740,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そして2つのお釣りです。よい一日を。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6751,7 +6751,7 @@ var dataSet = [
 		"Log":"Danke schön. Und zwei zurück. Schönen Tag noch.",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6762,7 +6762,7 @@ var dataSet = [
 		"Log":"どうもありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6773,7 +6773,7 @@ var dataSet = [
 		"Log":"Danke, gleichfalls.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6784,7 +6784,7 @@ var dataSet = [
 		"Log":"次のを真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6795,7 +6795,7 @@ var dataSet = [
 		"Log":"こんにちは。ご注文は何ですか?(あなたは何が欲しいですか?)",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6806,7 +6806,7 @@ var dataSet = [
 		"Log":"Guten Tag. Was darf's denn sein?",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6817,7 +6817,7 @@ var dataSet = [
 		"Log":"Guten Tag. Was darf's denn sein?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6828,7 +6828,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6839,7 +6839,7 @@ var dataSet = [
 		"Log":"Ich hätte gern einen Käsekuchen und eine Tasse Tee.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6850,7 +6850,7 @@ var dataSet = [
 		"Log":"Ich hätte gern einen Käsekuchen und eine Tasse Tee.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6861,7 +6861,7 @@ var dataSet = [
 		"Log":"すぐにお持ちします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6872,7 +6872,7 @@ var dataSet = [
 		"Log":"Kommt sofort.",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6883,7 +6883,7 @@ var dataSet = [
 		"Log":"Kommt sofort.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6894,7 +6894,7 @@ var dataSet = [
 		"Log":"(しばらくして)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6905,7 +6905,7 @@ var dataSet = [
 		"Log":"(Nach einer Weile)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6916,7 +6916,7 @@ var dataSet = [
 		"Log":"(Nach einer Weile)",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6927,7 +6927,7 @@ var dataSet = [
 		"Log":"すみません。お会計をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6938,7 +6938,7 @@ var dataSet = [
 		"Log":"Entschuldigung. Zahlen, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6949,7 +6949,7 @@ var dataSet = [
 		"Log":"Entschuldigung. Zahlen, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6960,7 +6960,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶、合計7ユーロ50をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6971,7 +6971,7 @@ var dataSet = [
 		"Log":"Ein Käsekuchen und eine Tasse Tee, das macht zusammen Sieben Euro Fünfzig, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6982,7 +6982,7 @@ var dataSet = [
 		"Log":"Ein Käsekuchen und eine Tasse Tee, das macht zusammen Sieben Euro Fünfzig, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6993,7 +6993,7 @@ var dataSet = [
 		"Log":"8ユーロでお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7004,7 +7004,7 @@ var dataSet = [
 		"Log":"Acht, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7015,7 +7015,7 @@ var dataSet = [
 		"Log":"Acht, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7026,7 +7026,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そして2つのお釣りです。よい一日を。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7037,7 +7037,7 @@ var dataSet = [
 		"Log":"Danke schön. Und zwei zurück. Schönen Tag noch.",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7048,7 +7048,7 @@ var dataSet = [
 		"Log":"Danke schön. Und zwei zurück. Schönen Tag noch.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7059,7 +7059,7 @@ var dataSet = [
 		"Log":"どうもありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7070,7 +7070,7 @@ var dataSet = [
 		"Log":"Danke, gleichfalls.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7081,7 +7081,7 @@ var dataSet = [
 		"Log":"Danke, gleichfalls.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7092,7 +7092,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7103,7 +7103,7 @@ var dataSet = [
 		"Log":"こんにちは。ご注文は何ですか?(あなたは何が欲しいですか?)",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7114,7 +7114,7 @@ var dataSet = [
 		"Log":"Guten Tag. Was darf's denn sein?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7125,7 +7125,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7136,7 +7136,7 @@ var dataSet = [
 		"Log":"Ich hätte gern einen Käsekuchen und eine Tasse Tee.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7147,7 +7147,7 @@ var dataSet = [
 		"Log":"すぐにお持ちします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7158,7 +7158,7 @@ var dataSet = [
 		"Log":"Kommt sofort.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7169,7 +7169,7 @@ var dataSet = [
 		"Log":"(しばらくして)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7180,7 +7180,7 @@ var dataSet = [
 		"Log":"(Nach einer Weile)",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7191,7 +7191,7 @@ var dataSet = [
 		"Log":"すみません。お会計をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7202,7 +7202,7 @@ var dataSet = [
 		"Log":"Entschuldigung. Zahlen, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7213,7 +7213,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶、合計7ユーロ50をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7224,7 +7224,7 @@ var dataSet = [
 		"Log":"Ein Käsekuchen und eine Tasse Tee, das macht zusammen Sieben Euro Fünfzig, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7235,7 +7235,7 @@ var dataSet = [
 		"Log":"8ユーロでお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7246,7 +7246,7 @@ var dataSet = [
 		"Log":"Acht, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7257,7 +7257,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そして50セントのお釣りです。よい一日を。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7268,7 +7268,7 @@ var dataSet = [
 		"Log":"Danke schön. Und fuenfzig cent zurück. Schönen Tag noch.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7279,7 +7279,7 @@ var dataSet = [
 		"Log":"どうもありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7290,7 +7290,7 @@ var dataSet = [
 		"Log":"Danke, gleichfalls.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7301,7 +7301,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン7はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7312,7 +7312,7 @@ var dataSet = [
 		"Log":"Lektion acht",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7323,7 +7323,7 @@ var dataSet = [
 		"Log":"レッスン8",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7334,7 +7334,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7345,7 +7345,7 @@ var dataSet = [
 		"Log":"こんにちは。ベルリン行きのチケットが欲しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7356,7 +7356,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich möchte eine Fahrkarte nach Berlin.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7367,7 +7367,7 @@ var dataSet = [
 		"Log":"2等席で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7378,7 +7378,7 @@ var dataSet = [
 		"Log":"Zweiter Klasse.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7389,7 +7389,7 @@ var dataSet = [
 		"Log":"片道ですか、それとも往復ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7400,7 +7400,7 @@ var dataSet = [
 		"Log":"Einfach oder hin und zurück?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7411,7 +7411,7 @@ var dataSet = [
 		"Log":"片道でお願いします。それで席も予約したいのですが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7422,7 +7422,7 @@ var dataSet = [
 		"Log":"Einfach, bitte. Und ich möchte auch einen Platz reservieren. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7433,7 +7433,7 @@ var dataSet = [
 		"Log":"すぐに出ます。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7444,7 +7444,7 @@ var dataSet = [
 		"Log":"Für jetzt gleich.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7455,7 +7455,7 @@ var dataSet = [
 		"Log":"午前9時23分、で良いですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7466,7 +7466,7 @@ var dataSet = [
 		"Log":"9.23 Uhr,　ja? ",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7477,7 +7477,7 @@ var dataSet = [
 		"Log":"喫煙ですか、それとも禁煙ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7488,7 +7488,7 @@ var dataSet = [
 		"Log":"Raucher oder Nichtraucher?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7499,7 +7499,7 @@ var dataSet = [
 		"Log":"禁煙でお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7510,7 +7510,7 @@ var dataSet = [
 		"Log":"Nichtraucher, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7521,7 +7521,7 @@ var dataSet = [
 		"Log":"列車は何時にベルリンに到着しますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7532,7 +7532,7 @@ var dataSet = [
 		"Log":"Wann kommt der Zug in Berlin an?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7543,7 +7543,7 @@ var dataSet = [
 		"Log":"午後1時15分です。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7554,7 +7554,7 @@ var dataSet = [
 		"Log":"Um 13.15 Uhr.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7565,7 +7565,7 @@ var dataSet = [
 		"Log":"ここにすべて書いてあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7576,7 +7576,7 @@ var dataSet = [
 		"Log":"Das steht alles hier.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7587,7 +7587,7 @@ var dataSet = [
 		"Log":"それでは55,70ユーロ、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7598,7 +7598,7 @@ var dataSet = [
 		"Log":"55,70 Euro dann, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7609,7 +7609,7 @@ var dataSet = [
 		"Log":"(nach einer minute)",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7620,7 +7620,7 @@ var dataSet = [
 		"Log":"ありがとうございました。良い旅を。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7631,7 +7631,7 @@ var dataSet = [
 		"Log":"Danke. Gute Reise.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7642,7 +7642,7 @@ var dataSet = [
 		"Log":"ありがとうございました。じゃあ、また。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7653,7 +7653,7 @@ var dataSet = [
 		"Log":"Danke. Auf Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7664,7 +7664,7 @@ var dataSet = [
 		"Log":"次のを真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7675,7 +7675,7 @@ var dataSet = [
 		"Log":"こんにちは。ベルリン行きのチケットが欲しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7686,7 +7686,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich möchte eine Fahrkarte nach Berlin.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7697,7 +7697,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich möchte eine Fahrkarte nach Berlin.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7708,7 +7708,7 @@ var dataSet = [
 		"Log":"2等席で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7719,7 +7719,7 @@ var dataSet = [
 		"Log":"Zweiter Klasse.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7730,7 +7730,7 @@ var dataSet = [
 		"Log":"Zweiter Klasse.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7741,7 +7741,7 @@ var dataSet = [
 		"Log":"片道ですか、それとも往復ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7752,7 +7752,7 @@ var dataSet = [
 		"Log":"Einfach oder hin und zurück?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7763,7 +7763,7 @@ var dataSet = [
 		"Log":"Einfach oder hin und zurück?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7774,7 +7774,7 @@ var dataSet = [
 		"Log":"片道でお願いします。それで席も予約したいのですが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7785,7 +7785,7 @@ var dataSet = [
 		"Log":"Einfach, bitte. Und ich möchte auch einen Platz reservieren. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7796,7 +7796,7 @@ var dataSet = [
 		"Log":"Einfach, bitte. Und ich möchte auch einen Platz reservieren. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7807,7 +7807,7 @@ var dataSet = [
 		"Log":"すぐに出ます。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7818,7 +7818,7 @@ var dataSet = [
 		"Log":"Für jetzt gleich.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7829,7 +7829,7 @@ var dataSet = [
 		"Log":"Für jetzt gleich.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7840,7 +7840,7 @@ var dataSet = [
 		"Log":"午前9時23分、で良いですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7851,7 +7851,7 @@ var dataSet = [
 		"Log":"9.23 Uhr,　ja? ",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7862,7 +7862,7 @@ var dataSet = [
 		"Log":"9.23 Uhr,　ja? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7873,7 +7873,7 @@ var dataSet = [
 		"Log":"喫煙ですか、それとも禁煙ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7884,7 +7884,7 @@ var dataSet = [
 		"Log":"Raucher oder Nichtraucher?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7895,7 +7895,7 @@ var dataSet = [
 		"Log":"Raucher oder Nichtraucher?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7906,7 +7906,7 @@ var dataSet = [
 		"Log":"禁煙でお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7917,7 +7917,7 @@ var dataSet = [
 		"Log":"Nichtraucher, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7928,7 +7928,7 @@ var dataSet = [
 		"Log":"Nichtraucher, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7939,7 +7939,7 @@ var dataSet = [
 		"Log":"列車は何時にベルリンに到着しますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7950,7 +7950,7 @@ var dataSet = [
 		"Log":"Wann kommt der Zug in Berlin an?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7961,7 +7961,7 @@ var dataSet = [
 		"Log":"Wann kommt der Zug in Berlin an?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7972,7 +7972,7 @@ var dataSet = [
 		"Log":"午後1時15分です。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7983,7 +7983,7 @@ var dataSet = [
 		"Log":"Um 13.15 Uhr.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7994,7 +7994,7 @@ var dataSet = [
 		"Log":"Um 13.15 Uhr.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8005,7 +8005,7 @@ var dataSet = [
 		"Log":"ここにすべて書いてあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8016,7 +8016,7 @@ var dataSet = [
 		"Log":"Das steht alles hier.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8027,7 +8027,7 @@ var dataSet = [
 		"Log":"Das steht alles hier.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8038,7 +8038,7 @@ var dataSet = [
 		"Log":"それでは55,70ユーロ、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8049,7 +8049,7 @@ var dataSet = [
 		"Log":"55,70 Euro dann, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8060,7 +8060,7 @@ var dataSet = [
 		"Log":"55,70 Euro dann, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8071,7 +8071,7 @@ var dataSet = [
 		"Log":"(nach einer minute)",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8082,7 +8082,7 @@ var dataSet = [
 		"Log":"ありがとうございました。良い旅を。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8093,7 +8093,7 @@ var dataSet = [
 		"Log":"Danke. Gute Reise.",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8104,7 +8104,7 @@ var dataSet = [
 		"Log":"Danke. Gute Reise.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8115,7 +8115,7 @@ var dataSet = [
 		"Log":"ありがとうございました。じゃあ、また。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8126,7 +8126,7 @@ var dataSet = [
 		"Log":"Danke. Auf Wiedersehen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8137,7 +8137,7 @@ var dataSet = [
 		"Log":"Danke. Auf Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8148,7 +8148,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8159,7 +8159,7 @@ var dataSet = [
 		"Log":"こんにちは。ベルリン行きのチケットが欲しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8170,7 +8170,7 @@ var dataSet = [
 		"Log":"Guten Tag. Ich möchte eine Fahrkarte nach Berlin.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8181,7 +8181,7 @@ var dataSet = [
 		"Log":"2等席で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8192,7 +8192,7 @@ var dataSet = [
 		"Log":"Zweiter Klasse.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8203,7 +8203,7 @@ var dataSet = [
 		"Log":"片道ですか、それとも往復ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8214,7 +8214,7 @@ var dataSet = [
 		"Log":"Einfach oder hin und zurück?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8225,7 +8225,7 @@ var dataSet = [
 		"Log":"片道でお願いします。それで席も予約したいのですが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8236,7 +8236,7 @@ var dataSet = [
 		"Log":"Einfach, bitte. Und ich möchte auch einen Platz reservieren. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8247,7 +8247,7 @@ var dataSet = [
 		"Log":"すぐに出ます。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8258,7 +8258,7 @@ var dataSet = [
 		"Log":"Für jetzt gleich.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8269,7 +8269,7 @@ var dataSet = [
 		"Log":"午前9時23分、で良いですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8280,7 +8280,7 @@ var dataSet = [
 		"Log":"9.23 Uhr,　ja? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8291,7 +8291,7 @@ var dataSet = [
 		"Log":"喫煙ですか、それとも禁煙ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8302,7 +8302,7 @@ var dataSet = [
 		"Log":"Raucher oder Nichtraucher?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8313,7 +8313,7 @@ var dataSet = [
 		"Log":"禁煙でお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8324,7 +8324,7 @@ var dataSet = [
 		"Log":"Nichtraucher, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8335,7 +8335,7 @@ var dataSet = [
 		"Log":"列車は何時にベルリンに到着しますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8346,7 +8346,7 @@ var dataSet = [
 		"Log":"Wann kommt der Zug in Berlin an?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8357,7 +8357,7 @@ var dataSet = [
 		"Log":"午後1時15分です。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8368,7 +8368,7 @@ var dataSet = [
 		"Log":"Um 13.15 Uhr.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8379,7 +8379,7 @@ var dataSet = [
 		"Log":"ここにすべて書いてあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8390,7 +8390,7 @@ var dataSet = [
 		"Log":"Das steht alles hier.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8401,7 +8401,7 @@ var dataSet = [
 		"Log":"それでは55,70ユーロ、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8412,7 +8412,7 @@ var dataSet = [
 		"Log":"55,70 Euro dann, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8423,7 +8423,7 @@ var dataSet = [
 		"Log":"(nach einer minute)",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8434,7 +8434,7 @@ var dataSet = [
 		"Log":"ありがとうございました。良い旅を。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8445,7 +8445,7 @@ var dataSet = [
 		"Log":"Danke. Gute Reise.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8456,7 +8456,7 @@ var dataSet = [
 		"Log":"ありがとうございました。じゃあ、また。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8467,7 +8467,7 @@ var dataSet = [
 		"Log":"Danke. Auf Wiedersehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8478,7 +8478,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン8はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8489,7 +8489,7 @@ var dataSet = [
 		"Log":"Lektion neun",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8500,7 +8500,7 @@ var dataSet = [
 		"Log":"レッスン9",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8511,7 +8511,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8522,7 +8522,7 @@ var dataSet = [
 		"Log":"(PRRR.)はい、田中。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8533,7 +8533,7 @@ var dataSet = [
 		"Log":"(prrr.)Tanaka.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8544,7 +8544,7 @@ var dataSet = [
 		"Log":"こんにちは、ケン。アンドレアです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8555,7 +8555,7 @@ var dataSet = [
 		"Log":"Hallo, Ken. Hier spricht Andrea.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8566,7 +8566,7 @@ var dataSet = [
 		"Log":"ねえ、ピーターと私はコンサートに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8577,7 +8577,7 @@ var dataSet = [
 		"Log":"Weißt du, Peter und ich gehen in ein Konzert.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8588,7 +8588,7 @@ var dataSet = [
 		"Log":"ベートーベンの第九です。一緒に行きませんか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8599,7 +8599,7 @@ var dataSet = [
 		"Log":"Beethovens Neunte. Kommst du auch mit?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8610,7 +8610,7 @@ var dataSet = [
 		"Log":"はい、喜んで。それはいつ始まりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8621,7 +8621,7 @@ var dataSet = [
 		"Log":"Ja, gerne. Wann beginnt es denn?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8632,7 +8632,7 @@ var dataSet = [
 		"Log":"7時に。6時に迎えに行くので良いですか？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8643,7 +8643,7 @@ var dataSet = [
 		"Log":"Um sieben. Ich hole dich um sechs zu Hause ab, ja?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8654,7 +8654,7 @@ var dataSet = [
 		"Log":"それはご親切に。しかし、私はまだ買い物をしなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8665,7 +8665,7 @@ var dataSet = [
 		"Log":"Das ist nett von dir. Aber ich muss noch einkaufen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8676,7 +8676,7 @@ var dataSet = [
 		"Log":"6時半頃には来てもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8687,7 +8687,7 @@ var dataSet = [
 		"Log":"Kannst du gegen halb sieben vorbeikommen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8698,7 +8698,7 @@ var dataSet = [
 		"Log":"はい、それでは6時半に行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8709,7 +8709,7 @@ var dataSet = [
 		"Log":"Gut, dann komme ich erst um halb sieben.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8720,7 +8720,7 @@ var dataSet = [
 		"Log":"じゃあ、また!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8731,7 +8731,7 @@ var dataSet = [
 		"Log":"Bis dann!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8742,7 +8742,7 @@ var dataSet = [
 		"Log":"じゃあ、また。さようなら！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8753,7 +8753,7 @@ var dataSet = [
 		"Log":"Bis später. Tschüs!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8764,7 +8764,7 @@ var dataSet = [
 		"Log":"次のを真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8775,7 +8775,7 @@ var dataSet = [
 		"Log":"(PRRR.)はい、田中。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8786,7 +8786,7 @@ var dataSet = [
 		"Log":"(prrr.)Tanaka.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8797,7 +8797,7 @@ var dataSet = [
 		"Log":"(prrr.)Tanaka.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8808,7 +8808,7 @@ var dataSet = [
 		"Log":"こんにちは、ケン。アンドレアです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8819,7 +8819,7 @@ var dataSet = [
 		"Log":"Hallo, Ken. Hier spricht Andrea.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8830,7 +8830,7 @@ var dataSet = [
 		"Log":"Hallo, Ken. Hier spricht Andrea.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8841,7 +8841,7 @@ var dataSet = [
 		"Log":"ねえ、ピーターと私はコンサートに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8852,7 +8852,7 @@ var dataSet = [
 		"Log":"Weißt du, Peter und ich gehen in ein Konzert.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8863,7 +8863,7 @@ var dataSet = [
 		"Log":"Weißt du, Peter und ich gehen in ein Konzert.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8874,7 +8874,7 @@ var dataSet = [
 		"Log":"ベートーベンの第九です。一緒に行きませんか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8885,7 +8885,7 @@ var dataSet = [
 		"Log":"Beethovens Neunte. Kommst du auch mit?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8896,7 +8896,7 @@ var dataSet = [
 		"Log":"Beethovens Neunte. Kommst du auch mit?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8907,7 +8907,7 @@ var dataSet = [
 		"Log":"はい、喜んで。それはいつ始まりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8918,7 +8918,7 @@ var dataSet = [
 		"Log":"Ja, gerne. Wann beginnt es denn?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8929,7 +8929,7 @@ var dataSet = [
 		"Log":"Ja, gerne. Wann beginnt es denn?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8940,7 +8940,7 @@ var dataSet = [
 		"Log":"7時に。6時に迎えに行くので良いですか？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8951,7 +8951,7 @@ var dataSet = [
 		"Log":"Um sieben. Ich hole dich um sechs zu Hause ab, ja?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8962,7 +8962,7 @@ var dataSet = [
 		"Log":"Um sieben. Ich hole dich um sechs zu Hause ab, ja?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8973,7 +8973,7 @@ var dataSet = [
 		"Log":"それはご親切に。しかし、私はまだ買い物をしなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8984,7 +8984,7 @@ var dataSet = [
 		"Log":"Das ist nett von dir. Aber ich muss noch einkaufen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8995,7 +8995,7 @@ var dataSet = [
 		"Log":"Das ist nett von dir. Aber ich muss noch einkaufen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9006,7 +9006,7 @@ var dataSet = [
 		"Log":"6時半頃には来てもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9017,7 +9017,7 @@ var dataSet = [
 		"Log":"Kannst du gegen halb sieben vorbeikommen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9028,7 +9028,7 @@ var dataSet = [
 		"Log":"Kannst du gegen halb sieben vorbeikommen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9039,7 +9039,7 @@ var dataSet = [
 		"Log":"はい、それでは6時半に行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9050,7 +9050,7 @@ var dataSet = [
 		"Log":"Gut, dann komme ich erst um halb sieben.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9061,7 +9061,7 @@ var dataSet = [
 		"Log":"Gut, dann komme ich erst um halb sieben.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9072,7 +9072,7 @@ var dataSet = [
 		"Log":"じゃあ、また!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9083,7 +9083,7 @@ var dataSet = [
 		"Log":"Bis dann!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9094,7 +9094,7 @@ var dataSet = [
 		"Log":"Bis dann!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9105,7 +9105,7 @@ var dataSet = [
 		"Log":"じゃあ、また。さようなら！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9116,7 +9116,7 @@ var dataSet = [
 		"Log":"Bis später. Tschüs!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9127,7 +9127,7 @@ var dataSet = [
 		"Log":"Bis später. Tschüs!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9138,7 +9138,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9149,7 +9149,7 @@ var dataSet = [
 		"Log":"(PRRR.)はい、田中。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9160,7 +9160,7 @@ var dataSet = [
 		"Log":"(prrr.)Tanaka.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9171,7 +9171,7 @@ var dataSet = [
 		"Log":"こんにちは、ケン。アンドレアです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9182,7 +9182,7 @@ var dataSet = [
 		"Log":"Hallo, Ken. Hier spricht Andrea.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9193,7 +9193,7 @@ var dataSet = [
 		"Log":"ねえ、ピーターと私はコンサートに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9204,7 +9204,7 @@ var dataSet = [
 		"Log":"Weißt du, Peter und ich gehen in ein Konzert.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9215,7 +9215,7 @@ var dataSet = [
 		"Log":"ベートーベンの第九です。一緒に行きませんか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9226,7 +9226,7 @@ var dataSet = [
 		"Log":"Beethovens Neunte. Kommst du auch mit?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9237,7 +9237,7 @@ var dataSet = [
 		"Log":"はい、喜んで。それはいつ始まりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9248,7 +9248,7 @@ var dataSet = [
 		"Log":"Ja, gerne. Wann beginnt es denn?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9259,7 +9259,7 @@ var dataSet = [
 		"Log":"7時に。6時に迎えに行くので良いですか？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9270,7 +9270,7 @@ var dataSet = [
 		"Log":"Um sieben. Ich hole dich um sechs zu Hause ab, ja?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9281,7 +9281,7 @@ var dataSet = [
 		"Log":"それはご親切に。しかし、私はまだ買い物をしなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9292,7 +9292,7 @@ var dataSet = [
 		"Log":"Das ist nett von dir. Aber ich muss noch einkaufen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9303,7 +9303,7 @@ var dataSet = [
 		"Log":"6時半頃には来てもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9314,7 +9314,7 @@ var dataSet = [
 		"Log":"Kannst du gegen halb sieben vorbeikommen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9325,7 +9325,7 @@ var dataSet = [
 		"Log":"はい、それでは6時半に行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9336,7 +9336,7 @@ var dataSet = [
 		"Log":"Gut, dann komme ich erst um halb sieben.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9347,7 +9347,7 @@ var dataSet = [
 		"Log":"じゃあ、また!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9358,7 +9358,7 @@ var dataSet = [
 		"Log":"Bis dann!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9369,7 +9369,7 @@ var dataSet = [
 		"Log":"じゃあ、また。さようなら！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9380,7 +9380,7 @@ var dataSet = [
 		"Log":"Bis später. Tschüs!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9391,7 +9391,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン9はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9402,7 +9402,7 @@ var dataSet = [
 		"Log":"Lektion zehn",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9413,7 +9413,7 @@ var dataSet = [
 		"Log":"レッスン10",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9424,7 +9424,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9435,7 +9435,7 @@ var dataSet = [
 		"Log":"田中さん、お子さんは何歳ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9446,7 +9446,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, wie alt sind eigentlich Ihre Kinder?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9457,7 +9457,7 @@ var dataSet = [
 		"Log":"6歳と3歳です。残念ながら、写真を持っていませんが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9468,7 +9468,7 @@ var dataSet = [
 		"Log":"6 und 3. Leider habe ich kein Foto dabei.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9479,7 +9479,7 @@ var dataSet = [
 		"Log":"(nach einer minute)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9490,7 +9490,7 @@ var dataSet = [
 		"Log":"いや、あった! これです。お見せしましょうか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9501,7 +9501,7 @@ var dataSet = [
 		"Log":"Oder doch! Hier. Soll ich es Ihnen mal zeigen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9512,7 +9512,7 @@ var dataSet = [
 		"Log":"はい、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9523,7 +9523,7 @@ var dataSet = [
 		"Log":"Ja, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9534,7 +9534,7 @@ var dataSet = [
 		"Log":"まず、これが私の妻で、これらが私の子供たちです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9545,7 +9545,7 @@ var dataSet = [
 		"Log":"Also, das ist meine Frau und das da sind meine Kinder. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9556,7 +9556,7 @@ var dataSet = [
 		"Log":"ほら、私の息子は柔道着を着ています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9567,7 +9567,7 @@ var dataSet = [
 		"Log":"Sehen Sie, mein Sohn trägt ein Judogi.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9578,7 +9578,7 @@ var dataSet = [
 		"Log":"あなたと同じ! それで、彼らはあなたの両親ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9589,7 +9589,7 @@ var dataSet = [
 		"Log":"So wie Sie! Und sind das Ihre Eltern?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9600,7 +9600,7 @@ var dataSet = [
 		"Log":"その通り。そして、これは私たちの犬ロッキーです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9611,7 +9611,7 @@ var dataSet = [
 		"Log":"Genau. Und das hier ist unser Hund Rocky.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9622,7 +9622,7 @@ var dataSet = [
 		"Log":"可愛い! 私もそんな犬を飼いたいです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9633,7 +9633,7 @@ var dataSet = [
 		"Log":"Wie süß! So einen Hund möchte ich auch haben.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9644,7 +9644,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9655,7 +9655,7 @@ var dataSet = [
 		"Log":"田中さん、お子さんは何歳ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9666,7 +9666,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, wie alt sind eigentlich Ihre Kinder?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9677,7 +9677,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, wie alt sind eigentlich Ihre Kinder?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9688,7 +9688,7 @@ var dataSet = [
 		"Log":"6歳と3歳です。残念ながら、写真を持っていませんが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9699,7 +9699,7 @@ var dataSet = [
 		"Log":"6 und 3. Leider habe ich kein Foto dabei.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9710,7 +9710,7 @@ var dataSet = [
 		"Log":"6 und 3. Leider habe ich kein Foto dabei.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9721,7 +9721,7 @@ var dataSet = [
 		"Log":"(nach einer Minute)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9732,7 +9732,7 @@ var dataSet = [
 		"Log":"いや、あった! これです。お見せしましょうか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9743,7 +9743,7 @@ var dataSet = [
 		"Log":"Oder doch! Hier. Soll ich es Ihnen mal zeigen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9754,7 +9754,7 @@ var dataSet = [
 		"Log":"Oder doch! Hier. Soll ich es Ihnen mal zeigen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9765,7 +9765,7 @@ var dataSet = [
 		"Log":"はい、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9776,7 +9776,7 @@ var dataSet = [
 		"Log":"Ja, bitte.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9787,7 +9787,7 @@ var dataSet = [
 		"Log":"Ja, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9798,7 +9798,7 @@ var dataSet = [
 		"Log":"まず、これが私の妻で、これらが私の子供たちです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9809,7 +9809,7 @@ var dataSet = [
 		"Log":"Also, das ist meine Frau und das da sind meine Kinder. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9820,7 +9820,7 @@ var dataSet = [
 		"Log":"Also, das ist meine Frau und das da sind meine Kinder. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9831,7 +9831,7 @@ var dataSet = [
 		"Log":"ほら、私の息子は柔道着を着ています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9842,7 +9842,7 @@ var dataSet = [
 		"Log":"Sehen Sie, mein Sohn trägt ein Judogi.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9853,7 +9853,7 @@ var dataSet = [
 		"Log":"Sehen Sie, mein Sohn trägt ein Judogi.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9864,7 +9864,7 @@ var dataSet = [
 		"Log":"あなたと同じ! それで、彼らはあなたの両親ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9875,7 +9875,7 @@ var dataSet = [
 		"Log":"So wie Sie! Und sind das Ihre Eltern?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9886,7 +9886,7 @@ var dataSet = [
 		"Log":"So wie Sie! Und sind das Ihre Eltern?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9897,7 +9897,7 @@ var dataSet = [
 		"Log":"その通り。そして、これは私たちの犬ロッキーです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9908,7 +9908,7 @@ var dataSet = [
 		"Log":"Genau. Und das hier ist unser Hund Rocky.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9919,7 +9919,7 @@ var dataSet = [
 		"Log":"Genau. Und das hier ist unser Hund Rocky.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9930,7 +9930,7 @@ var dataSet = [
 		"Log":"可愛い! 私もそんな犬を飼いたいです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9941,7 +9941,7 @@ var dataSet = [
 		"Log":"Wie süß! So einen Hund möchte ich auch haben.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9952,7 +9952,7 @@ var dataSet = [
 		"Log":"Wie süß! So einen Hund möchte ich auch haben.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9963,7 +9963,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9974,7 +9974,7 @@ var dataSet = [
 		"Log":"田中さん、お子さんは何歳ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9985,7 +9985,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, wie alt sind eigentlich Ihre Kinder?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9996,7 +9996,7 @@ var dataSet = [
 		"Log":"6歳と3歳です。残念ながら、写真を持っていませんが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10007,7 +10007,7 @@ var dataSet = [
 		"Log":"6 und 3. Leider habe ich kein Foto dabei.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10018,7 +10018,7 @@ var dataSet = [
 		"Log":"(nach einer Minute)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10029,7 +10029,7 @@ var dataSet = [
 		"Log":"いや、あった! これです。お見せしましょうか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10040,7 +10040,7 @@ var dataSet = [
 		"Log":"Oder doch! Hier. Soll ich es Ihnen mal zeigen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10051,7 +10051,7 @@ var dataSet = [
 		"Log":"はい、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10062,7 +10062,7 @@ var dataSet = [
 		"Log":"Ja, bitte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10073,7 +10073,7 @@ var dataSet = [
 		"Log":"まず、これが私の妻で、これらが私の子供たちです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10084,7 +10084,7 @@ var dataSet = [
 		"Log":"Also, das ist meine Frau und das da sind meine Kinder. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10095,7 +10095,7 @@ var dataSet = [
 		"Log":"ほら、私の息子は柔道着を着ています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10106,7 +10106,7 @@ var dataSet = [
 		"Log":"Sehen Sie, mein Sohn trägt ein Judogi.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10117,7 +10117,7 @@ var dataSet = [
 		"Log":"あなたと同じ! それで、彼らはあなたの両親ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10128,7 +10128,7 @@ var dataSet = [
 		"Log":"So wie Sie! Und sind das Ihre Eltern?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10139,7 +10139,7 @@ var dataSet = [
 		"Log":"その通り。そして、これは私たちの犬ロッキーです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10150,7 +10150,7 @@ var dataSet = [
 		"Log":"Genau. Und das hier ist unser Hund Rocky.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10161,7 +10161,7 @@ var dataSet = [
 		"Log":"可愛い! 私もそんな犬を飼いたいです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10172,7 +10172,7 @@ var dataSet = [
 		"Log":"Wie süß! So einen Hund möchte ich auch haben.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10183,7 +10183,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン10はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10194,7 +10194,7 @@ var dataSet = [
 		"Log":"Lektion elf",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10205,7 +10205,7 @@ var dataSet = [
 		"Log":"レッスン11",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10216,7 +10216,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10227,7 +10227,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10238,7 +10238,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10249,7 +10249,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10260,7 +10260,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10271,7 +10271,7 @@ var dataSet = [
 		"Log":"私は妻のための伝統的な上着を探しています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10282,7 +10282,7 @@ var dataSet = [
 		"Log":"Ich suche eine Trachtenjacke für meine Frau.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10293,7 +10293,7 @@ var dataSet = [
 		"Log":"奥様のサイズは?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10304,7 +10304,7 @@ var dataSet = [
 		"Log":"Welche Größe hat denn Ihre Frau?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10315,7 +10315,7 @@ var dataSet = [
 		"Log":"42です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10326,7 +10326,7 @@ var dataSet = [
 		"Log":"zwei­und­vierzig",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10337,7 +10337,7 @@ var dataSet = [
 		"Log":"こちらはいかがでしょうか?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10348,7 +10348,7 @@ var dataSet = [
 		"Log":"Wie finden Sie diese hier?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10359,7 +10359,7 @@ var dataSet = [
 		"Log":"これは本物の手作りです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10370,7 +10370,7 @@ var dataSet = [
 		"Log":"Das ist echte Handarbeit.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10381,7 +10381,7 @@ var dataSet = [
 		"Log":"明るい色もありますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10392,7 +10392,7 @@ var dataSet = [
 		"Log":"Haben Sie die auch in hellen Farben?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10403,7 +10403,7 @@ var dataSet = [
 		"Log":"はい、こちらです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10414,7 +10414,7 @@ var dataSet = [
 		"Log":"Ja, hier.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10425,7 +10425,7 @@ var dataSet = [
 		"Log":"とても良いです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10436,7 +10436,7 @@ var dataSet = [
 		"Log":"Sehr schön.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10447,7 +10447,7 @@ var dataSet = [
 		"Log":"彼女もきっと気に入ります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10458,7 +10458,7 @@ var dataSet = [
 		"Log":"Die gefällt ihr bestimmt.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10469,7 +10469,7 @@ var dataSet = [
 		"Log":"いくらですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10480,7 +10480,7 @@ var dataSet = [
 		"Log":"Was kostet sie?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10491,7 +10491,7 @@ var dataSet = [
 		"Log":"1680ユーロです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10502,7 +10502,7 @@ var dataSet = [
 		"Log":"1680 Euro.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10513,7 +10513,7 @@ var dataSet = [
 		"Log":"よし、ではそれをいただきます。クレジットカードで支払います。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10524,7 +10524,7 @@ var dataSet = [
 		"Log":"Gut, die nehme ich. Ich zahle mit Kreditkarte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10535,7 +10535,7 @@ var dataSet = [
 		"Log":"ありがとうございます。どうぞこちらにいらしてください。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10546,7 +10546,7 @@ var dataSet = [
 		"Log":"Danke schön. Kommen Sie bitte hier rüber.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10557,7 +10557,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10568,7 +10568,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10579,7 +10579,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10590,7 +10590,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10601,7 +10601,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10612,7 +10612,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10623,7 +10623,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10634,7 +10634,7 @@ var dataSet = [
 		"Log":"私は妻のための伝統的な上着を探しています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10645,7 +10645,7 @@ var dataSet = [
 		"Log":"Ich suche eine Trachtenjacke für meine Frau.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10656,7 +10656,7 @@ var dataSet = [
 		"Log":"Ich suche eine Trachtenjacke für meine Frau.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10667,7 +10667,7 @@ var dataSet = [
 		"Log":"奥様のサイズは?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10678,7 +10678,7 @@ var dataSet = [
 		"Log":"Welche Größe hat denn Ihre Frau?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10689,7 +10689,7 @@ var dataSet = [
 		"Log":"Welche Größe hat denn Ihre Frau?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10700,7 +10700,7 @@ var dataSet = [
 		"Log":"42です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10711,7 +10711,7 @@ var dataSet = [
 		"Log":"zwei­und­vierzig",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10722,7 +10722,7 @@ var dataSet = [
 		"Log":"zwei­und­vierzig",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10733,7 +10733,7 @@ var dataSet = [
 		"Log":"こちらはいかがでしょうか?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10744,7 +10744,7 @@ var dataSet = [
 		"Log":"Wie finden Sie diese hier?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10755,7 +10755,7 @@ var dataSet = [
 		"Log":"Wie finden Sie diese hier?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10766,7 +10766,7 @@ var dataSet = [
 		"Log":"これは本物の手作りです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10777,7 +10777,7 @@ var dataSet = [
 		"Log":"Das ist echte Handarbeit.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10788,7 +10788,7 @@ var dataSet = [
 		"Log":"Das ist echte Handarbeit.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10799,7 +10799,7 @@ var dataSet = [
 		"Log":"明るい色もありますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10810,7 +10810,7 @@ var dataSet = [
 		"Log":"Haben Sie die auch in hellen Farben?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10821,7 +10821,7 @@ var dataSet = [
 		"Log":"Haben Sie die auch in hellen Farben?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10832,7 +10832,7 @@ var dataSet = [
 		"Log":"はい、こちらです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10843,7 +10843,7 @@ var dataSet = [
 		"Log":"Ja, hier.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10854,7 +10854,7 @@ var dataSet = [
 		"Log":"Ja, hier.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10865,7 +10865,7 @@ var dataSet = [
 		"Log":"とても良いです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10876,7 +10876,7 @@ var dataSet = [
 		"Log":"Sehr schön.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10887,7 +10887,7 @@ var dataSet = [
 		"Log":"Sehr schön.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10898,7 +10898,7 @@ var dataSet = [
 		"Log":"彼女もきっと気に入ります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10909,7 +10909,7 @@ var dataSet = [
 		"Log":"Die gefällt ihr bestimmt.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10920,7 +10920,7 @@ var dataSet = [
 		"Log":"Die gefällt ihr bestimmt.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10931,7 +10931,7 @@ var dataSet = [
 		"Log":"いくらですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10942,7 +10942,7 @@ var dataSet = [
 		"Log":"Was kostet sie?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10953,7 +10953,7 @@ var dataSet = [
 		"Log":"Was kostet sie?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10964,7 +10964,7 @@ var dataSet = [
 		"Log":"1680ユーロです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10975,7 +10975,7 @@ var dataSet = [
 		"Log":"1680 Euro.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10986,7 +10986,7 @@ var dataSet = [
 		"Log":"1680 Euro.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10997,7 +10997,7 @@ var dataSet = [
 		"Log":"よし、ではそれをいただきます。クレジットカードで支払います。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11008,7 +11008,7 @@ var dataSet = [
 		"Log":"Gut, die nehme ich. Ich zahle mit Kreditkarte.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11019,7 +11019,7 @@ var dataSet = [
 		"Log":"Gut, die nehme ich. Ich zahle mit Kreditkarte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11030,7 +11030,7 @@ var dataSet = [
 		"Log":"ありがとうございます。どうぞこちらにいらしてください。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11041,7 +11041,7 @@ var dataSet = [
 		"Log":"Danke schön. Kommen Sie bitte hier rüber.",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11052,7 +11052,7 @@ var dataSet = [
 		"Log":"Danke schön. Kommen Sie bitte hier rüber.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11063,7 +11063,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11074,7 +11074,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11085,7 +11085,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11096,7 +11096,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11107,7 +11107,7 @@ var dataSet = [
 		"Log":"Grüß Gott.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11118,7 +11118,7 @@ var dataSet = [
 		"Log":"私は妻のための伝統的な上着を探しています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11129,7 +11129,7 @@ var dataSet = [
 		"Log":"Ich suche eine Trachtenjacke für meine Frau.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11140,7 +11140,7 @@ var dataSet = [
 		"Log":"奥様のサイズは?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11151,7 +11151,7 @@ var dataSet = [
 		"Log":"Welche Größe hat denn Ihre Frau?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11162,7 +11162,7 @@ var dataSet = [
 		"Log":"42です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11173,7 +11173,7 @@ var dataSet = [
 		"Log":"zwei­und­vierzig",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11184,7 +11184,7 @@ var dataSet = [
 		"Log":"こちらはいかがでしょうか?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11195,7 +11195,7 @@ var dataSet = [
 		"Log":"Wie finden Sie diese hier?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11206,7 +11206,7 @@ var dataSet = [
 		"Log":"これは本物の手作りです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11217,7 +11217,7 @@ var dataSet = [
 		"Log":"Das ist echte Handarbeit.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11228,7 +11228,7 @@ var dataSet = [
 		"Log":"明るい色もありますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11239,7 +11239,7 @@ var dataSet = [
 		"Log":"Haben Sie die auch in hellen Farben?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11250,7 +11250,7 @@ var dataSet = [
 		"Log":"はい、こちらです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11261,7 +11261,7 @@ var dataSet = [
 		"Log":"Ja, hier.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11272,7 +11272,7 @@ var dataSet = [
 		"Log":"とても良いです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11283,7 +11283,7 @@ var dataSet = [
 		"Log":"Sehr schön.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11294,7 +11294,7 @@ var dataSet = [
 		"Log":"彼女もきっと気に入ります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11305,7 +11305,7 @@ var dataSet = [
 		"Log":"Die gefällt ihr bestimmt.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11316,7 +11316,7 @@ var dataSet = [
 		"Log":"いくらですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11327,7 +11327,7 @@ var dataSet = [
 		"Log":"Was kostet sie?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11338,7 +11338,7 @@ var dataSet = [
 		"Log":"1680ユーロです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11349,7 +11349,7 @@ var dataSet = [
 		"Log":"1680 Euro.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11360,7 +11360,7 @@ var dataSet = [
 		"Log":"よし、ではそれをいただきます。クレジットカードで支払います。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11371,7 +11371,7 @@ var dataSet = [
 		"Log":"Gut, die nehme ich. Ich zahle mit Kreditkarte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11382,7 +11382,7 @@ var dataSet = [
 		"Log":"ありがとうございます。どうぞこちらにいらしてください。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11393,7 +11393,7 @@ var dataSet = [
 		"Log":"Danke schön. Kommen Sie bitte hier rüber.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11404,7 +11404,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン11はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11415,7 +11415,7 @@ var dataSet = [
 		"Log":"Lektion zwölf",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11426,7 +11426,7 @@ var dataSet = [
 		"Log":"レッスン12",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11437,7 +11437,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11448,7 +11448,7 @@ var dataSet = [
 		"Log":"さて、私はそろそろ行かなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11459,7 +11459,7 @@ var dataSet = [
 		"Log":"So, ich muss jetzt gehen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11470,7 +11470,7 @@ var dataSet = [
 		"Log":"今日は妹の誕生日で、私は彼女の料理を手伝わなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11481,7 +11481,7 @@ var dataSet = [
 		"Log":"Heute ist der Geburtstag meiner Schwester und ich muss ihr beim Kochen helfen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11492,7 +11492,7 @@ var dataSet = [
 		"Log":"彼女は何歳になりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11503,7 +11503,7 @@ var dataSet = [
 		"Log":"Wie alt wird sie denn?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11514,7 +11514,7 @@ var dataSet = [
 		"Log":"17です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11525,7 +11525,7 @@ var dataSet = [
 		"Log":"siebzehn",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11536,7 +11536,7 @@ var dataSet = [
 		"Log":"彼女はもちろん、友達のみんなと祝いたいと思っています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11547,7 +11547,7 @@ var dataSet = [
 		"Log":"Sie will natürlich mit allen ihren Freunden feiern.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11558,7 +11558,7 @@ var dataSet = [
 		"Log":"だから、今日は準備することがたくさんあります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11569,7 +11569,7 @@ var dataSet = [
 		"Log":"Deshalb müssen wir heute viel vorbereiten.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11580,7 +11580,7 @@ var dataSet = [
 		"Log":"よいですね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11591,7 +11591,7 @@ var dataSet = [
 		"Log":"Schön. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11602,7 +11602,7 @@ var dataSet = [
 		"Log":"ちょっと待って、彼女にもしかしたら何かをあげられるかも....",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11613,7 +11613,7 @@ var dataSet = [
 		"Log":"Moment, ich kann ihr vielleicht etwas schenken….",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11624,7 +11624,7 @@ var dataSet = [
 		"Log":"どうぞ、これは妹さんに。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11635,7 +11635,7 @@ var dataSet = [
 		"Log":"Bitte, das ist für deine Schwester.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11646,7 +11646,7 @@ var dataSet = [
 		"Log":"封筒付きの日本からの便箋です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11657,7 +11657,7 @@ var dataSet = [
 		"Log":"Briefpapier aus Japan mit Umschlägen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11668,7 +11668,7 @@ var dataSet = [
 		"Log":"ありがとうございます！きっと喜ぶと思います。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11679,7 +11679,7 @@ var dataSet = [
 		"Log":"Danke! Das wird sie sicher freuen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11690,7 +11690,7 @@ var dataSet = [
 		"Log":"次のを真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11701,7 +11701,7 @@ var dataSet = [
 		"Log":"さて、私はそろそろ行かなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11712,7 +11712,7 @@ var dataSet = [
 		"Log":"So, ich muss jetzt gehen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11723,7 +11723,7 @@ var dataSet = [
 		"Log":"So, ich muss jetzt gehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11734,7 +11734,7 @@ var dataSet = [
 		"Log":"今日は妹の誕生日で、私は彼女の料理を手伝わなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11745,7 +11745,7 @@ var dataSet = [
 		"Log":"Heute ist der Geburtstag meiner Schwester und ich muss ihr beim Kochen helfen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11756,7 +11756,7 @@ var dataSet = [
 		"Log":"Heute ist der Geburtstag meiner Schwester und ich muss ihr beim Kochen helfen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11767,7 +11767,7 @@ var dataSet = [
 		"Log":"彼女は何歳になりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11778,7 +11778,7 @@ var dataSet = [
 		"Log":"Wie alt wird sie denn?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11789,7 +11789,7 @@ var dataSet = [
 		"Log":"Wie alt wird sie denn?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11800,7 +11800,7 @@ var dataSet = [
 		"Log":"17です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11811,7 +11811,7 @@ var dataSet = [
 		"Log":"siebzehn",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11822,7 +11822,7 @@ var dataSet = [
 		"Log":"siebzehn",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11833,7 +11833,7 @@ var dataSet = [
 		"Log":"彼女はもちろん、友達のみんなと祝いたいと思っています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11844,7 +11844,7 @@ var dataSet = [
 		"Log":"Sie will natürlich mit allen ihren Freunden feiern.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11855,7 +11855,7 @@ var dataSet = [
 		"Log":"Sie will natürlich mit allen ihren Freunden feiern.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11866,7 +11866,7 @@ var dataSet = [
 		"Log":"だから、今日は準備することがたくさんあります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11877,7 +11877,7 @@ var dataSet = [
 		"Log":"Deshalb müssen wir heute viel vorbereiten.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11888,7 +11888,7 @@ var dataSet = [
 		"Log":"Deshalb müssen wir heute viel vorbereiten.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11899,7 +11899,7 @@ var dataSet = [
 		"Log":"よいですね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11910,7 +11910,7 @@ var dataSet = [
 		"Log":"Schön. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11921,7 +11921,7 @@ var dataSet = [
 		"Log":"Schön. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11932,7 +11932,7 @@ var dataSet = [
 		"Log":"ちょっと待って、彼女にもしかしたら何かをあげられるかも....",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11943,7 +11943,7 @@ var dataSet = [
 		"Log":"Moment, ich kann ihr vielleicht etwas schenken….",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11954,7 +11954,7 @@ var dataSet = [
 		"Log":"Moment, ich kann ihr vielleicht etwas schenken….",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11965,7 +11965,7 @@ var dataSet = [
 		"Log":"どうぞ、これは妹さんに。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11976,7 +11976,7 @@ var dataSet = [
 		"Log":"Bitte, das ist für deine Schwester.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11987,7 +11987,7 @@ var dataSet = [
 		"Log":"Bitte, das ist für deine Schwester.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11998,7 +11998,7 @@ var dataSet = [
 		"Log":"封筒付きの日本からの便箋です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12009,7 +12009,7 @@ var dataSet = [
 		"Log":"Briefpapier aus Japan mit Umschlägen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12020,7 +12020,7 @@ var dataSet = [
 		"Log":"Briefpapier aus Japan mit Umschlägen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12031,7 +12031,7 @@ var dataSet = [
 		"Log":"ありがとうございます！きっと喜ぶと思います。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12042,7 +12042,7 @@ var dataSet = [
 		"Log":"Danke! Das wird sie sicher freuen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12053,7 +12053,7 @@ var dataSet = [
 		"Log":"Danke! Das wird sie sicher freuen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12064,7 +12064,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12075,7 +12075,7 @@ var dataSet = [
 		"Log":"さて、私はそろそろ行かなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12086,7 +12086,7 @@ var dataSet = [
 		"Log":"So, ich muss jetzt gehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12097,7 +12097,7 @@ var dataSet = [
 		"Log":"今日は妹の誕生日で、私は彼女の料理を手伝わなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12108,7 +12108,7 @@ var dataSet = [
 		"Log":"Heute ist der Geburtstag meiner Schwester und ich muss ihr beim Kochen helfen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12119,7 +12119,7 @@ var dataSet = [
 		"Log":"彼女は何歳になりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12130,7 +12130,7 @@ var dataSet = [
 		"Log":"Wie alt wird sie denn?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12141,7 +12141,7 @@ var dataSet = [
 		"Log":"17です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12152,7 +12152,7 @@ var dataSet = [
 		"Log":"siebzehn",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12163,7 +12163,7 @@ var dataSet = [
 		"Log":"彼女はもちろん、友達のみんなと祝いたいと思っています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12174,7 +12174,7 @@ var dataSet = [
 		"Log":"Sie will natürlich mit allen ihren Freunden feiern.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12185,7 +12185,7 @@ var dataSet = [
 		"Log":"だから、今日は準備することがたくさんあります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12196,7 +12196,7 @@ var dataSet = [
 		"Log":"Deshalb müssen wir heute viel vorbereiten.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12207,7 +12207,7 @@ var dataSet = [
 		"Log":"よいですね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12218,7 +12218,7 @@ var dataSet = [
 		"Log":"Schön. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12229,7 +12229,7 @@ var dataSet = [
 		"Log":"ちょっと待って、彼女にもしかしたら何かをあげられるかも....",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12240,7 +12240,7 @@ var dataSet = [
 		"Log":"Moment, ich kann ihr vielleicht etwas schenken….",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12251,7 +12251,7 @@ var dataSet = [
 		"Log":"どうぞ、これは妹さんに。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12262,7 +12262,7 @@ var dataSet = [
 		"Log":"Bitte, das ist für deine Schwester.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12273,7 +12273,7 @@ var dataSet = [
 		"Log":"封筒付きの日本からの便箋です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12284,7 +12284,7 @@ var dataSet = [
 		"Log":"Briefpapier aus Japan mit Umschlägen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12295,7 +12295,7 @@ var dataSet = [
 		"Log":"ありがとうございます！きっと喜ぶと思います。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12306,7 +12306,7 @@ var dataSet = [
 		"Log":"Danke! Das wird sie sicher freuen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12317,7 +12317,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン12はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12328,7 +12328,7 @@ var dataSet = [
 		"Log":"Lektion dreizehn",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12339,7 +12339,7 @@ var dataSet = [
 		"Log":"レッスン13",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12350,7 +12350,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12361,7 +12361,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12372,7 +12372,7 @@ var dataSet = [
 		"Log":"Guten Tag, Herr Tanaka. ",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12383,7 +12383,7 @@ var dataSet = [
 		"Log":"お久しぶりです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12394,7 +12394,7 @@ var dataSet = [
 		"Log":"Lange nicht gesehen.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12405,7 +12405,7 @@ var dataSet = [
 		"Log":"旅行していたんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12416,7 +12416,7 @@ var dataSet = [
 		"Log":"Waren Sie verreist?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12427,7 +12427,7 @@ var dataSet = [
 		"Log":"はい。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12438,7 +12438,7 @@ var dataSet = [
 		"Log":"Ja.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12449,7 +12449,7 @@ var dataSet = [
 		"Log":"ザルツブルクで一週間過ごしました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12460,7 +12460,7 @@ var dataSet = [
 		"Log":" Ich war eine Woche in Salzburg.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12471,7 +12471,7 @@ var dataSet = [
 		"Log":"それはいいですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12482,7 +12482,7 @@ var dataSet = [
 		"Log":"Das klingt schön.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12493,7 +12493,7 @@ var dataSet = [
 		"Log":"そこで何をしていましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12504,7 +12504,7 @@ var dataSet = [
 		"Log":"Was haben Sie dort gemacht?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12515,7 +12515,7 @@ var dataSet = [
 		"Log":"私は弟を訪ねていました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12526,7 +12526,7 @@ var dataSet = [
 		"Log":"Ich habe meinen Bruder besucht.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12537,7 +12537,7 @@ var dataSet = [
 		"Log":"彼はパティシエで、そこに店を持っています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12548,7 +12548,7 @@ var dataSet = [
 		"Log":"Er ist Patissier und hat ein Geschäft dort.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12559,7 +12559,7 @@ var dataSet = [
 		"Log":"あ、そうですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12570,7 +12570,7 @@ var dataSet = [
 		"Log":"Ach, stimmt.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12581,7 +12581,7 @@ var dataSet = [
 		"Log":"前にそう言ってました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12592,7 +12592,7 @@ var dataSet = [
 		"Log":"Das haben Sie mir mal erzählt.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12603,7 +12603,7 @@ var dataSet = [
 		"Log":"電車で旅行したんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12614,7 +12614,7 @@ var dataSet = [
 		"Log":"Sind Sie mit der Bahn gefahren?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12625,7 +12625,7 @@ var dataSet = [
 		"Log":"いいえ、車で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12636,7 +12636,7 @@ var dataSet = [
 		"Log":"Nein, mit dem Auto.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12647,7 +12647,7 @@ var dataSet = [
 		"Log":"私たちは3人でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12658,7 +12658,7 @@ var dataSet = [
 		"Log":"Wir sind zu dritt gefahren.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12669,7 +12669,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、彼女のボーイフレンドと私。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12680,7 +12680,7 @@ var dataSet = [
 		"Log":"Frau Weber, ihr Freund und ich.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12691,7 +12691,7 @@ var dataSet = [
 		"Log":"それで、ザルツブルクは気に入りましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12702,7 +12702,7 @@ var dataSet = [
 		"Log":"Und hat es Ihnen in Salzburg gefallen?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12713,7 +12713,7 @@ var dataSet = [
 		"Log":"はい、とても。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12724,7 +12724,7 @@ var dataSet = [
 		"Log":"Ja, sehr.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12735,7 +12735,7 @@ var dataSet = [
 		"Log":"また行きたいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12746,7 +12746,7 @@ var dataSet = [
 		"Log":"Ich möchte wieder mal dorthin.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12757,7 +12757,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12768,7 +12768,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12779,7 +12779,7 @@ var dataSet = [
 		"Log":"Guten Tag, Herr Tanaka. ",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12790,7 +12790,7 @@ var dataSet = [
 		"Log":"Guten Tag, Herr Tanaka. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12801,7 +12801,7 @@ var dataSet = [
 		"Log":"お久しぶりです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12812,7 +12812,7 @@ var dataSet = [
 		"Log":"Lange nicht gesehen.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12823,7 +12823,7 @@ var dataSet = [
 		"Log":"Lange nicht gesehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12834,7 +12834,7 @@ var dataSet = [
 		"Log":"旅行していたんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12845,7 +12845,7 @@ var dataSet = [
 		"Log":"Waren Sie verreist?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12856,7 +12856,7 @@ var dataSet = [
 		"Log":"Waren Sie verreist?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12867,7 +12867,7 @@ var dataSet = [
 		"Log":"はい。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12878,7 +12878,7 @@ var dataSet = [
 		"Log":"Ja.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12889,7 +12889,7 @@ var dataSet = [
 		"Log":"Ja.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12900,7 +12900,7 @@ var dataSet = [
 		"Log":"ザルツブルクで一週間過ごしました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12911,7 +12911,7 @@ var dataSet = [
 		"Log":" Ich war eine Woche in Salzburg.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12922,7 +12922,7 @@ var dataSet = [
 		"Log":" Ich war eine Woche in Salzburg.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12933,7 +12933,7 @@ var dataSet = [
 		"Log":"それはいいですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12944,7 +12944,7 @@ var dataSet = [
 		"Log":"Das klingt schön.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12955,7 +12955,7 @@ var dataSet = [
 		"Log":"Das klingt schön.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12966,7 +12966,7 @@ var dataSet = [
 		"Log":"そこで何をしていましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12977,7 +12977,7 @@ var dataSet = [
 		"Log":"Was haben Sie dort gemacht?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12988,7 +12988,7 @@ var dataSet = [
 		"Log":"Was haben Sie dort gemacht?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12999,7 +12999,7 @@ var dataSet = [
 		"Log":"私は弟を訪ねていました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13010,7 +13010,7 @@ var dataSet = [
 		"Log":"Ich habe meinen Bruder besucht.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13021,7 +13021,7 @@ var dataSet = [
 		"Log":"Ich habe meinen Bruder besucht.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13032,7 +13032,7 @@ var dataSet = [
 		"Log":"彼はパティシエで、そこに店を持っています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13043,7 +13043,7 @@ var dataSet = [
 		"Log":"Er ist Patissier und hat ein Geschäft dort.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13054,7 +13054,7 @@ var dataSet = [
 		"Log":"Er ist Patissier und hat ein Geschäft dort.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13065,7 +13065,7 @@ var dataSet = [
 		"Log":"あ、そうですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13076,7 +13076,7 @@ var dataSet = [
 		"Log":"Ach, stimmt.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13087,7 +13087,7 @@ var dataSet = [
 		"Log":"Ach, stimmt.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13098,7 +13098,7 @@ var dataSet = [
 		"Log":"前にそう言ってました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13109,7 +13109,7 @@ var dataSet = [
 		"Log":"Das haben Sie mir mal erzählt.",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13120,7 +13120,7 @@ var dataSet = [
 		"Log":"Das haben Sie mir mal erzählt.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13131,7 +13131,7 @@ var dataSet = [
 		"Log":"電車で旅行したんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13142,7 +13142,7 @@ var dataSet = [
 		"Log":"Sind Sie mit der Bahn gefahren?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13153,7 +13153,7 @@ var dataSet = [
 		"Log":"Sind Sie mit der Bahn gefahren?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13164,7 +13164,7 @@ var dataSet = [
 		"Log":"いいえ、車で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13175,7 +13175,7 @@ var dataSet = [
 		"Log":"Nein, mit dem Auto.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13186,7 +13186,7 @@ var dataSet = [
 		"Log":"Nein, mit dem Auto.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13197,7 +13197,7 @@ var dataSet = [
 		"Log":"私たちは3人でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13208,7 +13208,7 @@ var dataSet = [
 		"Log":"Wir sind zu dritt gefahren.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13219,7 +13219,7 @@ var dataSet = [
 		"Log":"Wir sind zu dritt gefahren.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13230,7 +13230,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、彼女のボーイフレンドと私。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13241,7 +13241,7 @@ var dataSet = [
 		"Log":"Frau Weber, ihr Freund und ich.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13252,7 +13252,7 @@ var dataSet = [
 		"Log":"Frau Weber, ihr Freund und ich.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13263,7 +13263,7 @@ var dataSet = [
 		"Log":"それで、ザルツブルクは気に入りましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13274,7 +13274,7 @@ var dataSet = [
 		"Log":"Und hat es Ihnen in Salzburg gefallen?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13285,7 +13285,7 @@ var dataSet = [
 		"Log":"Und hat es Ihnen in Salzburg gefallen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13296,7 +13296,7 @@ var dataSet = [
 		"Log":"はい、とても。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13307,7 +13307,7 @@ var dataSet = [
 		"Log":"Ja, sehr.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13318,7 +13318,7 @@ var dataSet = [
 		"Log":"Ja, sehr.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13329,7 +13329,7 @@ var dataSet = [
 		"Log":"また行きたいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13340,7 +13340,7 @@ var dataSet = [
 		"Log":"Ich möchte wieder mal dorthin.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13351,7 +13351,7 @@ var dataSet = [
 		"Log":"Ich möchte wieder mal dorthin.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13362,7 +13362,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13373,7 +13373,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13384,7 +13384,7 @@ var dataSet = [
 		"Log":"Guten Tag, Herr Tanaka. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13395,7 +13395,7 @@ var dataSet = [
 		"Log":"お久しぶりです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13406,7 +13406,7 @@ var dataSet = [
 		"Log":"Lange nicht gesehen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13417,7 +13417,7 @@ var dataSet = [
 		"Log":"旅行していたんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13428,7 +13428,7 @@ var dataSet = [
 		"Log":"Waren Sie verreist?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13439,7 +13439,7 @@ var dataSet = [
 		"Log":"はい。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13450,7 +13450,7 @@ var dataSet = [
 		"Log":"Ja.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13461,7 +13461,7 @@ var dataSet = [
 		"Log":"ザルツブルクで一週間過ごしました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13472,7 +13472,7 @@ var dataSet = [
 		"Log":" Ich war eine Woche in Salzburg.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13483,7 +13483,7 @@ var dataSet = [
 		"Log":"それはいいですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13494,7 +13494,7 @@ var dataSet = [
 		"Log":"Das klingt schön.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13505,7 +13505,7 @@ var dataSet = [
 		"Log":"そこで何をしていましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13516,7 +13516,7 @@ var dataSet = [
 		"Log":"Was haben Sie dort gemacht?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13527,7 +13527,7 @@ var dataSet = [
 		"Log":"私は弟を訪ねていました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13538,7 +13538,7 @@ var dataSet = [
 		"Log":"Ich habe meinen Bruder besucht.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13549,7 +13549,7 @@ var dataSet = [
 		"Log":"彼はパティシエで、そこに店を持っています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13560,7 +13560,7 @@ var dataSet = [
 		"Log":"Er ist Patissier und hat ein Geschäft dort.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13571,7 +13571,7 @@ var dataSet = [
 		"Log":"あ、そうですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13582,7 +13582,7 @@ var dataSet = [
 		"Log":"Ach, stimmt.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13593,7 +13593,7 @@ var dataSet = [
 		"Log":"前にそう言ってました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13604,7 +13604,7 @@ var dataSet = [
 		"Log":"Das haben Sie mir mal erzählt.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13615,7 +13615,7 @@ var dataSet = [
 		"Log":"電車で旅行したんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13626,7 +13626,7 @@ var dataSet = [
 		"Log":"Sind Sie mit der Bahn gefahren?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13637,7 +13637,7 @@ var dataSet = [
 		"Log":"いいえ、車で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13648,7 +13648,7 @@ var dataSet = [
 		"Log":"Nein, mit dem Auto.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13659,7 +13659,7 @@ var dataSet = [
 		"Log":"私たちは3人でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13670,7 +13670,7 @@ var dataSet = [
 		"Log":"Wir sind zu dritt gefahren.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13681,7 +13681,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、彼女のボーイフレンドと私。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13692,7 +13692,7 @@ var dataSet = [
 		"Log":"Frau Weber, ihr Freund und ich.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13703,7 +13703,7 @@ var dataSet = [
 		"Log":"それで、ザルツブルクは気に入りましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13714,7 +13714,7 @@ var dataSet = [
 		"Log":"Und hat es Ihnen in Salzburg gefallen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13725,7 +13725,7 @@ var dataSet = [
 		"Log":"はい、とても。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13736,7 +13736,7 @@ var dataSet = [
 		"Log":"Ja, sehr.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13747,7 +13747,7 @@ var dataSet = [
 		"Log":"また行きたいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13758,7 +13758,7 @@ var dataSet = [
 		"Log":"Ich möchte wieder mal dorthin.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13769,7 +13769,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン13はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13780,7 +13780,7 @@ var dataSet = [
 		"Log":"Lektion vierzehn",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13791,7 +13791,7 @@ var dataSet = [
 		"Log":"レッスン14",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13802,7 +13802,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13813,7 +13813,7 @@ var dataSet = [
 		"Log":"田中さんは中国に行ったことはありますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13824,7 +13824,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, waren Sie schon einmal in China?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13835,7 +13835,7 @@ var dataSet = [
 		"Log":"はい、私は2回いったことがあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13846,7 +13846,7 @@ var dataSet = [
 		"Log":"Ja, da war ich zwei Mal.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13857,7 +13857,7 @@ var dataSet = [
 		"Log":"なぜですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13868,7 +13868,7 @@ var dataSet = [
 		"Log":" Warum?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13879,7 +13879,7 @@ var dataSet = [
 		"Log":"私の娘が中国人と結婚するのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13890,7 +13890,7 @@ var dataSet = [
 		"Log":"Meine Tochter heiratet einen Chinesen.",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13901,7 +13901,7 @@ var dataSet = [
 		"Log":"それは、おめでとうございます!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13912,7 +13912,7 @@ var dataSet = [
 		"Log":"Oh, herzlichen Glückwunsch!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13923,7 +13923,7 @@ var dataSet = [
 		"Log":"ありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13934,7 +13934,7 @@ var dataSet = [
 		"Log":"Danke. ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13945,7 +13945,7 @@ var dataSet = [
 		"Log":"それで、12月に私たちは結婚披露宴のために北京に行くのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13956,7 +13956,7 @@ var dataSet = [
 		"Log":"Nun, im Dezember fahren wir zur Hochzeitsfeier nach Peking. ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13967,7 +13967,7 @@ var dataSet = [
 		"Log":"しかし、中国はどのような感じですか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13978,7 +13978,7 @@ var dataSet = [
 		"Log":"Aber wie ist es denn so in China?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13989,7 +13989,7 @@ var dataSet = [
 		"Log":"英語は通じますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14000,7 +14000,7 @@ var dataSet = [
 		"Log":"Kommt man da mit Englisch durch?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14011,7 +14011,7 @@ var dataSet = [
 		"Log":"まあ、英語では少し難しいかもしれません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14022,7 +14022,7 @@ var dataSet = [
 		"Log":"Na ja, mit Englisch kann es etwas schwierig sein.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14033,7 +14033,7 @@ var dataSet = [
 		"Log":"しかし、あなたの娘さんは中国語を上手に話せますよね？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14044,7 +14044,7 @@ var dataSet = [
 		"Log":"Aber Ihre Tochter spricht sicher gut Chinesisch, oder?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14055,7 +14055,7 @@ var dataSet = [
 		"Log":"はい、彼女は中国学を学び、すでに中国からの多くの友人がいました。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14066,7 +14066,7 @@ var dataSet = [
 		"Log":"Ja, sie hat Sinologie studiert und hatte damals schon viele Freunde aus China. ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14077,7 +14077,7 @@ var dataSet = [
 		"Log":"その時、彼女は私たちに友人を紹介したいと言いました...",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14088,7 +14088,7 @@ var dataSet = [
 		"Log":"Einmal wollte sie uns einen Freund vorstellen und ... ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14099,7 +14099,7 @@ var dataSet = [
 		"Log":"それが彼でした。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14110,7 +14110,7 @@ var dataSet = [
 		"Log":"das war er dann.",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14121,7 +14121,7 @@ var dataSet = [
 		"Log":"なるほど。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14132,7 +14132,7 @@ var dataSet = [
 		"Log":"Aha. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14143,7 +14143,7 @@ var dataSet = [
 		"Log":"では、あなたは中国語を学ぶ必要がありますね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14154,7 +14154,7 @@ var dataSet = [
 		"Log":"Da müssen Sie jetzt Chinesisch lernen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14165,7 +14165,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14176,7 +14176,7 @@ var dataSet = [
 		"Log":"田中さんは中国に行ったことはありますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14187,7 +14187,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, waren Sie schon einmal in China?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14198,7 +14198,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, waren Sie schon einmal in China?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14209,7 +14209,7 @@ var dataSet = [
 		"Log":"はい、私は2回いったことがあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14220,7 +14220,7 @@ var dataSet = [
 		"Log":"Ja, da war ich zwei Mal.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14231,7 +14231,7 @@ var dataSet = [
 		"Log":"Ja, da war ich zwei Mal.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14242,7 +14242,7 @@ var dataSet = [
 		"Log":"なぜですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14253,7 +14253,7 @@ var dataSet = [
 		"Log":" Warum?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14264,7 +14264,7 @@ var dataSet = [
 		"Log":" Warum?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14275,7 +14275,7 @@ var dataSet = [
 		"Log":"私の娘が中国人と結婚するのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14286,7 +14286,7 @@ var dataSet = [
 		"Log":"Meine Tochter heiratet einen Chinesen.",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14297,7 +14297,7 @@ var dataSet = [
 		"Log":"Meine Tochter heiratet einen Chinesen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14308,7 +14308,7 @@ var dataSet = [
 		"Log":"それは、おめでとうございます!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14319,7 +14319,7 @@ var dataSet = [
 		"Log":"Oh, herzlichen Glückwunsch!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14330,7 +14330,7 @@ var dataSet = [
 		"Log":"Oh, herzlichen Glückwunsch!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14341,7 +14341,7 @@ var dataSet = [
 		"Log":"ありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14352,7 +14352,7 @@ var dataSet = [
 		"Log":"Danke. ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14363,7 +14363,7 @@ var dataSet = [
 		"Log":"Danke. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14374,7 +14374,7 @@ var dataSet = [
 		"Log":"それで、12月に私たちは結婚披露宴のために北京に行くのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14385,7 +14385,7 @@ var dataSet = [
 		"Log":"Nun, im Dezember fahren wir zur Hochzeitsfeier nach Peking. ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14396,7 +14396,7 @@ var dataSet = [
 		"Log":"Nun, im Dezember fahren wir zur Hochzeitsfeier nach Peking. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14407,7 +14407,7 @@ var dataSet = [
 		"Log":"しかし、中国はどのような感じですか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14418,7 +14418,7 @@ var dataSet = [
 		"Log":"Aber wie ist es denn so in China?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14429,7 +14429,7 @@ var dataSet = [
 		"Log":"Aber wie ist es denn so in China?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14440,7 +14440,7 @@ var dataSet = [
 		"Log":"英語は通じますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14451,7 +14451,7 @@ var dataSet = [
 		"Log":"Kommt man da mit Englisch durch?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14462,7 +14462,7 @@ var dataSet = [
 		"Log":"Kommt man da mit Englisch durch?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14473,7 +14473,7 @@ var dataSet = [
 		"Log":"まあ、英語では少し難しいかもしれません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14484,7 +14484,7 @@ var dataSet = [
 		"Log":"Na ja, mit Englisch kann es etwas schwierig sein.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14495,7 +14495,7 @@ var dataSet = [
 		"Log":"Na ja, mit Englisch kann es etwas schwierig sein.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14506,7 +14506,7 @@ var dataSet = [
 		"Log":"しかし、あなたの娘さんは中国語を上手に話せますよね？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14517,7 +14517,7 @@ var dataSet = [
 		"Log":"Aber Ihre Tochter spricht sicher gut Chinesisch, oder?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14528,7 +14528,7 @@ var dataSet = [
 		"Log":"Aber Ihre Tochter spricht sicher gut Chinesisch, oder?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14539,7 +14539,7 @@ var dataSet = [
 		"Log":"はい、彼女は中国学を学び、すでに中国からの多くの友人がいました。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14550,7 +14550,7 @@ var dataSet = [
 		"Log":"Ja, sie hat Sinologie studiert und hatte damals schon viele Freunde aus China. ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14561,7 +14561,7 @@ var dataSet = [
 		"Log":"Ja, sie hat Sinologie studiert und hatte damals schon viele Freunde aus China. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14572,7 +14572,7 @@ var dataSet = [
 		"Log":"その時、彼女は私たちに友人を紹介したいと言いました...",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14583,7 +14583,7 @@ var dataSet = [
 		"Log":"Einmal wollte sie uns einen Freund vorstellen und ... ",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14594,7 +14594,7 @@ var dataSet = [
 		"Log":"Einmal wollte sie uns einen Freund vorstellen und ... ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14605,7 +14605,7 @@ var dataSet = [
 		"Log":"それが彼でした。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14616,7 +14616,7 @@ var dataSet = [
 		"Log":"das war er dann.",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14627,7 +14627,7 @@ var dataSet = [
 		"Log":"das war er dann.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14638,7 +14638,7 @@ var dataSet = [
 		"Log":"なるほど。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14649,7 +14649,7 @@ var dataSet = [
 		"Log":"Aha. ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14660,7 +14660,7 @@ var dataSet = [
 		"Log":"Aha. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14671,7 +14671,7 @@ var dataSet = [
 		"Log":"では、あなたは中国語を学ぶ必要がありますね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14682,7 +14682,7 @@ var dataSet = [
 		"Log":"Da müssen Sie jetzt Chinesisch lernen.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14693,7 +14693,7 @@ var dataSet = [
 		"Log":"Da müssen Sie jetzt Chinesisch lernen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14704,7 +14704,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14715,7 +14715,7 @@ var dataSet = [
 		"Log":"田中さんは中国に行ったことはありますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14726,7 +14726,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, waren Sie schon einmal in China?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14737,7 +14737,7 @@ var dataSet = [
 		"Log":"はい、私は2回いったことがあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14748,7 +14748,7 @@ var dataSet = [
 		"Log":"Ja, da war ich zwei Mal.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14759,7 +14759,7 @@ var dataSet = [
 		"Log":"なぜですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14770,7 +14770,7 @@ var dataSet = [
 		"Log":" Warum?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14781,7 +14781,7 @@ var dataSet = [
 		"Log":"私の娘が中国人と結婚するのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14792,7 +14792,7 @@ var dataSet = [
 		"Log":"Meine Tochter heiratet einen Chinesen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14803,7 +14803,7 @@ var dataSet = [
 		"Log":"それは、おめでとうございます!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14814,7 +14814,7 @@ var dataSet = [
 		"Log":"Oh, herzlichen Glückwunsch!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14825,7 +14825,7 @@ var dataSet = [
 		"Log":"ありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14836,7 +14836,7 @@ var dataSet = [
 		"Log":"Danke. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14847,7 +14847,7 @@ var dataSet = [
 		"Log":"それで、12月に私たちは結婚披露宴のために北京に行くのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14858,7 +14858,7 @@ var dataSet = [
 		"Log":"Nun, im Dezember fahren wir zur Hochzeitsfeier nach Peking. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14869,7 +14869,7 @@ var dataSet = [
 		"Log":"しかし、中国はどのような感じですか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14880,7 +14880,7 @@ var dataSet = [
 		"Log":"Aber wie ist es denn so in China?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14891,7 +14891,7 @@ var dataSet = [
 		"Log":"英語は通じますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14902,7 +14902,7 @@ var dataSet = [
 		"Log":"Kommt man da mit Englisch durch?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14913,7 +14913,7 @@ var dataSet = [
 		"Log":"まあ、英語では少し難しいかもしれません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14924,7 +14924,7 @@ var dataSet = [
 		"Log":"Na ja, mit Englisch kann es etwas schwierig sein.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14935,7 +14935,7 @@ var dataSet = [
 		"Log":"しかし、あなたの娘さんは中国語を上手に話せますよね？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14946,7 +14946,7 @@ var dataSet = [
 		"Log":"Aber Ihre Tochter spricht sicher gut Chinesisch, oder?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14957,7 +14957,7 @@ var dataSet = [
 		"Log":"はい、彼女は中国学を学び、すでに中国からの多くの友人がいました。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14968,7 +14968,7 @@ var dataSet = [
 		"Log":"Ja, sie hat Sinologie studiert und hatte damals schon viele Freunde aus China. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14979,7 +14979,7 @@ var dataSet = [
 		"Log":"その時、彼女は私たちに友人を紹介したいと言いました...",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14990,7 +14990,7 @@ var dataSet = [
 		"Log":"Einmal wollte sie uns einen Freund vorstellen und ... ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15001,7 +15001,7 @@ var dataSet = [
 		"Log":"それが彼でした。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15012,7 +15012,7 @@ var dataSet = [
 		"Log":"das war er dann.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15023,7 +15023,7 @@ var dataSet = [
 		"Log":"なるほど。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15034,7 +15034,7 @@ var dataSet = [
 		"Log":"Aha. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15045,7 +15045,7 @@ var dataSet = [
 		"Log":"では、あなたは中国語を学ぶ必要がありますね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15056,7 +15056,7 @@ var dataSet = [
 		"Log":"Da müssen Sie jetzt Chinesisch lernen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15067,7 +15067,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン14はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15078,7 +15078,7 @@ var dataSet = [
 		"Log":"Lektion fünfzehn",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15089,7 +15089,7 @@ var dataSet = [
 		"Log":"レッスン15",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15100,7 +15100,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15111,7 +15111,7 @@ var dataSet = [
 		"Log":"アンドレア、アドバイスをもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15122,7 +15122,7 @@ var dataSet = [
 		"Log":"Andrea, kannst du mir einen Tipp geben?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15133,7 +15133,7 @@ var dataSet = [
 		"Log":"はい、何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15144,7 +15144,7 @@ var dataSet = [
 		"Log":"Ja, was ist denn?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15155,7 +15155,7 @@ var dataSet = [
 		"Log":"かつらはどこで買えますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15166,7 +15166,7 @@ var dataSet = [
 		"Log":"Wo kann man eigentlich Perücken kaufen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15177,7 +15177,7 @@ var dataSet = [
 		"Log":"かつら？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15188,7 +15188,7 @@ var dataSet = [
 		"Log":"Perücken? ",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15199,7 +15199,7 @@ var dataSet = [
 		"Log":"まだかつらは必要ないでしょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15210,7 +15210,7 @@ var dataSet = [
 		"Log":"Du brauchst doch noch keine Perücke!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15221,7 +15221,7 @@ var dataSet = [
 		"Log":"いえいえ！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15232,7 +15232,7 @@ var dataSet = [
 		"Log":"Nein, nein! ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15243,7 +15243,7 @@ var dataSet = [
 		"Log":"バウアーさんが私をカーニバルパーティーに招待しました、そして私に仮装して欲しいと。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15254,7 +15254,7 @@ var dataSet = [
 		"Log":"Herr Bauer hat mich zur Faschingsparty eingeladen und ich soll mich da verkleiden.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15265,7 +15265,7 @@ var dataSet = [
 		"Log":"侍として。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15276,7 +15276,7 @@ var dataSet = [
 		"Log":"Als Samurai.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15287,7 +15287,7 @@ var dataSet = [
 		"Log":"あなたが侍に扮するの?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15298,7 +15298,7 @@ var dataSet = [
 		"Log":"Du verkleidest dich als Samurai? ",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15309,7 +15309,7 @@ var dataSet = [
 		"Log":"それはおもしろい。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15320,7 +15320,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15331,7 +15331,7 @@ var dataSet = [
 		"Log":"それなら車で旧市街まで行くと良いです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15342,7 +15342,7 @@ var dataSet = [
 		"Log":"Da kannst du in die Altstadt fahren.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15353,7 +15353,7 @@ var dataSet = [
 		"Log":"パーティー用品のお店があります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15364,7 +15364,7 @@ var dataSet = [
 		"Log":"Dort gibt es einen Laden für Partysachen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15375,7 +15375,7 @@ var dataSet = [
 		"Log":"ああ、ヴィーラント通りにある?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15386,7 +15386,7 @@ var dataSet = [
 		"Log":"Ah, ist das in der Wielandstraße?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15397,7 +15397,7 @@ var dataSet = [
 		"Log":"その通り。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15408,7 +15408,7 @@ var dataSet = [
 		"Log":"Genau. ",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15419,7 +15419,7 @@ var dataSet = [
 		"Log":"今日一緒に行きましょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15430,7 +15430,7 @@ var dataSet = [
 		"Log":"Lass uns heute zusammen dorthin gehen!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15441,7 +15441,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15452,7 +15452,7 @@ var dataSet = [
 		"Log":"アンドレア、アドバイスをもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15463,7 +15463,7 @@ var dataSet = [
 		"Log":"Andrea, kannst du mir einen Tipp geben?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15474,7 +15474,7 @@ var dataSet = [
 		"Log":"Andrea, kannst du mir einen Tipp geben?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15485,7 +15485,7 @@ var dataSet = [
 		"Log":"はい、何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15496,7 +15496,7 @@ var dataSet = [
 		"Log":"Ja, was ist denn?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15507,7 +15507,7 @@ var dataSet = [
 		"Log":"Ja, was ist denn?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15518,7 +15518,7 @@ var dataSet = [
 		"Log":"かつらはどこで買えますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15529,7 +15529,7 @@ var dataSet = [
 		"Log":"Wo kann man eigentlich Perücken kaufen?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15540,7 +15540,7 @@ var dataSet = [
 		"Log":"Wo kann man eigentlich Perücken kaufen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15551,7 +15551,7 @@ var dataSet = [
 		"Log":"かつら？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15562,7 +15562,7 @@ var dataSet = [
 		"Log":"Perücken? ",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15573,7 +15573,7 @@ var dataSet = [
 		"Log":"Perücken? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15584,7 +15584,7 @@ var dataSet = [
 		"Log":"まだかつらは必要ないでしょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15595,7 +15595,7 @@ var dataSet = [
 		"Log":"Du brauchst doch noch keine Perücke!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15606,7 +15606,7 @@ var dataSet = [
 		"Log":"Du brauchst doch noch keine Perücke!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15617,7 +15617,7 @@ var dataSet = [
 		"Log":"いえいえ！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15628,7 +15628,7 @@ var dataSet = [
 		"Log":"Nein, nein! ",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15639,7 +15639,7 @@ var dataSet = [
 		"Log":"Nein, nein! ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15650,7 +15650,7 @@ var dataSet = [
 		"Log":"バウアーさんが私をカーニバルパーティーに招待しました、そして私に仮装して欲しいと。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15661,7 +15661,7 @@ var dataSet = [
 		"Log":"Herr Bauer hat mich zur Faschingsparty eingeladen und ich soll mich da verkleiden.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15672,7 +15672,7 @@ var dataSet = [
 		"Log":"Herr Bauer hat mich zur Faschingsparty eingeladen und ich soll mich da verkleiden.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15683,7 +15683,7 @@ var dataSet = [
 		"Log":"侍として。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15694,7 +15694,7 @@ var dataSet = [
 		"Log":"Als Samurai.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15705,7 +15705,7 @@ var dataSet = [
 		"Log":"Als Samurai.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15716,7 +15716,7 @@ var dataSet = [
 		"Log":"あなたが侍に扮するの?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15727,7 +15727,7 @@ var dataSet = [
 		"Log":"Du verkleidest dich als Samurai? ",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15738,7 +15738,7 @@ var dataSet = [
 		"Log":"Du verkleidest dich als Samurai? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15749,7 +15749,7 @@ var dataSet = [
 		"Log":"それはおもしろい。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15760,7 +15760,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15771,7 +15771,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15782,7 +15782,7 @@ var dataSet = [
 		"Log":"それなら車で旧市街まで行くと良いです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15793,7 +15793,7 @@ var dataSet = [
 		"Log":"Da kannst du in die Altstadt fahren.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15804,7 +15804,7 @@ var dataSet = [
 		"Log":"Da kannst du in die Altstadt fahren.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15815,7 +15815,7 @@ var dataSet = [
 		"Log":"パーティー用品のお店があります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15826,7 +15826,7 @@ var dataSet = [
 		"Log":"Dort gibt es einen Laden für Partysachen.",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15837,7 +15837,7 @@ var dataSet = [
 		"Log":"Dort gibt es einen Laden für Partysachen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15848,7 +15848,7 @@ var dataSet = [
 		"Log":"ああ、ヴィーラント通りにある?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15859,7 +15859,7 @@ var dataSet = [
 		"Log":"Ah, ist das in der Wielandstraße?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15870,7 +15870,7 @@ var dataSet = [
 		"Log":"Ah, ist das in der Wielandstraße?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15881,7 +15881,7 @@ var dataSet = [
 		"Log":"その通り。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15892,7 +15892,7 @@ var dataSet = [
 		"Log":"Genau. ",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15903,7 +15903,7 @@ var dataSet = [
 		"Log":"Genau. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15914,7 +15914,7 @@ var dataSet = [
 		"Log":"今日一緒に行きましょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15925,7 +15925,7 @@ var dataSet = [
 		"Log":"Lass uns heute zusammen dorthin gehen!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15936,7 +15936,7 @@ var dataSet = [
 		"Log":"Lass uns heute zusammen dorthin gehen!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15947,7 +15947,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15958,7 +15958,7 @@ var dataSet = [
 		"Log":"アンドレア、アドバイスをもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15969,7 +15969,7 @@ var dataSet = [
 		"Log":"Andrea, kannst du mir einen Tipp geben?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15980,7 +15980,7 @@ var dataSet = [
 		"Log":"はい、何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15991,7 +15991,7 @@ var dataSet = [
 		"Log":"Ja, was ist denn?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16002,7 +16002,7 @@ var dataSet = [
 		"Log":"かつらはどこで買えますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16013,7 +16013,7 @@ var dataSet = [
 		"Log":"Wo kann man eigentlich Perücken kaufen?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16024,7 +16024,7 @@ var dataSet = [
 		"Log":"かつら？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16035,7 +16035,7 @@ var dataSet = [
 		"Log":"Perücken? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16046,7 +16046,7 @@ var dataSet = [
 		"Log":"まだかつらは必要ないでしょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16057,7 +16057,7 @@ var dataSet = [
 		"Log":"Du brauchst doch noch keine Perücke!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16068,7 +16068,7 @@ var dataSet = [
 		"Log":"いえいえ！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16079,7 +16079,7 @@ var dataSet = [
 		"Log":"Nein, nein! ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16090,7 +16090,7 @@ var dataSet = [
 		"Log":"バウアーさんが私をカーニバルパーティーに招待しました、そして私に仮装して欲しいと。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16101,7 +16101,7 @@ var dataSet = [
 		"Log":"Herr Bauer hat mich zur Faschingsparty eingeladen und ich soll mich da verkleiden.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16112,7 +16112,7 @@ var dataSet = [
 		"Log":"侍として。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16123,7 +16123,7 @@ var dataSet = [
 		"Log":"Als Samurai.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16134,7 +16134,7 @@ var dataSet = [
 		"Log":"あなたが侍に扮するの?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16145,7 +16145,7 @@ var dataSet = [
 		"Log":"Du verkleidest dich als Samurai? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16156,7 +16156,7 @@ var dataSet = [
 		"Log":"それはおもしろい。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16167,7 +16167,7 @@ var dataSet = [
 		"Log":"Das ist ja witzig.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16178,7 +16178,7 @@ var dataSet = [
 		"Log":"それなら車で旧市街まで行くと良いです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16189,7 +16189,7 @@ var dataSet = [
 		"Log":"Da kannst du in die Altstadt fahren.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16200,7 +16200,7 @@ var dataSet = [
 		"Log":"パーティー用品のお店があります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16211,7 +16211,7 @@ var dataSet = [
 		"Log":"Dort gibt es einen Laden für Partysachen.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16222,7 +16222,7 @@ var dataSet = [
 		"Log":"ああ、ヴィーラント通りにある?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16233,7 +16233,7 @@ var dataSet = [
 		"Log":"Ah, ist das in der Wielandstraße?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16244,7 +16244,7 @@ var dataSet = [
 		"Log":"その通り。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16255,7 +16255,7 @@ var dataSet = [
 		"Log":"Genau. ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16266,7 +16266,7 @@ var dataSet = [
 		"Log":"今日一緒に行きましょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16277,7 +16277,7 @@ var dataSet = [
 		"Log":"Lass uns heute zusammen dorthin gehen!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16288,7 +16288,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン15はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16299,7 +16299,7 @@ var dataSet = [
 		"Log":"Lektion sechzehn",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16310,7 +16310,7 @@ var dataSet = [
 		"Log":"レッスン16",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16321,7 +16321,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16332,7 +16332,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16343,7 +16343,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16354,7 +16354,7 @@ var dataSet = [
 		"Log":"来てくれて、うれしいです!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16365,7 +16365,7 @@ var dataSet = [
 		"Log":"Schön, dass Sie da sind!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16376,7 +16376,7 @@ var dataSet = [
 		"Log":"どうぞ、お入りください!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16387,7 +16387,7 @@ var dataSet = [
 		"Log":"Bitte, kommen Sie doch rein!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16398,7 +16398,7 @@ var dataSet = [
 		"Log":"お招きいただき、誠にありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16409,7 +16409,7 @@ var dataSet = [
 		"Log":"Vielen Dank noch mal für die Einladung.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16420,7 +16420,7 @@ var dataSet = [
 		"Log":"田中さん、妻のヘルガです。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16431,7 +16431,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, das ist meine Frau Helga.",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16442,7 +16442,7 @@ var dataSet = [
 		"Log":"はじめまして。あなたは武士の家の出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16453,7 +16453,7 @@ var dataSet = [
 		"Log":"Freut mich. Stammen Sie aus einer Samurai-Familie?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16464,7 +16464,7 @@ var dataSet = [
 		"Log":"そんな馬鹿な！",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16475,7 +16475,7 @@ var dataSet = [
 		"Log":"Quatsch!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16486,7 +16486,7 @@ var dataSet = [
 		"Log":"私が彼に侍として来てほしいとお願いしたんだ。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16497,7 +16497,7 @@ var dataSet = [
 		"Log":"Ich habe ihn gefragt, ob er nicht als Samurai kommen möchte.",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16508,7 +16508,7 @@ var dataSet = [
 		"Log":"いや、あなたは正しいです、バウアー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16519,7 +16519,7 @@ var dataSet = [
 		"Log":"Sie haben aber Recht, Frau Bauer.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16530,7 +16530,7 @@ var dataSet = [
 		"Log":"私の曽祖父は武士でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16541,7 +16541,7 @@ var dataSet = [
 		"Log":"Mein Ururgroßvater war ein Samurai.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16552,7 +16552,7 @@ var dataSet = [
 		"Log":"あら、本当に？",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16563,7 +16563,7 @@ var dataSet = [
 		"Log":"Ach, wirklich? ",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16574,7 +16574,7 @@ var dataSet = [
 		"Log":"席に着いて、もう少し教えてください!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16585,7 +16585,7 @@ var dataSet = [
 		"Log":"Nehmen Sie doch Platz und erzählen Sie noch ein bisschen!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16596,7 +16596,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16607,7 +16607,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16618,7 +16618,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16629,7 +16629,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16640,7 +16640,7 @@ var dataSet = [
 		"Log":"来てくれて、うれしいです!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16651,7 +16651,7 @@ var dataSet = [
 		"Log":"Schön, dass Sie da sind!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16662,7 +16662,7 @@ var dataSet = [
 		"Log":"Schön, dass Sie da sind!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16673,7 +16673,7 @@ var dataSet = [
 		"Log":"どうぞ、お入りください!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16684,7 +16684,7 @@ var dataSet = [
 		"Log":"Bitte, kommen Sie doch rein!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16695,7 +16695,7 @@ var dataSet = [
 		"Log":"Bitte, kommen Sie doch rein!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16706,7 +16706,7 @@ var dataSet = [
 		"Log":"お招きいただき、誠にありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16717,7 +16717,7 @@ var dataSet = [
 		"Log":"Vielen Dank noch mal für die Einladung.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16728,7 +16728,7 @@ var dataSet = [
 		"Log":"Vielen Dank noch mal für die Einladung.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16739,7 +16739,7 @@ var dataSet = [
 		"Log":"田中さん、妻のヘルガです。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16750,7 +16750,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, das ist meine Frau Helga.",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16761,7 +16761,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, das ist meine Frau Helga.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16772,7 +16772,7 @@ var dataSet = [
 		"Log":"はじめまして。あなたは武士の家の出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16783,7 +16783,7 @@ var dataSet = [
 		"Log":"Freut mich. Stammen Sie aus einer Samurai-Familie?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16794,7 +16794,7 @@ var dataSet = [
 		"Log":"Freut mich. Stammen Sie aus einer Samurai-Familie?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16805,7 +16805,7 @@ var dataSet = [
 		"Log":"そんな馬鹿な！",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16816,7 +16816,7 @@ var dataSet = [
 		"Log":"Quatsch!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16827,7 +16827,7 @@ var dataSet = [
 		"Log":"Quatsch!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16838,7 +16838,7 @@ var dataSet = [
 		"Log":"私が彼に侍として来てほしいとお願いしたんだ。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16849,7 +16849,7 @@ var dataSet = [
 		"Log":"Ich habe ihn gefragt, ob er nicht als Samurai kommen möchte.",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16860,7 +16860,7 @@ var dataSet = [
 		"Log":"Ich habe ihn gefragt, ob er nicht als Samurai kommen möchte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16871,7 +16871,7 @@ var dataSet = [
 		"Log":"いや、あなたは正しいです、バウアー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16882,7 +16882,7 @@ var dataSet = [
 		"Log":"Sie haben aber Recht, Frau Bauer.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16893,7 +16893,7 @@ var dataSet = [
 		"Log":"Sie haben aber Recht, Frau Bauer.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16904,7 +16904,7 @@ var dataSet = [
 		"Log":"私の曽祖父は武士でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16915,7 +16915,7 @@ var dataSet = [
 		"Log":"Mein Ururgroßvater war ein Samurai.",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16926,7 +16926,7 @@ var dataSet = [
 		"Log":"Mein Ururgroßvater war ein Samurai.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16937,7 +16937,7 @@ var dataSet = [
 		"Log":"あら、本当に？",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16948,7 +16948,7 @@ var dataSet = [
 		"Log":"Ach, wirklich? ",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16959,7 +16959,7 @@ var dataSet = [
 		"Log":"Ach, wirklich? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16970,7 +16970,7 @@ var dataSet = [
 		"Log":"席に着いて、もう少し教えてください!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16981,7 +16981,7 @@ var dataSet = [
 		"Log":"Nehmen Sie doch Platz und erzählen Sie noch ein bisschen!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -16992,7 +16992,7 @@ var dataSet = [
 		"Log":"Nehmen Sie doch Platz und erzählen Sie noch ein bisschen!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17003,7 +17003,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17014,7 +17014,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17025,7 +17025,7 @@ var dataSet = [
 		"Log":"Hallo, Herr Tanaka!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17036,7 +17036,7 @@ var dataSet = [
 		"Log":"来てくれて、うれしいです!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17047,7 +17047,7 @@ var dataSet = [
 		"Log":"Schön, dass Sie da sind!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17058,7 +17058,7 @@ var dataSet = [
 		"Log":"どうぞ、お入りください!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17069,7 +17069,7 @@ var dataSet = [
 		"Log":"Bitte, kommen Sie doch rein!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17080,7 +17080,7 @@ var dataSet = [
 		"Log":"お招きいただき、誠にありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17091,7 +17091,7 @@ var dataSet = [
 		"Log":"Vielen Dank noch mal für die Einladung.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17102,7 +17102,7 @@ var dataSet = [
 		"Log":"田中さん、妻のヘルガです。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17113,7 +17113,7 @@ var dataSet = [
 		"Log":"Herr Tanaka, das ist meine Frau Helga.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17124,7 +17124,7 @@ var dataSet = [
 		"Log":"はじめまして。あなたは武士の家の出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17135,7 +17135,7 @@ var dataSet = [
 		"Log":"Freut mich. Stammen Sie aus einer Samurai-Familie?",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17146,7 +17146,7 @@ var dataSet = [
 		"Log":"そんな馬鹿な！",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17157,7 +17157,7 @@ var dataSet = [
 		"Log":"Quatsch!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17168,7 +17168,7 @@ var dataSet = [
 		"Log":"私が彼に侍として来てほしいとお願いしたんだ。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17179,7 +17179,7 @@ var dataSet = [
 		"Log":"Ich habe ihn gefragt, ob er nicht als Samurai kommen möchte.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17190,7 +17190,7 @@ var dataSet = [
 		"Log":"いや、あなたは正しいです、バウアー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17201,7 +17201,7 @@ var dataSet = [
 		"Log":"Sie haben aber Recht, Frau Bauer.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17212,7 +17212,7 @@ var dataSet = [
 		"Log":"私の曽祖父は武士でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17223,7 +17223,7 @@ var dataSet = [
 		"Log":"Mein Ururgroßvater war ein Samurai.",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17234,7 +17234,7 @@ var dataSet = [
 		"Log":"あら、本当に？",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17245,7 +17245,7 @@ var dataSet = [
 		"Log":"Ach, wirklich? ",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17256,7 +17256,7 @@ var dataSet = [
 		"Log":"席に着いて、もう少し教えてください!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17267,7 +17267,7 @@ var dataSet = [
 		"Log":"Nehmen Sie doch Platz und erzählen Sie noch ein bisschen!",
 		"type":"q",
 		"icon":"assets/icons/image326.png",
-		"say":"de"
+		"say":"de-DE"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -17278,6 +17278,6 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン16はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de"
+		"say":"de-DE"
 	}
 ]
