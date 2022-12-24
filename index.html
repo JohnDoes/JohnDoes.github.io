@@ -9,6 +9,7 @@
   <script src='assets/talk2.js' type="text/javascript"></script>
   <script>
       dataSet = dataSet.concat(data2);
+      dataSet = dataSet.concat(data3);
       var jsonData = JSON.stringify(dataSet);
 
     // service workerの登録関係
@@ -246,7 +247,7 @@ var sceneData = JSON.parse(jsonData);
         window.setTimeout( function () {
 			el.innerHTML = '<div class="line__left"><figure><img src='+
             data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
-            data.Name +'</div><div class="text">' + data.Log + '</div></div></div>';
+            data.Name +'</div><div class="text" lang=' + data.say + '>' + data.Log + '</div></div></div>';
         	scroll();
             if ('speechSynthesis' in window) {
 
