@@ -302,7 +302,8 @@ var sceneData = JSON.parse(jsonData);
 		scenario();				
     }
     function changeLang() {
-		var k = document.getElementById("lng").value;
+		var o = document.getElementsByClassName("opt");
+        var k = o[o.length-1].value;
 		console.log(k);
         switch(k){
             case "0":
@@ -323,7 +324,9 @@ var sceneData = JSON.parse(jsonData);
 		scenario();				
     }
     function changeStage(){
-		var l = document.getElementById("stg").value;
+		//var l = document.getElementById("stg").value;
+        var p = document.getElementsByClassName("opt");
+        var l = o[o.length-1].value;
 		console.log(l);
 		console.log(typeof l);
         if(typeof l == "string"){
@@ -394,7 +397,7 @@ var sceneData = JSON.parse(jsonData);
     function scroll() {
         container = document.getElementById("chatArea");
         container.scrollBy({
-            top: 60000,
+            top: 600000,
             behavior: 'smooth'
         });
     }
