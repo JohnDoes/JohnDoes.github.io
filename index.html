@@ -349,7 +349,10 @@ var sceneData = JSON.parse(jsonData);
             return scene.LangID == lngID;
         });
         scene2 = scene1.filter(function(scene){
-            return scene.StageID == stgID.toString();
+            if(typeof stgID == "number"){
+                stgID = stgID.toString();
+            }
+            return scene.StageID == stgID;
         });
         scene3 = scene2.filter(function(scene){
             return scene.LogID == logID.toString();
