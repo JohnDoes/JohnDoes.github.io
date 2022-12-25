@@ -6,7 +6,7 @@ var urlsToCache = [
     '/index.html',
     '/style.css'
 ];
-var version = "0.13";
+var version = "0.14";
 
 // インストール処理
 self.addEventListener('install', function(event) {
