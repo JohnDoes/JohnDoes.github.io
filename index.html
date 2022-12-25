@@ -143,7 +143,7 @@ var sceneData = JSON.parse(jsonData);
                 window.setTimeout( function() {
                     el.innerHTML = '<div class="line__left"><figure><img src='+
                         data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
-                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeLang()" class ="opt" name="lang"><select name="lng" id="lng"><option value=0>言語を選択</option><option value=1>ドイツ語</option><option value=2>フランス語</option><option value=3>中国語</option></select></form></div></div></div>';
+                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeLang()" class ="opt" name="lang"><select name="lng" class="b"  id="lng"><option value=0>言語を選択</option><option value=1>ドイツ語</option><option value=2>フランス語</option><option value=3>中国語</option></select></form></div></div></div>';
                         scroll();
                     }, 2000 );
                 break;
@@ -157,7 +157,7 @@ var sceneData = JSON.parse(jsonData);
                 window.setTimeout( function() {
                     el.innerHTML = '<div class="line__left"><figure><img src='+
                         data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
-                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeStage()" class ="opt" name="stage"><select name="stg" id="stg"><option value=0>数字を選択</option><option value=1>1</option><option value=2>2</option><option value=3>3</option><option value=4>4</option><option value=5>5</option><option value=6>6</option><option value=7>7</option><option value=8>8</option><option value=9>9</option><option value=10>10</option><option value=11>11</option><option value=12>12</option><option value=13>13</option><option value=14>14</option><option value=15>15</option><option value=16>16</option><option value=17>17</option><option value=18>18</option><option value=19>19</option><option value=20>20</option></select></form></div></div></div>';
+                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeStage()" class ="opt" name="stage"><select name="stg" class="b" id="stg"><option value=0>数字を選択</option><option value=1>1</option><option value=2>2</option><option value=3>3</option><option value=4>4</option><option value=5>5</option><option value=6>6</option><option value=7>7</option><option value=8>8</option><option value=9>9</option><option value=10>10</option><option value=11>11</option><option value=12>12</option><option value=13>13</option><option value=14>14</option><option value=15>15</option><option value=16>16</option><option value=17>17</option><option value=18>18</option><option value=19>19</option><option value=20>20</option></select></form></div></div></div>';
                         scroll();
                     }, 2000 );
                 break;
@@ -302,7 +302,8 @@ var sceneData = JSON.parse(jsonData);
 		scenario();				
     }
     function changeLang() {
-		var o = document.getElementsByClassName("opt");
+		var o = document.getElementsByClassName("b");
+        console.log(o);
         var k = o[o.length-1].value;
 		console.log(k);
         switch(k){
@@ -325,7 +326,8 @@ var sceneData = JSON.parse(jsonData);
     }
     function changeStage(){
 		//var l = document.getElementById("stg").value;
-        var p = document.getElementsByClassName("opt");
+        var p = document.getElementsByClassName("b");
+        console.log(p);
         var l = p[p.length-1].value;
 		console.log(l);
 		console.log(typeof l);
@@ -349,10 +351,7 @@ var sceneData = JSON.parse(jsonData);
             return scene.LangID == lngID;
         });
         scene2 = scene1.filter(function(scene){
-            if(typeof stgID == "number"){
-                stgID = stgID.toString();
-            }
-            return scene.StageID == stgID;
+            return scene.StageID == stgID.toString();
         });
         scene3 = scene2.filter(function(scene){
             return scene.LogID == logID.toString();
