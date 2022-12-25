@@ -19,7 +19,7 @@ var data3 = [
 		"Log":"レッスン 1",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -30,7 +30,7 @@ var data3 = [
 		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -41,7 +41,7 @@ var data3 = [
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -63,7 +63,7 @@ var data3 = [
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -85,7 +85,7 @@ var data3 = [
 		"Log":"はい。京都出身です。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -107,7 +107,7 @@ var data3 = [
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -129,7 +129,7 @@ var data3 = [
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -151,7 +151,7 @@ var data3 = [
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -173,7 +173,7 @@ var data3 = [
 		"Log":"はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -195,7 +195,7 @@ var data3 = [
 		"Log":"次のフランス語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -206,7 +206,7 @@ var data3 = [
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -239,7 +239,7 @@ var data3 = [
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -272,7 +272,7 @@ var data3 = [
 		"Log":"はい。京都出身です。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -305,7 +305,7 @@ var data3 = [
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -338,7 +338,7 @@ var data3 = [
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -371,7 +371,7 @@ var data3 = [
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -404,7 +404,7 @@ var data3 = [
 		"Log":"はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -437,7 +437,7 @@ var data3 = [
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -448,7 +448,7 @@ var data3 = [
 		"Log":"こんにちは。美奈子と申します。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -470,7 +470,7 @@ var data3 = [
 		"Log":"私の名前はセリーヌです。あなたは日本人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -492,7 +492,7 @@ var data3 = [
 		"Log":"はい。京都出身です。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -514,7 +514,7 @@ var data3 = [
 		"Log":"私はフランス人です。私はオルレアン出身です。",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -536,7 +536,7 @@ var data3 = [
 		"Log":"そして、あなたはフランス人ですか?",
 		"type":"a",
 		"icon":"assets/icons/image078.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -558,7 +558,7 @@ var data3 = [
 		"Log":"いいえ、私はイタリア人です。はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -580,7 +580,7 @@ var data3 = [
 		"Log":"はじめまして。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -602,7 +602,7 @@ var data3 = [
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -624,7 +624,7 @@ var data3 = [
 		"Log":"レッスン 2",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -635,7 +635,7 @@ var data3 = [
 		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -646,7 +646,7 @@ var data3 = [
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -668,7 +668,7 @@ var data3 = [
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -690,7 +690,7 @@ var data3 = [
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -712,7 +712,7 @@ var data3 = [
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -734,7 +734,7 @@ var data3 = [
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -756,7 +756,7 @@ var data3 = [
 		"Log":"それで、これは?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -778,7 +778,7 @@ var data3 = [
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -800,7 +800,7 @@ var data3 = [
 		"Log":"次のフランス語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -811,7 +811,7 @@ var data3 = [
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -844,7 +844,7 @@ var data3 = [
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -877,7 +877,7 @@ var data3 = [
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -910,7 +910,7 @@ var data3 = [
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -943,7 +943,7 @@ var data3 = [
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -976,7 +976,7 @@ var data3 = [
 		"Log":"それで、これは?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1009,7 +1009,7 @@ var data3 = [
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1042,7 +1042,7 @@ var data3 = [
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1053,7 +1053,7 @@ var data3 = [
 		"Log":"ここがあなたの部屋です。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1075,7 +1075,7 @@ var data3 = [
 		"Log":"（それは）とてもきれいですね。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1097,7 +1097,7 @@ var data3 = [
 		"Log":"ベッド、机、箪笥があります。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1119,7 +1119,7 @@ var data3 = [
 		"Log":"（そして、）それは何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1141,7 +1141,7 @@ var data3 = [
 		"Log":"ベッドサイドテーブルです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1163,7 +1163,7 @@ var data3 = [
 		"Log":"それで、これは?",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1185,7 +1185,7 @@ var data3 = [
 		"Log":"これらは電源コンセントです。",
 		"type":"a",
 		"icon":"assets/icons/image033.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -1207,7 +1207,7 @@ var data3 = [
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -4560,7 +4560,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"薬はありますか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -4582,7 +4582,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"このバッグにはアスピリンが入っていると思います。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -4593,7 +4593,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je crois que j'ai des aspirines dans ce sac.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -4604,7 +4604,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"それは良いです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -4626,7 +4626,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"すぐに1錠服用してください。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -4670,7 +4670,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Minako, Qu'est-ce que tu as ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -4692,7 +4692,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"体調が悪いですか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -4703,7 +4703,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Tune vas pas bien ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -4714,7 +4714,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tune vas pas bien ?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -4736,7 +4736,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"J'ai mal à la tête et j'ai froid.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -4780,7 +4780,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Ah, tu es enrhumée. ",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -4802,7 +4802,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"As-tu de la fièvre ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -4813,7 +4813,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"As-tu de la fièvre ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -4824,7 +4824,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"わかりません。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -4846,7 +4846,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je ne sais pas.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -4890,7 +4890,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"いいえ、大丈夫です。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -4912,7 +4912,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Non, ça va. ",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -4923,7 +4923,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"グリューワインを飲んでよく眠ってください。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -4934,7 +4934,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Prends du vin chaud et dors bien.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -4956,7 +4956,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"薬はありますか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -5000,7 +5000,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je crois que j'ai des aspirines dans ce sac.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -5022,7 +5022,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"それは良いです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -5033,7 +5033,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"C'est bien.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -5044,7 +5044,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est bien.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5066,7 +5066,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Prends un comprimé tout de suite.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -5110,7 +5110,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Minako, Qu'est-ce que tu as ?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5132,7 +5132,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tune vas pas bien ?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5143,7 +5143,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"頭が痛くて寒気がします。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -5154,7 +5154,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"J'ai mal à la tête et j'ai froid.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5176,7 +5176,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Ah, tu es enrhumée. ",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5220,7 +5220,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je ne sais pas.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5242,7 +5242,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Va voir le médecin.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5253,7 +5253,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"いいえ、大丈夫です。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -5264,7 +5264,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Non, ça va. ",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5286,7 +5286,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Prends du vin chaud et dors bien.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5330,7 +5330,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je crois que j'ai des aspirines dans ce sac.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5352,7 +5352,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est bien.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5363,7 +5363,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"すぐに1錠服用してください。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -5374,7 +5374,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Prends un comprimé tout de suite.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5396,7 +5396,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"Leçon huit",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"fr-FR"
 	},
@@ -5440,7 +5440,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"Bonjour, Mademoiselle.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image112.png",
 		"say":"fr-FR"
 	},
@@ -5451,7 +5451,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"こんにちは。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -5462,7 +5462,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Bonjour.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -5506,7 +5506,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"Voyons. ",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image112.png",
 		"say":"fr-FR"
 	},
@@ -5517,7 +5517,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"はい、モネに関する本がいくつかあります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image112.png",
 		"say":"ja-JP"
 	},
@@ -5528,7 +5528,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"Oui, nous avons plusieurs livres sur Monet.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image112.png",
 		"say":"fr-FR"
 	},
@@ -5572,7 +5572,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"je voudrais l'emprunter.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -5583,7 +5583,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"貸出については、この申込書に記入する必要があります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image112.png",
 		"say":"ja-JP"
 	},
@@ -5594,7 +5594,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"Pour le prêt, il faut remplir cette fiche.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image112.png",
 		"say":"fr-FR"
 	},
@@ -5638,7 +5638,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Voilà.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -5649,7 +5649,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"いつ返却すればいいですか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -5660,7 +5660,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Quand est-ce que je le rends?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -5704,7 +5704,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"おはようございます、お嬢さん。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image112.png",
 		"say":"ja-JP"
 	},
@@ -5715,7 +5715,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"Bonjour, Mademoiselle.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image112.png",
 		"say":"fr-FR"
 	},
@@ -5726,7 +5726,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Bonjour, Mademoiselle.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5770,7 +5770,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"画家モネに関する本を探しています。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -5781,7 +5781,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je cherche des livres sur le peintre Monet.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -5792,7 +5792,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je cherche des livres sur le peintre Monet.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5836,7 +5836,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"はい、モネに関する本がいくつかあります。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image112.png",
 		"say":"ja-JP"
 	},
@@ -5847,7 +5847,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"Oui, nous avons plusieurs livres sur Monet.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image112.png",
 		"say":"fr-FR"
 	},
@@ -5858,7 +5858,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Oui, nous avons plusieurs livres sur Monet.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5902,7 +5902,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"借りてみたいです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -5913,7 +5913,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"je voudrais l'emprunter.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -5924,7 +5924,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"je voudrais l'emprunter.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -5968,7 +5968,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"あなたの名前と住所を書いてください。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image112.png",
 		"say":"ja-JP"
 	},
@@ -5979,7 +5979,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"Ecrivez votre nom et votre adresse.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image112.png",
 		"say":"fr-FR"
 	},
@@ -5990,7 +5990,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Ecrivez votre nom et votre adresse.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6034,7 +6034,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"いつ返却すればいいですか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6045,7 +6045,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Quand est-ce que je le rends?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -6056,7 +6056,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Quand est-ce que je le rends?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6100,7 +6100,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"次の日本語をフランス語に訳して答えてね！",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -6111,7 +6111,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"おはようございます、お嬢さん。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image112.png",
 		"say":"ja-JP"
 	},
@@ -6122,7 +6122,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Bonjour, Mademoiselle.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6166,7 +6166,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je cherche des livres sur le peintre Monet.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6177,7 +6177,7 @@ var data3 = [
 		"Chara":"19",
 		"Name":"Bibliothécaire",
 		"Log":"探します。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image112.png",
 		"say":"ja-JP"
 	},
@@ -6188,7 +6188,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Voyons. ",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6232,7 +6232,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"S'il y a un livre sur ses relations avec le Japon,",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6243,7 +6243,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"借りてみたいです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6254,7 +6254,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"je voudrais l'emprunter.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6298,7 +6298,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Ecrivez votre nom et votre adresse.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6309,7 +6309,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"どうぞ。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6320,7 +6320,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Voilà.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6364,7 +6364,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Vous devez le rendre dans deux semaines.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6386,7 +6386,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"Leçon neuf",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"fr-FR"
 	},
@@ -6430,7 +6430,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Bonjour.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6441,7 +6441,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"お手伝いしましょうか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -6452,7 +6452,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Je peux vous aider ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6496,7 +6496,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Quelle est votre taille ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6507,7 +6507,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私は38です。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6518,7 +6518,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je fais du trente-huit.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -6562,7 +6562,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Elle vous va très bien.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6573,7 +6573,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ええ、良いですね。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6584,7 +6584,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Oui, elle me plaît.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -6628,7 +6628,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"quatre-vingt-dix euros.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6639,7 +6639,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"では、これを買います。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6650,7 +6650,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Alors, je prends celle-ci.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -6694,7 +6694,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Par carte de crédit.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -6705,7 +6705,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"次のフランス語を真似してね！",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -6716,7 +6716,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"こんにちは。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -6760,7 +6760,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Je peux vous aider ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6771,7 +6771,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je peux vous aider ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6782,7 +6782,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ジャケットをお願いします。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6826,7 +6826,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Quelle est votre taille ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6837,7 +6837,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Quelle est votre taille ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6848,7 +6848,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私は38です。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -6892,7 +6892,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Celle-ci, par exemple.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -6903,7 +6903,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Celle-ci, par exemple.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6914,7 +6914,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"あなたにとてもよく似合いです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -6958,7 +6958,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Oui, elle me plaît.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -6969,7 +6969,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Oui, elle me plaît.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -6980,7 +6980,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"おいくらですか。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7024,7 +7024,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"quatre-vingt-dix euros.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -7035,7 +7035,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"quatre-vingt-dix euros.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7046,7 +7046,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"では、これを買います。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7090,7 +7090,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"Vous payez comment ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"fr-FR"
 	},
@@ -7101,7 +7101,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Vous payez comment ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7112,7 +7112,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"クレジットカードでお願いします。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7156,7 +7156,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"こんにちは。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -7167,7 +7167,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Bonjour.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7178,7 +7178,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"お手伝いしましょうか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -7222,7 +7222,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"あなたの身長は?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -7233,7 +7233,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Quelle est votre taille ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7244,7 +7244,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私は38です。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7288,7 +7288,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"あなたにとてもよく似合いです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -7299,7 +7299,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Elle vous va très bien.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7310,7 +7310,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ええ、良いですね。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7354,7 +7354,7 @@ var data3 = [
 		"Chara":"20",
 		"Name":"Vendeur",
 		"Log":"90ユーロです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image025.png",
 		"say":"ja-JP"
 	},
@@ -7365,7 +7365,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"quatre-vingt-dix euros.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7376,7 +7376,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"では、これを買います。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7420,7 +7420,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"クレジットカードでお願いします。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7431,7 +7431,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Par carte de crédit.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7486,7 +7486,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"美奈子さん、お誕生日おめでとう!",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -7497,7 +7497,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Bon anniversaire, Minako !",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -7508,7 +7508,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ありがとうございます。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7552,7 +7552,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私はちょうど22歳になりました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7563,7 +7563,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je viens d'avoir vingt-deux ans.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -7574,7 +7574,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"サプライズがあります。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -7618,7 +7618,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"すごい！",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7629,7 +7629,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Super!",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -7640,7 +7640,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"このケーキは作ったんですか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7684,7 +7684,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"私はそれを少し手伝いました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -7695,7 +7695,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Je lui ai donné un petit coup de main.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -7706,7 +7706,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"本当にありがとうございます。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7750,7 +7750,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Bon anniversaire, Minako !",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -7761,7 +7761,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Bon anniversaire, Minako !",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7772,7 +7772,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ありがとうございます。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7816,7 +7816,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Tu as quel âge maintenant ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -7827,7 +7827,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tu as quel âge maintenant ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7838,7 +7838,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私はちょうど22歳になりました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -7882,7 +7882,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Nous avons une surprise pour toi.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -7893,7 +7893,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Nous avons une surprise pour toi.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7904,7 +7904,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"これはバースデーケーキです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -7948,7 +7948,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Super!",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -7959,7 +7959,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Super!",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -7970,7 +7970,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"このケーキは作ったんですか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -8014,7 +8014,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"C'est Céline qui l'a fait.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -8025,7 +8025,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est Céline qui l'a fait.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8036,7 +8036,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"私はそれを少し手伝いました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -8080,7 +8080,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Vous êtes trop gentils.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8091,7 +8091,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Vous êtes trop gentils.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8102,7 +8102,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"次の日本語をフランス語に訳して答えてね！",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -8146,7 +8146,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Merci beaucoup.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8157,7 +8157,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"あなたは何歳になったのですか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -8168,7 +8168,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tu as quel âge maintenant ?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8212,7 +8212,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Nous avons une surprise pour toi.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8223,7 +8223,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"これはバースデーケーキです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -8234,7 +8234,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Voilà un gâteau d'anniversaire.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8278,7 +8278,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Vous avez fait ce gâteau ?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8289,7 +8289,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"セリーヌが作りました。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -8300,7 +8300,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est Céline qui l'a fait.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8344,7 +8344,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Vous êtes trop gentils.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8366,7 +8366,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"Leçon onze",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"fr-FR"
 	},
@@ -8410,7 +8410,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Salut, Minako.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -8421,7 +8421,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"あなたはすっかり日焼けしています。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -8432,7 +8432,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Tu es toute bronzée.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -8476,7 +8476,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Oui, je suis allée dans le Midi avec une amie japonaise.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8487,7 +8487,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"いったいどこへ行ったの?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -8498,7 +8498,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Où êtes-vous allées exactement ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -8542,7 +8542,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Nous sommes allées d'abord à Avignon,",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8553,7 +8553,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"その後、エクス-アン-プロヴァンスへ。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -8564,7 +8564,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"puis à Aix-en-Provence.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8608,7 +8608,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Bien sûr. ",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8619,7 +8619,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"それで、あなた方、あなた方はどこに行きましたか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -8630,7 +8630,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Et vous, vous êtes partis où ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8674,7 +8674,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Moi, je suis resté à Paris pour un petit travail.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -8685,7 +8685,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"次のフランス語を真似してね！",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -8696,7 +8696,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"こんにちは、美奈子さん。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -8740,7 +8740,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Tu es toute bronzée.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -8751,7 +8751,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tu es toute bronzée.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8762,7 +8762,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"良い休日を過ごしましたか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -8806,7 +8806,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Oui, je suis allée dans le Midi avec une amie japonaise.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8817,7 +8817,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Oui, je suis allée dans le Midi avec une amie japonaise.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8828,7 +8828,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"いったいどこへ行ったの?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -8872,7 +8872,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Nous sommes parties le 1er août.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8883,7 +8883,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Nous sommes parties le 1er août.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8894,7 +8894,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私たちは最初にアヴィニョンに行きました、",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -8938,7 +8938,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"puis à Aix-en-Provence.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -8949,7 +8949,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"puis à Aix-en-Provence.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -8960,7 +8960,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"きっとアヴィニョンの橋で踊ったのでしょう。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -9004,7 +9004,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Bien sûr. ",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -9015,7 +9015,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Bien sûr. ",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -9026,7 +9026,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"それで、あなた方、あなた方はどこに行きましたか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9070,7 +9070,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Je suis allée chez ma tante, à Besançon.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -9081,7 +9081,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je suis allée chez ma tante, à Besançon.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -9092,7 +9092,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"私はちょっとした仕事のためにパリに滞在しました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -9136,7 +9136,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"こんにちは、美奈子さん。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -9147,7 +9147,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Salut, Minako.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -9158,7 +9158,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"あなたはすっかり日焼けしています。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -9202,7 +9202,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"はい、日本人の友達と南に行きました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9213,7 +9213,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Oui, je suis allée dans le Midi avec une amie japonaise.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -9224,7 +9224,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"いったいどこへ行ったの?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -9268,7 +9268,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私たちは最初にアヴィニョンに行きました、",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9279,7 +9279,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Nous sommes allées d'abord à Avignon,",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -9290,7 +9290,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"その後、エクス-アン-プロヴァンスへ。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9334,7 +9334,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"もちろんです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9345,7 +9345,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Bien sûr. ",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -9356,7 +9356,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"それで、あなた方、あなた方はどこに行きましたか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9400,7 +9400,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"私はちょっとした仕事のためにパリに滞在しました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -9444,7 +9444,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"レッスン12",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -9488,7 +9488,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"それで、このパッケージを日本に送りたいです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9532,7 +9532,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"飛行機で、いくらですか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9576,7 +9576,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"それでボートでは?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9620,7 +9620,7 @@ var data3 = [
 		"Chara":"21",
 		"Name":"Employé",
 		"Log":"5ユーロ80です。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image008.png",
 		"say":"ja-JP"
 	},
@@ -9664,7 +9664,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"では、飛行機でお願いします。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9708,7 +9708,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"はい、そして私は数ヶ月後に戻ります。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -9752,7 +9752,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Monsieur, donnez-moi un timbre à quatre-vingt-dix centimes.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -9796,7 +9796,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Et je voudrais envoyer ce colis au Japon.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -10755,7 +10755,7 @@ var data3 = [
 		"Log":"Pourquoi ils doivent se quitter ?",
 		"type":"e",
 		"icon":"assets/icons/image078.png",
-		"say":"ja-JP"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -10766,7 +10766,7 @@ var data3 = [
 		"Log":"人生はしばしばそのようなものです。",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -10777,7 +10777,7 @@ var data3 = [
 		"Log":"La vie est souvent comme ça.",
 		"type":"a",
 		"icon":"assets/icons/image086.png",
-		"say":"ja-JP"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -12777,7 +12777,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"一日ですべてを見ることは不可能です。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -12799,7 +12799,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"あなたは選ばなければなりません。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -12810,7 +12810,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Il faut choisir.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -12832,7 +12832,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"(Après la visite)",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -12843,7 +12843,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ルーブル美術館がこんなに大きいとは知りませんでした。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -12854,7 +12854,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je ne savais pas que le Musée du Louvre était aussi grand.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -12865,7 +12865,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"疲れ果てました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -12887,7 +12887,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"私もそうです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -12898,7 +12898,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Moi aussi.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -12909,7 +12909,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"美術館の目の前のカフェに行かない?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -12920,7 +12920,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Si on allait au café qui se trouve juste devant le Musée ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -12931,7 +12931,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"いい考え。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -12942,7 +12942,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Bonne idée.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -12964,9 +12964,9 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"J'ai soif.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
-		"say":"ja-JP"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -12975,7 +12975,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"次のフランス語を真似してね！",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -12997,7 +12997,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"C'est la première fois que tu viens au Musée du Louvre ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -13085,7 +13085,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"何よりもモナリザとミロのヴィーナスを見なければなりません。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -13107,7 +13107,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Il faut voir avant tout La Joconde et la Vénus de Milo.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13118,7 +13118,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"はい、でもルネッサンス絵画にも興味があります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -13140,7 +13140,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Oui, mais je m'intéresse aussi à la peinture de la Renaissance.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13151,7 +13151,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"一日ですべてを見ることは不可能です。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -13162,7 +13162,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Il est impossible de tout voir en un jour. ",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -13173,7 +13173,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Il est impossible de tout voir en un jour. ",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13195,7 +13195,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Il faut choisir.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -13206,7 +13206,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Il faut choisir.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13217,7 +13217,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"(見学後)",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -13228,7 +13228,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"(Après la visite)",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -13239,7 +13239,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"(Après la visite)",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13250,7 +13250,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ルーブル美術館がこんなに大きいとは知りませんでした。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -13272,7 +13272,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je ne savais pas que le Musée du Louvre était aussi grand.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13283,7 +13283,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"疲れ果てました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -13305,7 +13305,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je suis complètement épuisée.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13393,7 +13393,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Bonne idée.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -13415,7 +13415,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"喉が渇いていますし。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -13426,7 +13426,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"J'ai soif.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -13448,7 +13448,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"次の日本語をフランス語に訳して答えてね！",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -13459,7 +13459,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"ルーブル美術館に来るのは初めてですか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -13470,7 +13470,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est la première fois que tu viens au Musée du Louvre ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13481,7 +13481,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"はい、ずっと来たいと思っていましたが、",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -13503,7 +13503,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"しかし、私には時間がありませんでした。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -13514,7 +13514,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"mais je n'avais pas eu le temps.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13525,7 +13525,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"何よりもモナリザとミロのヴィーナスを見なければなりません。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -13536,7 +13536,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Il faut voir avant tout La Joconde et la Vénus de Milo.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13547,7 +13547,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"はい、でもルネッサンス絵画にも興味があります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -13558,7 +13558,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Oui, mais je m'intéresse aussi à la peinture de la Renaissance.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13580,7 +13580,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Il est impossible de tout voir en un jour. ",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13591,7 +13591,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"あなたは選ばなければなりません。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -13613,7 +13613,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"(見学後)",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -13701,7 +13701,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"美術館の目の前のカフェに行かない?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -13723,7 +13723,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"いい考え。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -13734,7 +13734,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Bonne idée.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -13778,7 +13778,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"Leçon seize",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image014.png",
 		"say":"fr-FR"
 	},
@@ -13844,7 +13844,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"Où est-ce que vous l'avez perdu ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"fr-FR"
 	},
@@ -13888,7 +13888,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Peut-être dans le métro.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -13899,7 +13899,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"財布なら",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -13921,7 +13921,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"この箱にたくさんあります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -13932,7 +13932,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":" il y en a plein dans cette boîte.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"fr-FR"
 	},
@@ -13943,7 +13943,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"あなたの財布の色は何色ですか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -13965,7 +13965,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"赤です。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -13987,7 +13987,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"これですか?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -13998,7 +13998,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"C'est celui-ci ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"fr-FR"
 	},
@@ -14009,7 +14009,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ああ、そうです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14031,7 +14031,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"それが私のです。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14042,7 +14042,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"C'est le mien.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -14086,7 +14086,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Qui est ce gentil monsieur ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -14110,7 +14110,7 @@ var data3 = [
 		"Log":"Vous pouvez me donner son nom et son adresse?",
 		"type":"e",
 		"icon":"assets/icons/image086.png",
-		"say":"ja-JP"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -14121,7 +14121,7 @@ var data3 = [
 		"Log":"はい、少しお待ちください。",
 		"type":"a",
 		"icon":"assets/icons/image052.png",
-		"say":"fr-FR"
+		"say":"ja-JP"
 	},
 	{
 		"LangID":"フランス語",
@@ -14132,7 +14132,7 @@ var data3 = [
 		"Log":"Oui, une seconde, s'il vous plaît.",
 		"type":"e",
 		"icon":"assets/icons/image052.png",
-		"say":"ja-JP"
+		"say":"fr-FR"
 	},
 	{
 		"LangID":"フランス語",
@@ -14152,7 +14152,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"すみません、財布をなくしたのですが。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14196,7 +14196,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"Où est-ce que vous l'avez perdu ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"fr-FR"
 	},
@@ -14207,7 +14207,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Où est-ce que vous l'avez perdu ?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14229,7 +14229,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je ne sais pas.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -14240,7 +14240,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je ne sais pas.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14251,7 +14251,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"多分地下鉄で。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14273,7 +14273,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Peut-être dans le métro.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14295,7 +14295,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"Des portefeuilles,",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image052.png",
 		"say":"fr-FR"
 	},
@@ -14306,7 +14306,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Des portefeuilles,",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14317,7 +14317,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"この箱にたくさんあります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -14339,7 +14339,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":" il y en a plein dans cette boîte.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14350,7 +14350,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"あなたの財布の色は何色ですか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -14394,7 +14394,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Rouge.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -14460,7 +14460,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Ah, oui.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -14504,7 +14504,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est le mien.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14515,7 +14515,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"ちょうど今、若い男がそれをここに持ってきました。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -14537,7 +14537,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Un jeune homme l'a apporté ici tout à l'heure.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14548,7 +14548,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"この親切な方は誰ですか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14559,7 +14559,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Qui est ce gentil monsieur ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -14581,7 +14581,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"彼の名前と住所を教えていただけますか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14603,7 +14603,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Vous pouvez me donner son nom et son adresse?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14614,7 +14614,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"はい、少しお待ちください。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -14625,7 +14625,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"Oui, une seconde, s'il vous plaît.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"fr-FR"
 	},
@@ -14647,7 +14647,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"次の日本語をフランス語に訳して答えてね！",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -14658,7 +14658,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"すみません、財布をなくしたのですが。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14702,7 +14702,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"わかりません。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14768,7 +14768,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"この箱にたくさんあります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -14812,7 +14812,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"赤です。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14823,7 +14823,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Rouge.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14845,7 +14845,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est celui-ci ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14856,7 +14856,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"ああ、そうです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14867,7 +14867,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Ah, oui.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14889,7 +14889,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"C'est le mien.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14911,7 +14911,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Un jeune homme l'a apporté ici tout à l'heure.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14922,7 +14922,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"この親切な方は誰ですか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -14933,7 +14933,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Qui est ce gentil monsieur ?",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14955,7 +14955,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Vous pouvez me donner son nom et son adresse?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -14966,7 +14966,7 @@ var data3 = [
 		"Chara":"22",
 		"Name":"Agent de police",
 		"Log":"はい、少しお待ちください。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image052.png",
 		"say":"ja-JP"
 	},
@@ -15010,7 +15010,7 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"レッスン17",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"
 	},
@@ -15076,7 +15076,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"私は世界中を旅します。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -15120,7 +15120,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"それはあなたにたくさん役立つでしょう。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -15131,7 +15131,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Ça te servira beaucoup.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -15153,7 +15153,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Et vous, qu'est-ce que vous ferez ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -15164,7 +15164,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"映画の世界で働きたいです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -15175,7 +15175,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Moi, j'aimerais travailler dans le monde du cinéma.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -15197,7 +15197,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Comme ce sera bien de travailler avec des vedettes!",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -15219,7 +15219,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Moi, j'irai sans doute en Argentine.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -15230,7 +15230,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"私にはそこに農場を持っている叔父がいます。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -15241,7 +15241,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"J'ai un oncle qui a une ferme là-bas.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -15263,7 +15263,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Je reviendrai en Italie quand j'aurai fait fortune.",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -15274,7 +15274,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"あなたは野心的だね。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -15318,7 +15318,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Minako, qu'est-ce que tu penses faire dans l'avenir ?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -15384,7 +15384,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Je voyagerai dans le monde entier.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -15428,7 +15428,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tu parles bien français.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15439,7 +15439,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"それはあなたにたくさん役立つでしょう。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -15461,7 +15461,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Ça te servira beaucoup.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15472,7 +15472,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"それで、あなた、あなたは何をしますか?",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -15483,7 +15483,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"Et vous, qu'est-ce que vous ferez ?",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image086.png",
 		"say":"fr-FR"
 	},
@@ -15505,7 +15505,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"映画の世界で働きたいです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -15527,7 +15527,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Moi, j'aimerais travailler dans le monde du cinéma.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15538,7 +15538,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"スターと一緒に仕事するの、なんて素晴らしいことでしょう!",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -15549,7 +15549,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"Comme ce sera bien de travailler avec des vedettes!",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"fr-FR"
 	},
@@ -15571,7 +15571,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"私はおそらくアルゼンチンに行きます。",
-		"type":"a",
+		"type":"e",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -15582,7 +15582,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"Moi, j'irai sans doute en Argentine.",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"fr-FR"
 	},
@@ -15626,7 +15626,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"J'ai un oncle qui a une ferme là-bas.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15692,7 +15692,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tu es ambitieux.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15736,7 +15736,7 @@ var data3 = [
 		"Chara":"5",
 		"Name":"Minako",
 		"Log":"旅行会社で働きたいと思っています。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image086.png",
 		"say":"ja-JP"
 	},
@@ -15747,7 +15747,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"J'espère travailler dans une agence de voyages.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15769,7 +15769,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Je voyagerai dans le monde entier.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15780,7 +15780,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"あなたはフランス語が上手です。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -15791,7 +15791,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Tu parles bien français.",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15813,7 +15813,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Ça te servira beaucoup.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15835,7 +15835,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Et vous, qu'est-ce que vous ferez ?",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15846,7 +15846,7 @@ var data3 = [
 		"Chara":"6",
 		"Name":"Céline",
 		"Log":"映画の世界で働きたいです。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image078.png",
 		"say":"ja-JP"
 	},
@@ -15857,7 +15857,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Moi, j'aimerais travailler dans le monde du cinéma.",
-		"type":"e",
+		"type":"q",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15879,7 +15879,7 @@ var data3 = [
 		"Chara":"0",
 		"Name":"Player",
 		"Log":"Comme ce sera bien de travailler avec des vedettes!",
-		"type":"q",
+		"type":"e",
 		"icon":"assets/icons/image326.png",
 		"say":"fr-FR"
 	},
@@ -15890,7 +15890,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"私はおそらくアルゼンチンに行きます。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -15934,7 +15934,7 @@ var data3 = [
 		"Chara":"7",
 		"Name":"Luigi",
 		"Log":"財産を築いたらイタリアに戻ります。",
-		"type":"e",
+		"type":"a",
 		"icon":"assets/icons/image023.png",
 		"say":"ja-JP"
 	},
@@ -15978,6 +15978,2899 @@ var data3 = [
 		"Chara":"1",
 		"Name":"Navigator",
 		"Log":"とても良くできました。レッスン17はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Leçon dix-huit",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン18",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"4",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"こんにちは、セリーヌ。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"5",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Salut, Céline.",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"6",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"最近どうですか。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"7",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Quoi de neuf ?",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"8",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"先週末引っ越しました。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"9",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"J'ai déménagé le week-end dernier.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"10",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ほんとですか。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"11",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Ah, bon.",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"12",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"もし知っていたら、あなたを手伝ったのに。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"13",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Si j'avais su, je t'aurais aidée.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"14",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"ありがとう、あなたは親切ですね。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"15",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Merci, tu es gentil. ",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"16",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"美奈子が私を手伝ってくれました。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"17",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Minako m'a donné un coup de main.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"18",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"セリーヌの新しいワンルームマンションは素晴らしいです。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"19",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Le nouveau studio de Céline est super.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"20",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"広々としており、木々でいっぱいの中庭を見渡せます。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"21",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Il est spacieux et il donne sur une cour pleine d'arbres.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"22",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"もし私があなたの立場にいたら、",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"23",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Si j'étais à ta place,",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"24",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"私は友達と共有します。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"25",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"je le partagerais avec une copine.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"26",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"絵を描いているから、",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"27",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Comme je peins des tableaux,",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"28",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"スペースが必要なのです。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"29",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"j'ai besoin d'espace.",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"30",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"いつかあなたの絵を見たいです。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"31",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"J'aimerais bien voir tes tableaux un jour.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"32",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のフランス語を真似してね！",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"33",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"こんにちは、セリーヌ。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"34",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Salut, Céline.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"35",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Salut, Céline.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"36",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"最近どうですか。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"37",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Quoi de neuf ?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"38",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Quoi de neuf ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"39",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"先週末引っ越しました。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"40",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"J'ai déménagé le week-end dernier.",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"41",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"J'ai déménagé le week-end dernier.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"42",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ほんとですか。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"43",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Ah, bon.",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"44",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ah, bon.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"45",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"もし知っていたら、あなたを手伝ったのに。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"46",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Si j'avais su, je t'aurais aidée.",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"47",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Si j'avais su, je t'aurais aidée.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"48",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"ありがとう、あなたは親切ですね。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"49",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Merci, tu es gentil. ",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"50",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Merci, tu es gentil. ",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"51",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"美奈子が私を手伝ってくれました。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"52",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Minako m'a donné un coup de main.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"53",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Minako m'a donné un coup de main.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"54",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"セリーヌの新しいワンルームマンションは素晴らしいです。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"55",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Le nouveau studio de Céline est super.",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"56",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Le nouveau studio de Céline est super.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"57",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"広々としており、木々でいっぱいの中庭を見渡せます。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"58",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Il est spacieux et il donne sur une cour pleine d'arbres.",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"59",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Il est spacieux et il donne sur une cour pleine d'arbres.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"60",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"もし私があなたの立場にいたら、",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"61",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Si j'étais à ta place,",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"62",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Si j'étais à ta place,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"63",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"私は友達と共有します。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"64",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"je le partagerais avec une copine.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"65",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"je le partagerais avec une copine.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"66",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"絵を描いているから、",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"67",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Comme je peins des tableaux,",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"68",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Comme je peins des tableaux,",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"69",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"スペースが必要なのです。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"70",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"j'ai besoin d'espace.",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"71",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"j'ai besoin d'espace.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"72",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"いつかあなたの絵を見たいです。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"73",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"J'aimerais bien voir tes tableaux un jour.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"74",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"J'aimerais bien voir tes tableaux un jour.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"75",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"76",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"こんにちは、セリーヌ。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"77",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Salut, Céline.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"78",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"最近どうですか。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"79",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Quoi de neuf ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"80",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"先週末引っ越しました。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"81",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"J'ai déménagé le week-end dernier.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"82",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ほんとですか。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"83",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ah, bon.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"84",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"もし知っていたら、あなたを手伝ったのに。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"85",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Si j'avais su, je t'aurais aidée.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"86",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"ありがとう、あなたは親切ですね。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"87",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Merci, tu es gentil. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"88",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"美奈子が私を手伝ってくれました。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"89",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Minako m'a donné un coup de main.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"90",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"セリーヌの新しいワンルームマンションは素晴らしいです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"91",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Le nouveau studio de Céline est super.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"92",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"広々としており、木々でいっぱいの中庭を見渡せます。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"93",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Il est spacieux et il donne sur une cour pleine d'arbres.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"94",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"もし私があなたの立場にいたら、",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"95",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Si j'étais à ta place,",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"96",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"私は友達と共有します。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"97",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"je le partagerais avec une copine.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"98",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"絵を描いているから、",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"99",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Comme je peins des tableaux,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"100",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"スペースが必要なのです。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"101",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"j'ai besoin d'espace.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"102",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"いつかあなたの絵を見たいです。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"103",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"J'aimerais bien voir tes tableaux un jour.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"18",
+		"LogID":"104",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン18はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Leçon dix-neuf",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン19",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"4",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"これが私の新しいワンルームです。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"5",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Voilà mon nouveau studio.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"6",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ようやくあなたの家に招待されました。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"7",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Nous sommes enfin invités chez toi.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"8",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"なんてかわいいのでしょう、猫!",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"9",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Comme il est mignon, le chat!",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"10",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"それで、これらはあなたが描いた絵ですか?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"11",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Et ce sont des tableaux que tu as peints?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"12",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"はい",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"13",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Oui.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"14",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"どのように働いていますか?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"15",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Tu travailles comment ?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"16",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"普段は音楽を聴きながら絵を描いています。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"17",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"D'habitude, je peins en écoutant de la musique.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"18",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私は自分の絵のことだけを考え、それに関係のないことはすべて忘れます。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"19",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Je ne pense qu'à mon tableau et j'oublie tout ce qui ne le regarde pas.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"20",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"あなたは真のアーティストです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"21",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Tu es une vraie artiste.",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"22",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のフランス語を真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"23",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"これが私の新しいワンルームです。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"24",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Voilà mon nouveau studio.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"25",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Voilà mon nouveau studio.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"26",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ようやくあなたの家に招待されました。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"27",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Nous sommes enfin invités chez toi.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"28",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Nous sommes enfin invités chez toi.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"29",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"なんてかわいいのでしょう、猫!",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"30",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Comme il est mignon, le chat!",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"31",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Comme il est mignon, le chat!",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"32",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"それで、これらはあなたが描いた絵ですか?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"33",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Et ce sont des tableaux que tu as peints?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"34",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Et ce sont des tableaux que tu as peints?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"35",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"はい",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"36",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Oui.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"37",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oui.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"38",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"どのように働いていますか?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"39",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Tu travailles comment ?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"40",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Tu travailles comment ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"41",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"普段は音楽を聴きながら絵を描いています。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"42",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"D'habitude, je peins en écoutant de la musique.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"43",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"D'habitude, je peins en écoutant de la musique.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"44",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私は自分の絵のことだけを考え、それに関係のないことはすべて忘れます。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"45",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Je ne pense qu'à mon tableau et j'oublie tout ce qui ne le regarde pas.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"46",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je ne pense qu'à mon tableau et j'oublie tout ce qui ne le regarde pas.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"47",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"あなたは真のアーティストです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"48",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Tu es une vraie artiste.",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"49",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Tu es une vraie artiste.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"50",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"51",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"これが私の新しいワンルームです。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"52",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Voilà mon nouveau studio.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"53",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ようやくあなたの家に招待されました。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"54",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Nous sommes enfin invités chez toi.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"55",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"なんてかわいいのでしょう、猫!",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"56",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Comme il est mignon, le chat!",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"57",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"それで、これらはあなたが描いた絵ですか?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"58",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Et ce sont des tableaux que tu as peints?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"59",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"はい",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"60",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oui.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"61",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"どのように働いていますか?",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"62",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Tu travailles comment ?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"63",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"普段は音楽を聴きながら絵を描いています。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"64",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"D'habitude, je peins en écoutant de la musique.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"65",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私は自分の絵のことだけを考え、それに関係のないことはすべて忘れます。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"66",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je ne pense qu'à mon tableau et j'oublie tout ce qui ne le regarde pas.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"67",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"あなたは真のアーティストです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"68",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Tu es une vraie artiste.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"19",
+		"LogID":"69",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン19はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Leçon vingt",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン20",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とフランス語を一文ずつ流すのでフランス語を真似して下さい。最後に日本語のみを流すので、フランス語で答えてください。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"4",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"あなたは数日で帰る予定ですね。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"5",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Tu vas nous quitter dans quelques jours.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"6",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"はい、あなたたちが私のためにしてくれたすべてに感謝します。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"7",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Oui, merci pour tout ce que vous avez fait pour moi.",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"8",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"こんなに早く日本に帰らなくてはならないのは、残念です。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"9",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Je regrette que tu doives retourner au Japon si tôt.",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"10",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"私もそうです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"11",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Moi aussi. ",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"12",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"いつか日本に来てほしいです。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"13",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Je souhaite que vous veniez au Japon un jour.",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"14",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ぜひぜひ。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"15",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Oui, oui. ",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"16",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"美奈子にまた会うために一緒に日本に行きますよ。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"17",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Nous irons ensemble au Japon pour revoir Minako.",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"18",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"約束ですよ。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"19",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"C'est promis. ",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"20",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"日本の美しさを見せてあげます。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"21",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Je vous ferai découvrir les beautés du Japon.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"22",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"インターネットのおかげで、世界は近くなりました。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"23",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Grâce à Internet, le monde est devenu petit.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"24",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私達に電子メールを送ってください。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"25",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Envoie-nous des e-mails.",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"26",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"必ず送ります。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"27",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Je n'y manquerai pas.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"28",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のフランス語を真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"29",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"あなたは数日で帰る予定ですね。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"30",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Tu vas nous quitter dans quelques jours.",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"31",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Tu vas nous quitter dans quelques jours.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"32",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"はい、あなたたちが私のためにしてくれたすべてに感謝します。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"33",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Oui, merci pour tout ce que vous avez fait pour moi.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"34",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oui, merci pour tout ce que vous avez fait pour moi.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"35",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"こんなに早く日本に帰らなくてはならないのは、残念です。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"36",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Je regrette que tu doives retourner au Japon si tôt.",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"37",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je regrette que tu doives retourner au Japon si tôt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"38",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"私もそうです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"39",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Moi aussi. ",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"40",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Moi aussi. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"41",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"いつか日本に来てほしいです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"42",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Je souhaite que vous veniez au Japon un jour.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"43",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je souhaite que vous veniez au Japon un jour.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"44",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ぜひぜひ。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"45",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Oui, oui. ",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"46",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oui, oui. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"47",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"美奈子にまた会うために一緒に日本に行きますよ。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"48",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"Nous irons ensemble au Japon pour revoir Minako.",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"49",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Nous irons ensemble au Japon pour revoir Minako.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"50",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"約束ですよ。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"51",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"C'est promis. ",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"52",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"C'est promis. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"53",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"日本の美しさを見せてあげます。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"54",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Je vous ferai découvrir les beautés du Japon.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"55",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je vous ferai découvrir les beautés du Japon.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"56",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"インターネットのおかげで、世界は近くなりました。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"57",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Grâce à Internet, le monde est devenu petit.",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"58",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Grâce à Internet, le monde est devenu petit.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"59",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私達に電子メールを送ってください。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"60",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"Envoie-nous des e-mails.",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"61",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Envoie-nous des e-mails.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"62",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"必ず送ります。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"63",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"Je n'y manquerai pas.",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"64",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je n'y manquerai pas.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"65",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をフランス語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"66",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"あなたは数日で帰る予定ですね。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"67",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Tu vas nous quitter dans quelques jours.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"68",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"はい、あなたたちが私のためにしてくれたすべてに感謝します。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"69",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oui, merci pour tout ce que vous avez fait pour moi.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"70",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"こんなに早く日本に帰らなくてはならないのは、残念です。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"71",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je regrette que tu doives retourner au Japon si tôt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"72",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"私もそうです。",
+		"type":"e",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"73",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Moi aussi. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"74",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"いつか日本に来てほしいです。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"75",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je souhaite que vous veniez au Japon un jour.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"76",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"ぜひぜひ。",
+		"type":"a",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"77",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oui, oui. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"78",
+		"Chara":"7",
+		"Name":"Luigi",
+		"Log":"美奈子にまた会うために一緒に日本に行きますよ。",
+		"type":"e",
+		"icon":"assets/icons/image023.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"79",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Nous irons ensemble au Japon pour revoir Minako.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"80",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"約束ですよ。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"81",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"C'est promis. ",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"82",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"日本の美しさを見せてあげます。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"83",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je vous ferai découvrir les beautés du Japon.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"84",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"インターネットのおかげで、世界は近くなりました。",
+		"type":"e",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"85",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Grâce à Internet, le monde est devenu petit.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"86",
+		"Chara":"6",
+		"Name":"Céline",
+		"Log":"私達に電子メールを送ってください。",
+		"type":"a",
+		"icon":"assets/icons/image078.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"87",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Envoie-nous des e-mails.",
+		"type":"e",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"88",
+		"Chara":"5",
+		"Name":"Minako",
+		"Log":"必ず送ります。",
+		"type":"a",
+		"icon":"assets/icons/image086.png",
+		"say":"ja-JP"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"89",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Je n'y manquerai pas.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"fr-FR"
+	},
+	{
+		"LangID":"フランス語",
+		"StageID":"20",
+		"LogID":"90",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン20はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
 		"say":"ja-JP"

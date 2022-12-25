@@ -1,4 +1,4 @@
-var dataSet = [
+var data1 = [
 	{
 		"LangID":"設定",
 		"StageID":"0",
@@ -16,7 +16,7 @@ var dataSet = [
 		"LogID":"2",
 		"Chara":"1",
 		"Name":"Navigator",
-		"Log":"最後に学習したのはステージいくつ？",
+		"Log":"ステージいくつから始める？",
 		"type":"b",
 		"icon":"assets/icons/image014.png",
 		"say":"ja"
@@ -52,7 +52,7 @@ var dataSet = [
 		"Log":"レッスン1",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -63,7 +63,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -74,7 +74,7 @@ var dataSet = [
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -96,7 +96,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -118,7 +118,7 @@ var dataSet = [
 		"Log":"お元気ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -140,7 +140,7 @@ var dataSet = [
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -162,7 +162,7 @@ var dataSet = [
 		"Log":"私も元気です。ありがとう。(バスが来る)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -184,7 +184,7 @@ var dataSet = [
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -206,7 +206,7 @@ var dataSet = [
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -228,7 +228,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -239,7 +239,7 @@ var dataSet = [
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -272,7 +272,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -305,7 +305,7 @@ var dataSet = [
 		"Log":"お元気ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -338,7 +338,7 @@ var dataSet = [
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -371,7 +371,7 @@ var dataSet = [
 		"Log":"私も元気です。ありがとう。(バスが来る)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -404,7 +404,7 @@ var dataSet = [
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -437,7 +437,7 @@ var dataSet = [
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -470,7 +470,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -481,7 +481,7 @@ var dataSet = [
 		"Log":"こんにちは、シュナイダー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -503,7 +503,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -525,7 +525,7 @@ var dataSet = [
 		"Log":"お元気ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -547,7 +547,7 @@ var dataSet = [
 		"Log":"ありがとう、元気です。それで、あなたは？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -569,7 +569,7 @@ var dataSet = [
 		"Log":"私も元気です。ありがとう。(バスが来る)",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -591,7 +591,7 @@ var dataSet = [
 		"Log":"それでは、田中さん、また明日お会いしましょう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -613,7 +613,7 @@ var dataSet = [
 		"Log":"ではまた明日。じゃあ、さようなら。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -635,7 +635,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン1はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -657,7 +657,7 @@ var dataSet = [
 		"Log":"レッスン2",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -668,7 +668,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -679,7 +679,7 @@ var dataSet = [
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -701,7 +701,7 @@ var dataSet = [
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -723,7 +723,7 @@ var dataSet = [
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -745,7 +745,7 @@ var dataSet = [
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -767,7 +767,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -789,7 +789,7 @@ var dataSet = [
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -811,7 +811,7 @@ var dataSet = [
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -833,7 +833,7 @@ var dataSet = [
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -855,7 +855,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -866,7 +866,7 @@ var dataSet = [
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -899,7 +899,7 @@ var dataSet = [
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -932,7 +932,7 @@ var dataSet = [
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -965,7 +965,7 @@ var dataSet = [
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -998,7 +998,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1031,7 +1031,7 @@ var dataSet = [
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1064,7 +1064,7 @@ var dataSet = [
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1097,7 +1097,7 @@ var dataSet = [
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1130,7 +1130,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1141,7 +1141,7 @@ var dataSet = [
 		"Log":"こんにちは。わたしは田中といいます。田中健です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1163,7 +1163,7 @@ var dataSet = [
 		"Log":"私の名前はアンドレア・ウェーバーです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1185,7 +1185,7 @@ var dataSet = [
 		"Log":"お会いできて嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1207,7 +1207,7 @@ var dataSet = [
 		"Log":"私も嬉しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1229,7 +1229,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、どこから来ましたか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1251,7 +1251,7 @@ var dataSet = [
 		"Log":"私はイタリアにある南チロルから来ました。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1273,7 +1273,7 @@ var dataSet = [
 		"Log":"そしてあなたは?あなたは韓国出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1295,7 +1295,7 @@ var dataSet = [
 		"Log":"いいえ、韓国出身ではなく、日本出身です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1317,7 +1317,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン2はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1339,7 +1339,7 @@ var dataSet = [
 		"Log":"レッスン 3",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1350,7 +1350,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1361,7 +1361,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは。お元気ですか。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1383,7 +1383,7 @@ var dataSet = [
 		"Log":"ありがとう、いいね。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1405,7 +1405,7 @@ var dataSet = [
 		"Log":"とても良いです、ありがとう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1427,7 +1427,7 @@ var dataSet = [
 		"Log":"シュナイダーさん、こちらはバウアーさんです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1449,7 +1449,7 @@ var dataSet = [
 		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1471,7 +1471,7 @@ var dataSet = [
 		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1493,7 +1493,7 @@ var dataSet = [
 		"Log":"彼女は私の隣人であり、料理の先生です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1515,7 +1515,7 @@ var dataSet = [
 		"Log":"嬉しい。料理も大好きです。",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1537,7 +1537,7 @@ var dataSet = [
 		"Log":"素晴らしい。それに、共通点があります。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1559,7 +1559,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1570,7 +1570,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは。お元気ですか。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1603,7 +1603,7 @@ var dataSet = [
 		"Log":"ありがとう、いいね。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1636,7 +1636,7 @@ var dataSet = [
 		"Log":"とても良いです、ありがとう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1669,7 +1669,7 @@ var dataSet = [
 		"Log":"シュナイダーさん、こちらはバウアーさんです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1702,7 +1702,7 @@ var dataSet = [
 		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1735,7 +1735,7 @@ var dataSet = [
 		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1768,7 +1768,7 @@ var dataSet = [
 		"Log":"彼女は私の隣人であり、料理の先生です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1801,7 +1801,7 @@ var dataSet = [
 		"Log":"嬉しい。料理も大好きです。",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1834,7 +1834,7 @@ var dataSet = [
 		"Log":"素晴らしい。それに、共通点があります。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1867,7 +1867,7 @@ var dataSet = [
 		"Log":"次の日本語をフランス語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1878,7 +1878,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは。お元気ですか。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1900,7 +1900,7 @@ var dataSet = [
 		"Log":"ありがとう、いいね。それで、あなたは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1922,7 +1922,7 @@ var dataSet = [
 		"Log":"とても良いです、ありがとう。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1944,7 +1944,7 @@ var dataSet = [
 		"Log":"シュナイダーさん、こちらはバウアーさんです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1966,7 +1966,7 @@ var dataSet = [
 		"Log":"彼は私の同僚です。私たちは一緒に働きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -1988,7 +1988,7 @@ var dataSet = [
 		"Log":"バウアーさん、こちらはシュナイダー夫人です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2010,7 +2010,7 @@ var dataSet = [
 		"Log":"彼女は私の隣人であり、料理の先生です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2032,7 +2032,7 @@ var dataSet = [
 		"Log":"嬉しい。料理も大好きです。",
 		"type":"a",
 		"icon":"assets/icons/image009.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2054,7 +2054,7 @@ var dataSet = [
 		"Log":"素晴らしい。それに、共通点があります。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2076,7 +2076,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン3はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2098,7 +2098,7 @@ var dataSet = [
 		"Log":"レッスン 1",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2106,10 +2106,10 @@ var dataSet = [
 		"LogID":"3",
 		"Chara":"1",
 		"Name":"Navigator",
-		"Log":"まずは対話文を流します。その後に、日本語と中国語を一文ずつ流すので中国語を真似して下さい。最後に日本語のみを流すので、中国語で答えてください。",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2120,7 +2120,7 @@ var dataSet = [
 		"Log":"すみません、市庁舎はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2142,7 +2142,7 @@ var dataSet = [
 		"Log":"少々お待ちください。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2164,7 +2164,7 @@ var dataSet = [
 		"Log":"ここを直進し、右側の最初の通りを進みます。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2186,7 +2186,7 @@ var dataSet = [
 		"Log":"そこに市庁舎があります。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2208,7 +2208,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そしてもう1つの質問。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2230,7 +2230,7 @@ var dataSet = [
 		"Log":"ここのバス停はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2252,7 +2252,7 @@ var dataSet = [
 		"Log":"バス停、「シラー通り」があります",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2274,7 +2274,7 @@ var dataSet = [
 		"Log":"あ はい。ありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2296,7 +2296,7 @@ var dataSet = [
 		"Log":"どういたしまして。じゃあまた。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2318,7 +2318,7 @@ var dataSet = [
 		"Log":"また。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2340,7 +2340,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2351,7 +2351,7 @@ var dataSet = [
 		"Log":"すみません、市庁舎はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2384,7 +2384,7 @@ var dataSet = [
 		"Log":"少々お待ちください。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2417,7 +2417,7 @@ var dataSet = [
 		"Log":"ここを直進し、右側の最初の通りを進みます。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2450,7 +2450,7 @@ var dataSet = [
 		"Log":"そこに市庁舎があります。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2483,7 +2483,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そしてもう1つの質問。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2516,7 +2516,7 @@ var dataSet = [
 		"Log":"ここのバス停はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2549,7 +2549,7 @@ var dataSet = [
 		"Log":"バス停、「シラー通り」があります",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2582,7 +2582,7 @@ var dataSet = [
 		"Log":"あ はい。ありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2615,7 +2615,7 @@ var dataSet = [
 		"Log":"どういたしまして。じゃあまた。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2648,7 +2648,7 @@ var dataSet = [
 		"Log":"また。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2681,7 +2681,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2692,7 +2692,7 @@ var dataSet = [
 		"Log":"すみません、市庁舎はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2714,7 +2714,7 @@ var dataSet = [
 		"Log":"少々お待ちください。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2736,7 +2736,7 @@ var dataSet = [
 		"Log":"ここを直進し、右側の最初の通りを進みます。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2758,7 +2758,7 @@ var dataSet = [
 		"Log":"そこに市庁舎があります。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2780,7 +2780,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そしてもう1つの質問。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2802,7 +2802,7 @@ var dataSet = [
 		"Log":"このあたりのバス停はどこですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2824,7 +2824,7 @@ var dataSet = [
 		"Log":"そこにバス停、「シラー通り」があります",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2846,7 +2846,7 @@ var dataSet = [
 		"Log":"あ はい。ありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2868,7 +2868,7 @@ var dataSet = [
 		"Log":"どういたしまして。じゃあまた。",
 		"type":"a",
 		"icon":"assets/icons/image081.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2890,7 +2890,7 @@ var dataSet = [
 		"Log":"また。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2912,7 +2912,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン4はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2934,7 +2934,7 @@ var dataSet = [
 		"Log":"レッスン5",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2945,7 +2945,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2956,7 +2956,7 @@ var dataSet = [
 		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -2978,7 +2978,7 @@ var dataSet = [
 		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3000,7 +3000,7 @@ var dataSet = [
 		"Log":"彼女はイタリア人です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3022,7 +3022,7 @@ var dataSet = [
 		"Log":"面白いね。兄弟がいますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3044,7 +3044,7 @@ var dataSet = [
 		"Log":"はい、私には弟と妹がいます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3066,7 +3066,7 @@ var dataSet = [
 		"Log":"私の弟はザルツブルクで勉強しています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3088,7 +3088,7 @@ var dataSet = [
 		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3110,7 +3110,7 @@ var dataSet = [
 		"Log":"彼はそこにケーキ屋をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3132,7 +3132,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3143,7 +3143,7 @@ var dataSet = [
 		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3176,7 +3176,7 @@ var dataSet = [
 		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3209,7 +3209,7 @@ var dataSet = [
 		"Log":"彼女はイタリア人です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3242,7 +3242,7 @@ var dataSet = [
 		"Log":"面白いね。兄弟がいますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3275,7 +3275,7 @@ var dataSet = [
 		"Log":"はい、私には弟と妹がいます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3308,7 +3308,7 @@ var dataSet = [
 		"Log":"私の弟はザルツブルクで勉強しています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3341,7 +3341,7 @@ var dataSet = [
 		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3374,7 +3374,7 @@ var dataSet = [
 		"Log":"彼はそこにケーキ屋をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3407,7 +3407,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3418,7 +3418,7 @@ var dataSet = [
 		"Log":"教えてください、アンドレア、あなたは家ではドイツ語それともイタリア語を話しますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3440,7 +3440,7 @@ var dataSet = [
 		"Log":"父と私はいつもドイツ語を話しますが、母はイタリア語しか話せません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3462,7 +3462,7 @@ var dataSet = [
 		"Log":"彼女はイタリア人です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3484,7 +3484,7 @@ var dataSet = [
 		"Log":"面白いね。兄弟がいますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3506,7 +3506,7 @@ var dataSet = [
 		"Log":"はい、私には弟と妹がいます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3528,7 +3528,7 @@ var dataSet = [
 		"Log":"私の弟はザルツブルクで勉強しています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3550,7 +3550,7 @@ var dataSet = [
 		"Log":"面白いです。私の兄もザルツブルクに住んでいます。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3572,7 +3572,7 @@ var dataSet = [
 		"Log":"彼はそこにケーキ屋をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3594,7 +3594,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスンドイツ語はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3616,7 +3616,7 @@ var dataSet = [
 		"Log":"レッスン6",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3627,7 +3627,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3638,7 +3638,7 @@ var dataSet = [
 		"Log":"おはよう田中さん。あら、何を持っているんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3660,7 +3660,7 @@ var dataSet = [
 		"Log":"これは柔道着です。わたしは柔道をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3682,7 +3682,7 @@ var dataSet = [
 		"Log":"凄い！それは定期的に行っていますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3704,7 +3704,7 @@ var dataSet = [
 		"Log":"はい、毎朝トレーニングに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3726,7 +3726,7 @@ var dataSet = [
 		"Log":"シュナイダーさんも、スポーツをしますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3748,7 +3748,7 @@ var dataSet = [
 		"Log":"はい、サイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3770,7 +3770,7 @@ var dataSet = [
 		"Log":"夫もサイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3792,7 +3792,7 @@ var dataSet = [
 		"Log":"週末には自転車ツアーをよくします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3814,7 +3814,7 @@ var dataSet = [
 		"Log":"それはいいですね。サイクリングも私の趣味です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3836,7 +3836,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3847,7 +3847,7 @@ var dataSet = [
 		"Log":"これは柔道着です。わたしは柔道をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3880,7 +3880,7 @@ var dataSet = [
 		"Log":"凄い！それは定期的に行っていますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3913,7 +3913,7 @@ var dataSet = [
 		"Log":"はい、毎朝トレーニングに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3946,7 +3946,7 @@ var dataSet = [
 		"Log":"シュナイダーさんも、スポーツをしますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -3979,7 +3979,7 @@ var dataSet = [
 		"Log":"はい、サイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4012,7 +4012,7 @@ var dataSet = [
 		"Log":"夫もサイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4045,7 +4045,7 @@ var dataSet = [
 		"Log":"週末には自転車ツアーをよくします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4078,7 +4078,7 @@ var dataSet = [
 		"Log":"それはいいですね。サイクリングも私の趣味です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4111,7 +4111,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4122,7 +4122,7 @@ var dataSet = [
 		"Log":"これは柔道着です。わたしは柔道をやっています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4144,7 +4144,7 @@ var dataSet = [
 		"Log":"凄い！それは定期的に行っていますか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4166,7 +4166,7 @@ var dataSet = [
 		"Log":"はい、毎朝トレーニングに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4188,7 +4188,7 @@ var dataSet = [
 		"Log":"シュナイダーさんも、スポーツをしますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4210,7 +4210,7 @@ var dataSet = [
 		"Log":"はい、サイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4232,7 +4232,7 @@ var dataSet = [
 		"Log":"夫もサイクリングが好きです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4254,7 +4254,7 @@ var dataSet = [
 		"Log":"週末には自転車ツアーをよくします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4276,7 +4276,7 @@ var dataSet = [
 		"Log":"それはいいですね。サイクリングも私の趣味です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4298,7 +4298,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン6はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4320,7 +4320,7 @@ var dataSet = [
 		"Log":"レッスン7",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4331,7 +4331,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4342,7 +4342,7 @@ var dataSet = [
 		"Log":"こんにちは。ご注文は何ですか?(あなたは何が欲しいですか?)",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4364,7 +4364,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4386,7 +4386,7 @@ var dataSet = [
 		"Log":"すぐにお持ちします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4408,7 +4408,7 @@ var dataSet = [
 		"Log":"(しばらくして)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4430,7 +4430,7 @@ var dataSet = [
 		"Log":"すみません。お会計をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4452,7 +4452,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶、合計7ユーロ50をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4474,7 +4474,7 @@ var dataSet = [
 		"Log":"8ユーロでお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4496,7 +4496,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そして2つのお釣りです。よい一日を。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4518,7 +4518,7 @@ var dataSet = [
 		"Log":"どうもありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4540,7 +4540,7 @@ var dataSet = [
 		"Log":"次のを真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4551,7 +4551,7 @@ var dataSet = [
 		"Log":"こんにちは。ご注文は何ですか?(あなたは何が欲しいですか?)",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4584,7 +4584,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4617,7 +4617,7 @@ var dataSet = [
 		"Log":"すぐにお持ちします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4650,7 +4650,7 @@ var dataSet = [
 		"Log":"(しばらくして)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4683,7 +4683,7 @@ var dataSet = [
 		"Log":"すみません。お会計をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4716,7 +4716,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶、合計7ユーロ50をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4749,7 +4749,7 @@ var dataSet = [
 		"Log":"8ユーロでお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4782,7 +4782,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そして2つのお釣りです。よい一日を。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4815,7 +4815,7 @@ var dataSet = [
 		"Log":"どうもありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4848,7 +4848,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4859,7 +4859,7 @@ var dataSet = [
 		"Log":"こんにちは。ご注文は何ですか?(あなたは何が欲しいですか?)",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4881,7 +4881,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4903,7 +4903,7 @@ var dataSet = [
 		"Log":"すぐにお持ちします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4925,7 +4925,7 @@ var dataSet = [
 		"Log":"(しばらくして)",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4947,7 +4947,7 @@ var dataSet = [
 		"Log":"すみません。お会計をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4969,7 +4969,7 @@ var dataSet = [
 		"Log":"チーズケーキとお茶、合計7ユーロ50をお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -4991,7 +4991,7 @@ var dataSet = [
 		"Log":"8ユーロでお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5013,7 +5013,7 @@ var dataSet = [
 		"Log":"ありがとうございました。そして50セントのお釣りです。よい一日を。",
 		"type":"a",
 		"icon":"assets/icons/image021.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5035,7 +5035,7 @@ var dataSet = [
 		"Log":"どうもありがとうございました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5057,7 +5057,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン7はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5079,7 +5079,7 @@ var dataSet = [
 		"Log":"レッスン8",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5090,7 +5090,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5101,7 +5101,7 @@ var dataSet = [
 		"Log":"こんにちは。ベルリン行きのチケットが欲しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5123,7 +5123,7 @@ var dataSet = [
 		"Log":"2等席で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5145,7 +5145,7 @@ var dataSet = [
 		"Log":"片道ですか、それとも往復ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5167,7 +5167,7 @@ var dataSet = [
 		"Log":"片道でお願いします。それで席も予約したいのですが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5189,7 +5189,7 @@ var dataSet = [
 		"Log":"すぐに出ます。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5211,7 +5211,7 @@ var dataSet = [
 		"Log":"午前9時23分、で良いですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5233,7 +5233,7 @@ var dataSet = [
 		"Log":"喫煙ですか、それとも禁煙ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5255,7 +5255,7 @@ var dataSet = [
 		"Log":"禁煙でお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5277,7 +5277,7 @@ var dataSet = [
 		"Log":"列車は何時にベルリンに到着しますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5299,7 +5299,7 @@ var dataSet = [
 		"Log":"午後1時15分です。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5321,7 +5321,7 @@ var dataSet = [
 		"Log":"ここにすべて書いてあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5343,7 +5343,7 @@ var dataSet = [
 		"Log":"それでは55,70ユーロ、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5376,7 +5376,7 @@ var dataSet = [
 		"Log":"ありがとうございました。良い旅を。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5398,7 +5398,7 @@ var dataSet = [
 		"Log":"ありがとうございました。じゃあ、また。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5420,7 +5420,7 @@ var dataSet = [
 		"Log":"次のを真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5431,7 +5431,7 @@ var dataSet = [
 		"Log":"こんにちは。ベルリン行きのチケットが欲しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5464,7 +5464,7 @@ var dataSet = [
 		"Log":"2等席で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5497,7 +5497,7 @@ var dataSet = [
 		"Log":"片道ですか、それとも往復ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5530,7 +5530,7 @@ var dataSet = [
 		"Log":"片道でお願いします。それで席も予約したいのですが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5563,7 +5563,7 @@ var dataSet = [
 		"Log":"すぐに出ます。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5596,7 +5596,7 @@ var dataSet = [
 		"Log":"午前9時23分、で良いですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5629,7 +5629,7 @@ var dataSet = [
 		"Log":"喫煙ですか、それとも禁煙ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5662,7 +5662,7 @@ var dataSet = [
 		"Log":"禁煙でお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5695,7 +5695,7 @@ var dataSet = [
 		"Log":"列車は何時にベルリンに到着しますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5728,7 +5728,7 @@ var dataSet = [
 		"Log":"午後1時15分です。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5761,7 +5761,7 @@ var dataSet = [
 		"Log":"ここにすべて書いてあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5794,7 +5794,7 @@ var dataSet = [
 		"Log":"それでは55,70ユーロ、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5838,7 +5838,7 @@ var dataSet = [
 		"Log":"ありがとうございました。良い旅を。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5871,7 +5871,7 @@ var dataSet = [
 		"Log":"ありがとうございました。じゃあ、また。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5904,7 +5904,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5915,7 +5915,7 @@ var dataSet = [
 		"Log":"こんにちは。ベルリン行きのチケットが欲しいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5937,7 +5937,7 @@ var dataSet = [
 		"Log":"2等席で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5959,7 +5959,7 @@ var dataSet = [
 		"Log":"片道ですか、それとも往復ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -5981,7 +5981,7 @@ var dataSet = [
 		"Log":"片道でお願いします。それで席も予約したいのですが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6003,7 +6003,7 @@ var dataSet = [
 		"Log":"すぐに出ます。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6025,7 +6025,7 @@ var dataSet = [
 		"Log":"午前9時23分、で良いですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6047,7 +6047,7 @@ var dataSet = [
 		"Log":"喫煙ですか、それとも禁煙ですか?",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6069,7 +6069,7 @@ var dataSet = [
 		"Log":"禁煙でお願いします。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6091,7 +6091,7 @@ var dataSet = [
 		"Log":"列車は何時にベルリンに到着しますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6113,7 +6113,7 @@ var dataSet = [
 		"Log":"午後1時15分です。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6135,7 +6135,7 @@ var dataSet = [
 		"Log":"ここにすべて書いてあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6157,7 +6157,7 @@ var dataSet = [
 		"Log":"それでは55,70ユーロ、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6190,7 +6190,7 @@ var dataSet = [
 		"Log":"ありがとうございました。良い旅を。",
 		"type":"a",
 		"icon":"assets/icons/image022.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6212,7 +6212,7 @@ var dataSet = [
 		"Log":"ありがとうございました。じゃあ、また。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6234,7 +6234,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン8はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6256,7 +6256,7 @@ var dataSet = [
 		"Log":"レッスン9",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6267,7 +6267,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6278,7 +6278,7 @@ var dataSet = [
 		"Log":"(PRRR.)はい、田中。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6300,7 +6300,7 @@ var dataSet = [
 		"Log":"こんにちは、ケン。アンドレアです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6322,7 +6322,7 @@ var dataSet = [
 		"Log":"ねえ、ピーターと私はコンサートに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6344,7 +6344,7 @@ var dataSet = [
 		"Log":"ベートーベンの第九です。一緒に行きませんか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6366,7 +6366,7 @@ var dataSet = [
 		"Log":"はい、喜んで。それはいつ始まりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6388,7 +6388,7 @@ var dataSet = [
 		"Log":"7時に。6時に迎えに行くので良いですか？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6410,7 +6410,7 @@ var dataSet = [
 		"Log":"それはご親切に。しかし、私はまだ買い物をしなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6432,7 +6432,7 @@ var dataSet = [
 		"Log":"6時半頃には来てもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6454,7 +6454,7 @@ var dataSet = [
 		"Log":"はい、それでは6時半に行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6476,7 +6476,7 @@ var dataSet = [
 		"Log":"じゃあ、また!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6498,7 +6498,7 @@ var dataSet = [
 		"Log":"じゃあ、また。さようなら！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6520,7 +6520,7 @@ var dataSet = [
 		"Log":"次のを真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6531,7 +6531,7 @@ var dataSet = [
 		"Log":"(PRRR.)はい、田中。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6564,7 +6564,7 @@ var dataSet = [
 		"Log":"こんにちは、ケン。アンドレアです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6597,7 +6597,7 @@ var dataSet = [
 		"Log":"ねえ、ピーターと私はコンサートに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6630,7 +6630,7 @@ var dataSet = [
 		"Log":"ベートーベンの第九です。一緒に行きませんか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6663,7 +6663,7 @@ var dataSet = [
 		"Log":"はい、喜んで。それはいつ始まりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6696,7 +6696,7 @@ var dataSet = [
 		"Log":"7時に。6時に迎えに行くので良いですか？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6729,7 +6729,7 @@ var dataSet = [
 		"Log":"それはご親切に。しかし、私はまだ買い物をしなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6762,7 +6762,7 @@ var dataSet = [
 		"Log":"6時半頃には来てもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6795,7 +6795,7 @@ var dataSet = [
 		"Log":"はい、それでは6時半に行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6828,7 +6828,7 @@ var dataSet = [
 		"Log":"じゃあ、また!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6861,7 +6861,7 @@ var dataSet = [
 		"Log":"じゃあ、また。さようなら！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6894,7 +6894,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6905,7 +6905,7 @@ var dataSet = [
 		"Log":"(PRRR.)はい、田中。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6927,7 +6927,7 @@ var dataSet = [
 		"Log":"こんにちは、ケン。アンドレアです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6949,7 +6949,7 @@ var dataSet = [
 		"Log":"ねえ、ピーターと私はコンサートに行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6971,7 +6971,7 @@ var dataSet = [
 		"Log":"ベートーベンの第九です。一緒に行きませんか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -6993,7 +6993,7 @@ var dataSet = [
 		"Log":"はい、喜んで。それはいつ始まりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7015,7 +7015,7 @@ var dataSet = [
 		"Log":"7時に。6時に迎えに行くので良いですか？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7037,7 +7037,7 @@ var dataSet = [
 		"Log":"それはご親切に。しかし、私はまだ買い物をしなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7059,7 +7059,7 @@ var dataSet = [
 		"Log":"6時半頃には来てもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7081,7 +7081,7 @@ var dataSet = [
 		"Log":"はい、それでは6時半に行きます。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7103,7 +7103,7 @@ var dataSet = [
 		"Log":"じゃあ、また!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7125,7 +7125,7 @@ var dataSet = [
 		"Log":"じゃあ、また。さようなら！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7147,7 +7147,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン9はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7169,7 +7169,7 @@ var dataSet = [
 		"Log":"レッスン10",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7180,7 +7180,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7191,7 +7191,7 @@ var dataSet = [
 		"Log":"田中さん、お子さんは何歳ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7213,7 +7213,7 @@ var dataSet = [
 		"Log":"6歳と3歳です。残念ながら、写真を持っていませんが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7246,7 +7246,7 @@ var dataSet = [
 		"Log":"いや、あった! これです。お見せしましょうか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7268,7 +7268,7 @@ var dataSet = [
 		"Log":"はい、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7290,7 +7290,7 @@ var dataSet = [
 		"Log":"まず、これが私の妻で、これらが私の子供たちです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7312,7 +7312,7 @@ var dataSet = [
 		"Log":"ほら、私の息子は柔道着を着ています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7334,7 +7334,7 @@ var dataSet = [
 		"Log":"あなたと同じ! それで、彼らはあなたの両親ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7356,7 +7356,7 @@ var dataSet = [
 		"Log":"その通り。そして、これは私たちの犬ロッキーです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7378,7 +7378,7 @@ var dataSet = [
 		"Log":"可愛い! 私もそんな犬を飼いたいです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7400,7 +7400,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7411,7 +7411,7 @@ var dataSet = [
 		"Log":"田中さん、お子さんは何歳ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7444,7 +7444,7 @@ var dataSet = [
 		"Log":"6歳と3歳です。残念ながら、写真を持っていませんが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7488,7 +7488,7 @@ var dataSet = [
 		"Log":"いや、あった! これです。お見せしましょうか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7521,7 +7521,7 @@ var dataSet = [
 		"Log":"はい、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7554,7 +7554,7 @@ var dataSet = [
 		"Log":"まず、これが私の妻で、これらが私の子供たちです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7587,7 +7587,7 @@ var dataSet = [
 		"Log":"ほら、私の息子は柔道着を着ています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7620,7 +7620,7 @@ var dataSet = [
 		"Log":"あなたと同じ! それで、彼らはあなたの両親ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7653,7 +7653,7 @@ var dataSet = [
 		"Log":"その通り。そして、これは私たちの犬ロッキーです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7686,7 +7686,7 @@ var dataSet = [
 		"Log":"可愛い! 私もそんな犬を飼いたいです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7719,7 +7719,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7730,7 +7730,7 @@ var dataSet = [
 		"Log":"田中さん、お子さんは何歳ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7752,7 +7752,7 @@ var dataSet = [
 		"Log":"6歳と3歳です。残念ながら、写真を持っていませんが。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7785,7 +7785,7 @@ var dataSet = [
 		"Log":"いや、あった! これです。お見せしましょうか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7807,7 +7807,7 @@ var dataSet = [
 		"Log":"はい、お願いします。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7829,7 +7829,7 @@ var dataSet = [
 		"Log":"まず、これが私の妻で、これらが私の子供たちです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7851,7 +7851,7 @@ var dataSet = [
 		"Log":"ほら、私の息子は柔道着を着ています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7873,7 +7873,7 @@ var dataSet = [
 		"Log":"あなたと同じ! それで、彼らはあなたの両親ですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7895,7 +7895,7 @@ var dataSet = [
 		"Log":"その通り。そして、これは私たちの犬ロッキーです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7917,7 +7917,7 @@ var dataSet = [
 		"Log":"可愛い! 私もそんな犬を飼いたいです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7939,7 +7939,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン10はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7961,7 +7961,7 @@ var dataSet = [
 		"Log":"レッスン11",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7972,7 +7972,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -7983,7 +7983,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8005,7 +8005,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8027,7 +8027,7 @@ var dataSet = [
 		"Log":"私は妻のための伝統的な上着を探しています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8049,7 +8049,7 @@ var dataSet = [
 		"Log":"奥様のサイズは?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8071,7 +8071,7 @@ var dataSet = [
 		"Log":"42です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8093,7 +8093,7 @@ var dataSet = [
 		"Log":"こちらはいかがでしょうか?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8115,7 +8115,7 @@ var dataSet = [
 		"Log":"これは本物の手作りです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8137,7 +8137,7 @@ var dataSet = [
 		"Log":"明るい色もありますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8159,7 +8159,7 @@ var dataSet = [
 		"Log":"はい、こちらです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8181,7 +8181,7 @@ var dataSet = [
 		"Log":"とても良いです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8203,7 +8203,7 @@ var dataSet = [
 		"Log":"彼女もきっと気に入ります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8225,7 +8225,7 @@ var dataSet = [
 		"Log":"いくらですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8247,7 +8247,7 @@ var dataSet = [
 		"Log":"1680ユーロです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8269,7 +8269,7 @@ var dataSet = [
 		"Log":"よし、ではそれをいただきます。クレジットカードで支払います。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8291,7 +8291,7 @@ var dataSet = [
 		"Log":"ありがとうございます。どうぞこちらにいらしてください。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8313,7 +8313,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8324,7 +8324,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8357,7 +8357,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8390,7 +8390,7 @@ var dataSet = [
 		"Log":"私は妻のための伝統的な上着を探しています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8423,7 +8423,7 @@ var dataSet = [
 		"Log":"奥様のサイズは?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8456,7 +8456,7 @@ var dataSet = [
 		"Log":"42です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8489,7 +8489,7 @@ var dataSet = [
 		"Log":"こちらはいかがでしょうか?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8522,7 +8522,7 @@ var dataSet = [
 		"Log":"これは本物の手作りです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8555,7 +8555,7 @@ var dataSet = [
 		"Log":"明るい色もありますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8588,7 +8588,7 @@ var dataSet = [
 		"Log":"はい、こちらです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8621,7 +8621,7 @@ var dataSet = [
 		"Log":"とても良いです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8654,7 +8654,7 @@ var dataSet = [
 		"Log":"彼女もきっと気に入ります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8687,7 +8687,7 @@ var dataSet = [
 		"Log":"いくらですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8720,7 +8720,7 @@ var dataSet = [
 		"Log":"1680ユーロです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8753,7 +8753,7 @@ var dataSet = [
 		"Log":"よし、ではそれをいただきます。クレジットカードで支払います。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8786,7 +8786,7 @@ var dataSet = [
 		"Log":"ありがとうございます。どうぞこちらにいらしてください。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8819,7 +8819,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8830,7 +8830,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8852,7 +8852,7 @@ var dataSet = [
 		"Log":"こんにちは。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8874,7 +8874,7 @@ var dataSet = [
 		"Log":"私は妻のための伝統的な上着を探しています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8896,7 +8896,7 @@ var dataSet = [
 		"Log":"奥様のサイズは?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8918,7 +8918,7 @@ var dataSet = [
 		"Log":"42です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8940,7 +8940,7 @@ var dataSet = [
 		"Log":"こちらはいかがでしょうか?",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8962,7 +8962,7 @@ var dataSet = [
 		"Log":"これは本物の手作りです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -8984,7 +8984,7 @@ var dataSet = [
 		"Log":"明るい色もありますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9006,7 +9006,7 @@ var dataSet = [
 		"Log":"はい、こちらです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9028,7 +9028,7 @@ var dataSet = [
 		"Log":"とても良いです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9050,7 +9050,7 @@ var dataSet = [
 		"Log":"彼女もきっと気に入ります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9072,7 +9072,7 @@ var dataSet = [
 		"Log":"いくらですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9094,7 +9094,7 @@ var dataSet = [
 		"Log":"1680ユーロです。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9116,7 +9116,7 @@ var dataSet = [
 		"Log":"よし、ではそれをいただきます。クレジットカードで支払います。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9138,7 +9138,7 @@ var dataSet = [
 		"Log":"ありがとうございます。どうぞこちらにいらしてください。",
 		"type":"a",
 		"icon":"assets/icons/image088.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9160,7 +9160,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン11はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9182,7 +9182,7 @@ var dataSet = [
 		"Log":"レッスン12",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9190,10 +9190,10 @@ var dataSet = [
 		"LogID":"3",
 		"Chara":"1",
 		"Name":"Navigator",
-		"Log":"まずは対話文を流します。その後に、日本語とを一文ずつ流すのでを真似して下さい。最後に日本語のみを流すので、で答えてください。",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9204,7 +9204,7 @@ var dataSet = [
 		"Log":"さて、私はそろそろ行かなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9226,7 +9226,7 @@ var dataSet = [
 		"Log":"今日は妹の誕生日で、私は彼女の料理を手伝わなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9248,7 +9248,7 @@ var dataSet = [
 		"Log":"彼女は何歳になりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9270,7 +9270,7 @@ var dataSet = [
 		"Log":"17です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9292,7 +9292,7 @@ var dataSet = [
 		"Log":"彼女はもちろん、友達のみんなと祝いたいと思っています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9314,7 +9314,7 @@ var dataSet = [
 		"Log":"だから、今日は準備することがたくさんあります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9336,7 +9336,7 @@ var dataSet = [
 		"Log":"よいですね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9358,7 +9358,7 @@ var dataSet = [
 		"Log":"ちょっと待って、彼女にもしかしたら何かをあげられるかも....",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9380,7 +9380,7 @@ var dataSet = [
 		"Log":"どうぞ、これは妹さんに。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9402,7 +9402,7 @@ var dataSet = [
 		"Log":"封筒付きの日本からの便箋です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9424,7 +9424,7 @@ var dataSet = [
 		"Log":"ありがとうございます！きっと喜ぶと思います。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9443,10 +9443,10 @@ var dataSet = [
 		"LogID":"26",
 		"Chara":"1",
 		"Name":"Navigator",
-		"Log":"次のを真似してね！",
+		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9457,7 +9457,7 @@ var dataSet = [
 		"Log":"さて、私はそろそろ行かなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9490,7 +9490,7 @@ var dataSet = [
 		"Log":"今日は妹の誕生日で、私は彼女の料理を手伝わなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9523,7 +9523,7 @@ var dataSet = [
 		"Log":"彼女は何歳になりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9556,7 +9556,7 @@ var dataSet = [
 		"Log":"17です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9589,7 +9589,7 @@ var dataSet = [
 		"Log":"彼女はもちろん、友達のみんなと祝いたいと思っています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9622,7 +9622,7 @@ var dataSet = [
 		"Log":"だから、今日は準備することがたくさんあります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9655,7 +9655,7 @@ var dataSet = [
 		"Log":"よいですね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9688,7 +9688,7 @@ var dataSet = [
 		"Log":"ちょっと待って、彼女にもしかしたら何かをあげられるかも....",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9721,7 +9721,7 @@ var dataSet = [
 		"Log":"どうぞ、これは妹さんに。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9754,7 +9754,7 @@ var dataSet = [
 		"Log":"封筒付きの日本からの便箋です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9787,7 +9787,7 @@ var dataSet = [
 		"Log":"ありがとうございます！きっと喜ぶと思います。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9820,7 +9820,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9831,7 +9831,7 @@ var dataSet = [
 		"Log":"さて、私はそろそろ行かなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9853,7 +9853,7 @@ var dataSet = [
 		"Log":"今日は妹の誕生日で、私は彼女の料理を手伝わなければなりません。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9875,7 +9875,7 @@ var dataSet = [
 		"Log":"彼女は何歳になりますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9897,7 +9897,7 @@ var dataSet = [
 		"Log":"17です。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9919,7 +9919,7 @@ var dataSet = [
 		"Log":"彼女はもちろん、友達のみんなと祝いたいと思っています。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9941,7 +9941,7 @@ var dataSet = [
 		"Log":"だから、今日は準備することがたくさんあります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9963,7 +9963,7 @@ var dataSet = [
 		"Log":"よいですね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -9985,7 +9985,7 @@ var dataSet = [
 		"Log":"ちょっと待って、彼女にもしかしたら何かをあげられるかも....",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10007,7 +10007,7 @@ var dataSet = [
 		"Log":"どうぞ、これは妹さんに。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10029,7 +10029,7 @@ var dataSet = [
 		"Log":"封筒付きの日本からの便箋です。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10051,7 +10051,7 @@ var dataSet = [
 		"Log":"ありがとうございます！きっと喜ぶと思います。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10073,7 +10073,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン12はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10095,7 +10095,7 @@ var dataSet = [
 		"Log":"レッスン13",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10106,7 +10106,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10117,7 +10117,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10139,7 +10139,7 @@ var dataSet = [
 		"Log":"お久しぶりです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10161,7 +10161,7 @@ var dataSet = [
 		"Log":"旅行していたんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10183,7 +10183,7 @@ var dataSet = [
 		"Log":"はい。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10205,7 +10205,7 @@ var dataSet = [
 		"Log":"ザルツブルクで一週間過ごしました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10227,7 +10227,7 @@ var dataSet = [
 		"Log":"それはいいですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10249,7 +10249,7 @@ var dataSet = [
 		"Log":"そこで何をしていましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10271,7 +10271,7 @@ var dataSet = [
 		"Log":"私は弟を訪ねていました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10293,7 +10293,7 @@ var dataSet = [
 		"Log":"彼はパティシエで、そこに店を持っています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10315,7 +10315,7 @@ var dataSet = [
 		"Log":"あ、そうですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10337,7 +10337,7 @@ var dataSet = [
 		"Log":"前にそう言ってました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10359,7 +10359,7 @@ var dataSet = [
 		"Log":"電車で旅行したんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10381,7 +10381,7 @@ var dataSet = [
 		"Log":"いいえ、車で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10403,7 +10403,7 @@ var dataSet = [
 		"Log":"私たちは3人でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10425,7 +10425,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、彼女のボーイフレンドと私。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10447,7 +10447,7 @@ var dataSet = [
 		"Log":"それで、ザルツブルクは気に入りましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10469,7 +10469,7 @@ var dataSet = [
 		"Log":"はい、とても。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10491,7 +10491,7 @@ var dataSet = [
 		"Log":"また行きたいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10513,7 +10513,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10524,7 +10524,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10557,7 +10557,7 @@ var dataSet = [
 		"Log":"お久しぶりです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10590,7 +10590,7 @@ var dataSet = [
 		"Log":"旅行していたんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10623,7 +10623,7 @@ var dataSet = [
 		"Log":"はい。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10656,7 +10656,7 @@ var dataSet = [
 		"Log":"ザルツブルクで一週間過ごしました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10689,7 +10689,7 @@ var dataSet = [
 		"Log":"それはいいですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10722,7 +10722,7 @@ var dataSet = [
 		"Log":"そこで何をしていましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10755,7 +10755,7 @@ var dataSet = [
 		"Log":"私は弟を訪ねていました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10788,7 +10788,7 @@ var dataSet = [
 		"Log":"彼はパティシエで、そこに店を持っています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10821,7 +10821,7 @@ var dataSet = [
 		"Log":"あ、そうですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10854,7 +10854,7 @@ var dataSet = [
 		"Log":"前にそう言ってました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10887,7 +10887,7 @@ var dataSet = [
 		"Log":"電車で旅行したんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10920,7 +10920,7 @@ var dataSet = [
 		"Log":"いいえ、車で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10953,7 +10953,7 @@ var dataSet = [
 		"Log":"私たちは3人でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -10986,7 +10986,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、彼女のボーイフレンドと私。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11019,7 +11019,7 @@ var dataSet = [
 		"Log":"それで、ザルツブルクは気に入りましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11052,7 +11052,7 @@ var dataSet = [
 		"Log":"はい、とても。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11085,7 +11085,7 @@ var dataSet = [
 		"Log":"また行きたいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11118,7 +11118,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11129,7 +11129,7 @@ var dataSet = [
 		"Log":"こんにちは、田中さん。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11151,7 +11151,7 @@ var dataSet = [
 		"Log":"お久しぶりです。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11173,7 +11173,7 @@ var dataSet = [
 		"Log":"旅行していたんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11195,7 +11195,7 @@ var dataSet = [
 		"Log":"はい。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11217,7 +11217,7 @@ var dataSet = [
 		"Log":"ザルツブルクで一週間過ごしました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11239,7 +11239,7 @@ var dataSet = [
 		"Log":"それはいいですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11261,7 +11261,7 @@ var dataSet = [
 		"Log":"そこで何をしていましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11283,7 +11283,7 @@ var dataSet = [
 		"Log":"私は弟を訪ねていました。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11305,7 +11305,7 @@ var dataSet = [
 		"Log":"彼はパティシエで、そこに店を持っています。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11327,7 +11327,7 @@ var dataSet = [
 		"Log":"あ、そうですね。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11349,7 +11349,7 @@ var dataSet = [
 		"Log":"前にそう言ってました。",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11371,7 +11371,7 @@ var dataSet = [
 		"Log":"電車で旅行したんですか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11393,7 +11393,7 @@ var dataSet = [
 		"Log":"いいえ、車で。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11415,7 +11415,7 @@ var dataSet = [
 		"Log":"私たちは3人でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11437,7 +11437,7 @@ var dataSet = [
 		"Log":"ウェーバーさん、彼女のボーイフレンドと私。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11459,7 +11459,7 @@ var dataSet = [
 		"Log":"それで、ザルツブルクは気に入りましたか?",
 		"type":"a",
 		"icon":"assets/icons/image003.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11481,7 +11481,7 @@ var dataSet = [
 		"Log":"はい、とても。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11503,7 +11503,7 @@ var dataSet = [
 		"Log":"また行きたいです。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11525,7 +11525,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン13はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11547,7 +11547,7 @@ var dataSet = [
 		"Log":"レッスン14",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11558,7 +11558,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11569,7 +11569,7 @@ var dataSet = [
 		"Log":"田中さんは中国に行ったことはありますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11591,7 +11591,7 @@ var dataSet = [
 		"Log":"はい、私は2回いったことがあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11613,7 +11613,7 @@ var dataSet = [
 		"Log":"なぜですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11635,7 +11635,7 @@ var dataSet = [
 		"Log":"私の娘が中国人と結婚するのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11657,7 +11657,7 @@ var dataSet = [
 		"Log":"それは、おめでとうございます!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11679,7 +11679,7 @@ var dataSet = [
 		"Log":"ありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11701,7 +11701,7 @@ var dataSet = [
 		"Log":"それで、12月に私たちは結婚披露宴のために北京に行くのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11723,7 +11723,7 @@ var dataSet = [
 		"Log":"しかし、中国はどのような感じですか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11745,7 +11745,7 @@ var dataSet = [
 		"Log":"英語は通じますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11767,7 +11767,7 @@ var dataSet = [
 		"Log":"まあ、英語では少し難しいかもしれません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11789,7 +11789,7 @@ var dataSet = [
 		"Log":"しかし、あなたの娘さんは中国語を上手に話せますよね？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11811,7 +11811,7 @@ var dataSet = [
 		"Log":"はい、彼女は中国学を学び、すでに中国からの多くの友人がいました。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11833,7 +11833,7 @@ var dataSet = [
 		"Log":"その時、彼女は私たちに友人を紹介したいと言いました...",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11855,7 +11855,7 @@ var dataSet = [
 		"Log":"それが彼でした。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11877,7 +11877,7 @@ var dataSet = [
 		"Log":"なるほど。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11899,7 +11899,7 @@ var dataSet = [
 		"Log":"では、あなたは中国語を学ぶ必要がありますね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11921,7 +11921,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11932,7 +11932,7 @@ var dataSet = [
 		"Log":"田中さんは中国に行ったことはありますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11965,7 +11965,7 @@ var dataSet = [
 		"Log":"はい、私は2回いったことがあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -11998,7 +11998,7 @@ var dataSet = [
 		"Log":"なぜですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12031,7 +12031,7 @@ var dataSet = [
 		"Log":"私の娘が中国人と結婚するのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12064,7 +12064,7 @@ var dataSet = [
 		"Log":"それは、おめでとうございます!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12097,7 +12097,7 @@ var dataSet = [
 		"Log":"ありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12130,7 +12130,7 @@ var dataSet = [
 		"Log":"それで、12月に私たちは結婚披露宴のために北京に行くのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12163,7 +12163,7 @@ var dataSet = [
 		"Log":"しかし、中国はどのような感じですか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12196,7 +12196,7 @@ var dataSet = [
 		"Log":"英語は通じますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12229,7 +12229,7 @@ var dataSet = [
 		"Log":"まあ、英語では少し難しいかもしれません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12262,7 +12262,7 @@ var dataSet = [
 		"Log":"しかし、あなたの娘さんは中国語を上手に話せますよね？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12295,7 +12295,7 @@ var dataSet = [
 		"Log":"はい、彼女は中国学を学び、すでに中国からの多くの友人がいました。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12328,7 +12328,7 @@ var dataSet = [
 		"Log":"その時、彼女は私たちに友人を紹介したいと言いました...",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12361,7 +12361,7 @@ var dataSet = [
 		"Log":"それが彼でした。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12394,7 +12394,7 @@ var dataSet = [
 		"Log":"なるほど。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12427,7 +12427,7 @@ var dataSet = [
 		"Log":"では、あなたは中国語を学ぶ必要がありますね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12460,7 +12460,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12471,7 +12471,7 @@ var dataSet = [
 		"Log":"田中さんは中国に行ったことはありますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12493,7 +12493,7 @@ var dataSet = [
 		"Log":"はい、私は2回いったことがあります。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12515,7 +12515,7 @@ var dataSet = [
 		"Log":"なぜですか。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12537,7 +12537,7 @@ var dataSet = [
 		"Log":"私の娘が中国人と結婚するのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12559,7 +12559,7 @@ var dataSet = [
 		"Log":"それは、おめでとうございます!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12581,7 +12581,7 @@ var dataSet = [
 		"Log":"ありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12603,7 +12603,7 @@ var dataSet = [
 		"Log":"それで、12月に私たちは結婚披露宴のために北京に行くのです。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12625,7 +12625,7 @@ var dataSet = [
 		"Log":"しかし、中国はどのような感じですか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12647,7 +12647,7 @@ var dataSet = [
 		"Log":"英語は通じますか?",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12669,7 +12669,7 @@ var dataSet = [
 		"Log":"まあ、英語では少し難しいかもしれません。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12691,7 +12691,7 @@ var dataSet = [
 		"Log":"しかし、あなたの娘さんは中国語を上手に話せますよね？",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12713,7 +12713,7 @@ var dataSet = [
 		"Log":"はい、彼女は中国学を学び、すでに中国からの多くの友人がいました。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12735,7 +12735,7 @@ var dataSet = [
 		"Log":"その時、彼女は私たちに友人を紹介したいと言いました...",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12757,7 +12757,7 @@ var dataSet = [
 		"Log":"それが彼でした。",
 		"type":"a",
 		"icon":"assets/icons/image208.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12779,7 +12779,7 @@ var dataSet = [
 		"Log":"なるほど。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12801,7 +12801,7 @@ var dataSet = [
 		"Log":"では、あなたは中国語を学ぶ必要がありますね。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12823,7 +12823,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン14はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12845,7 +12845,7 @@ var dataSet = [
 		"Log":"レッスン15",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12856,7 +12856,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12867,7 +12867,7 @@ var dataSet = [
 		"Log":"アンドレア、アドバイスをもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12889,7 +12889,7 @@ var dataSet = [
 		"Log":"はい、何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12911,7 +12911,7 @@ var dataSet = [
 		"Log":"かつらはどこで買えますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12933,7 +12933,7 @@ var dataSet = [
 		"Log":"かつら？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12955,7 +12955,7 @@ var dataSet = [
 		"Log":"まだかつらは必要ないでしょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12977,7 +12977,7 @@ var dataSet = [
 		"Log":"いえいえ！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -12999,7 +12999,7 @@ var dataSet = [
 		"Log":"バウアーさんが私をカーニバルパーティーに招待しました、そして私に仮装して欲しいと。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13021,7 +13021,7 @@ var dataSet = [
 		"Log":"侍として。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13043,7 +13043,7 @@ var dataSet = [
 		"Log":"あなたが侍に扮するの?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13065,7 +13065,7 @@ var dataSet = [
 		"Log":"それはおもしろい。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13087,7 +13087,7 @@ var dataSet = [
 		"Log":"それなら車で旧市街まで行くと良いです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13109,7 +13109,7 @@ var dataSet = [
 		"Log":"パーティー用品のお店があります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13131,7 +13131,7 @@ var dataSet = [
 		"Log":"ああ、ヴィーラント通りにある?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13153,7 +13153,7 @@ var dataSet = [
 		"Log":"その通り。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13175,7 +13175,7 @@ var dataSet = [
 		"Log":"今日一緒に行きましょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13197,7 +13197,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13208,7 +13208,7 @@ var dataSet = [
 		"Log":"アンドレア、アドバイスをもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13241,7 +13241,7 @@ var dataSet = [
 		"Log":"はい、何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13274,7 +13274,7 @@ var dataSet = [
 		"Log":"かつらはどこで買えますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13307,7 +13307,7 @@ var dataSet = [
 		"Log":"かつら？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13340,7 +13340,7 @@ var dataSet = [
 		"Log":"まだかつらは必要ないでしょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13373,7 +13373,7 @@ var dataSet = [
 		"Log":"いえいえ！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13406,7 +13406,7 @@ var dataSet = [
 		"Log":"バウアーさんが私をカーニバルパーティーに招待しました、そして私に仮装して欲しいと。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13439,7 +13439,7 @@ var dataSet = [
 		"Log":"侍として。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13472,7 +13472,7 @@ var dataSet = [
 		"Log":"あなたが侍に扮するの?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13505,7 +13505,7 @@ var dataSet = [
 		"Log":"それはおもしろい。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13538,7 +13538,7 @@ var dataSet = [
 		"Log":"それなら車で旧市街まで行くと良いです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13571,7 +13571,7 @@ var dataSet = [
 		"Log":"パーティー用品のお店があります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13604,7 +13604,7 @@ var dataSet = [
 		"Log":"ああ、ヴィーラント通りにある?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13637,7 +13637,7 @@ var dataSet = [
 		"Log":"その通り。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13670,7 +13670,7 @@ var dataSet = [
 		"Log":"今日一緒に行きましょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13703,7 +13703,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13714,7 +13714,7 @@ var dataSet = [
 		"Log":"アンドレア、アドバイスをもらえますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13736,7 +13736,7 @@ var dataSet = [
 		"Log":"はい、何ですか?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13758,7 +13758,7 @@ var dataSet = [
 		"Log":"かつらはどこで買えますか?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13780,7 +13780,7 @@ var dataSet = [
 		"Log":"かつら？",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13802,7 +13802,7 @@ var dataSet = [
 		"Log":"まだかつらは必要ないでしょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13824,7 +13824,7 @@ var dataSet = [
 		"Log":"いえいえ！",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13846,7 +13846,7 @@ var dataSet = [
 		"Log":"バウアーさんが私をカーニバルパーティーに招待しました、そして私に仮装して欲しいと。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13868,7 +13868,7 @@ var dataSet = [
 		"Log":"侍として。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13890,7 +13890,7 @@ var dataSet = [
 		"Log":"あなたが侍に扮するの?",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13912,7 +13912,7 @@ var dataSet = [
 		"Log":"それはおもしろい。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13934,7 +13934,7 @@ var dataSet = [
 		"Log":"それなら車で旧市街まで行くと良いです。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13956,7 +13956,7 @@ var dataSet = [
 		"Log":"パーティー用品のお店があります。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -13978,7 +13978,7 @@ var dataSet = [
 		"Log":"ああ、ヴィーラント通りにある?",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14000,7 +14000,7 @@ var dataSet = [
 		"Log":"その通り。",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14022,7 +14022,7 @@ var dataSet = [
 		"Log":"今日一緒に行きましょう!",
 		"type":"a",
 		"icon":"assets/icons/image016.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14044,7 +14044,7 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン15はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14066,7 +14066,7 @@ var dataSet = [
 		"Log":"レッスン16",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14077,7 +14077,7 @@ var dataSet = [
 		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14088,7 +14088,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14110,7 +14110,7 @@ var dataSet = [
 		"Log":"来てくれて、うれしいです!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14132,7 +14132,7 @@ var dataSet = [
 		"Log":"どうぞ、お入りください!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14154,7 +14154,7 @@ var dataSet = [
 		"Log":"お招きいただき、誠にありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14176,7 +14176,7 @@ var dataSet = [
 		"Log":"田中さん、妻のヘルガです。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14198,7 +14198,7 @@ var dataSet = [
 		"Log":"はじめまして。あなたは武士の家の出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14220,7 +14220,7 @@ var dataSet = [
 		"Log":"そんな馬鹿な！",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14242,7 +14242,7 @@ var dataSet = [
 		"Log":"私が彼に侍として来てほしいとお願いしたんだ。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14264,7 +14264,7 @@ var dataSet = [
 		"Log":"いや、あなたは正しいです、バウアー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14286,7 +14286,7 @@ var dataSet = [
 		"Log":"私の曽祖父は武士でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14308,7 +14308,7 @@ var dataSet = [
 		"Log":"あら、本当に？",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14330,7 +14330,7 @@ var dataSet = [
 		"Log":"席に着いて、もう少し教えてください!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14352,7 +14352,7 @@ var dataSet = [
 		"Log":"次のドイツ語を真似してね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14363,7 +14363,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14396,7 +14396,7 @@ var dataSet = [
 		"Log":"来てくれて、うれしいです!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14429,7 +14429,7 @@ var dataSet = [
 		"Log":"どうぞ、お入りください!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14462,7 +14462,7 @@ var dataSet = [
 		"Log":"お招きいただき、誠にありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14495,7 +14495,7 @@ var dataSet = [
 		"Log":"田中さん、妻のヘルガです。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14528,7 +14528,7 @@ var dataSet = [
 		"Log":"はじめまして。あなたは武士の家の出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14561,7 +14561,7 @@ var dataSet = [
 		"Log":"そんな馬鹿な！",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14594,7 +14594,7 @@ var dataSet = [
 		"Log":"私が彼に侍として来てほしいとお願いしたんだ。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14627,7 +14627,7 @@ var dataSet = [
 		"Log":"いや、あなたは正しいです、バウアー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14660,7 +14660,7 @@ var dataSet = [
 		"Log":"私の曽祖父は武士でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14693,7 +14693,7 @@ var dataSet = [
 		"Log":"あら、本当に？",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14726,7 +14726,7 @@ var dataSet = [
 		"Log":"席に着いて、もう少し教えてください!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14759,7 +14759,7 @@ var dataSet = [
 		"Log":"次の日本語をドイツ語に訳して答えてね！",
 		"type":"a",
 		"icon":"assets/icons/image014.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14770,7 +14770,7 @@ var dataSet = [
 		"Log":"田中さん、こんにちは!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14792,7 +14792,7 @@ var dataSet = [
 		"Log":"来てくれて、うれしいです!",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14814,7 +14814,7 @@ var dataSet = [
 		"Log":"どうぞ、お入りください!",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14836,7 +14836,7 @@ var dataSet = [
 		"Log":"お招きいただき、誠にありがとうございます。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14858,7 +14858,7 @@ var dataSet = [
 		"Log":"田中さん、妻のヘルガです。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14880,7 +14880,7 @@ var dataSet = [
 		"Log":"はじめまして。あなたは武士の家の出身ですか?",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14902,7 +14902,7 @@ var dataSet = [
 		"Log":"そんな馬鹿な！",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14924,7 +14924,7 @@ var dataSet = [
 		"Log":"私が彼に侍として来てほしいとお願いしたんだ。",
 		"type":"a",
 		"icon":"assets/icons/image026.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14946,7 +14946,7 @@ var dataSet = [
 		"Log":"いや、あなたは正しいです、バウアー夫人。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14968,7 +14968,7 @@ var dataSet = [
 		"Log":"私の曽祖父は武士でした。",
 		"type":"a",
 		"icon":"assets/icons/image013.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -14990,7 +14990,7 @@ var dataSet = [
 		"Log":"あら、本当に？",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15012,7 +15012,7 @@ var dataSet = [
 		"Log":"席に着いて、もう少し教えてください!",
 		"type":"a",
 		"icon":"assets/icons/image035.png",
-		"say":"de-DE"
+		"say":"ja"
 	},
 	{
 		"LangID":"ドイツ語",
@@ -15034,6 +15034,6650 @@ var dataSet = [
 		"Log":"とても良くできました。レッスン16はこれで終了です。",
 		"type":"e",
 		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Lektion siebzehn",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
 		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン17",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"4",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"ホテルヴァーンフリートです、こんにちは。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"5",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Hotel Wahnfried, grüß Gott.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"6",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"こんにちは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"7",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Grüß Gott.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"8",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"部屋を予約したいのですが。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"9",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ich möchte ein Zimmer reservieren.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"10",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、ご希望の日程は?",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"11",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Ja, für wann denn bitte?",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"12",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"20から23まで。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"13",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Vom 20. bis zum 23.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"14",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"10 月。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"15",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Oktober.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"16",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"3泊。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"17",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Für drei Nächte also.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"18",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バスルーム付きの静かなシングルルームを希望します。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"19",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ich hätte gern ein ruhiges Einzelzimmer mit Bad.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"20",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、バスルーム付きのシングルルームで、95ユーロです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"21",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Ja, ein Einzelzimmer mit Bad, das kostet 95 Euro.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"22",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"うーん、それは高すぎます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"23",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Hm, das ist zu teuer. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"24",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"安いものはありませんか?",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"25",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Haben Sie nichts Billigeres?",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"26",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、安い部屋もあります。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"27",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Doch, wir haben auch ein preiswerteres Zimmer.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"28",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"一泊75ユーロです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"29",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"75 Euro pro Nacht.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"30",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"しかし、それは道路に面しています。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"31",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Allerdings liegt es an der Straße.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"32",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"良いです、それでお願いします。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"33",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" Gut, das nehme ich. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"34",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"田中健と申します。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"35",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Mein Name ist Ken Tanaka.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"36",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"田中さん、ありがとうございました。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"37",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Vielen Dank, Herr Tanaka. ",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"38",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"こちらにいらっしゃる最も良い交通手段はトラムです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"39",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Am besten kommen Sie zu uns mit der Straßenbahn.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"40",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"1番線または5番線です。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"41",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Linie 1 oder 5.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"42",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"わかりました、ありがとうございます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"43",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Alles klar, danke. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"44",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"さようなら。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"45",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Auf Wiederhören.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"46",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"さようなら、良い旅行を。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"47",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Auf Wiederhören und gute Reise.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"48",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のドイツ語を真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"49",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"ホテルヴァーンフリートです、こんにちは。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"50",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Hotel Wahnfried, grüß Gott.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"51",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Hotel Wahnfried, grüß Gott.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"52",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"こんにちは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"53",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Grüß Gott.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"54",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Grüß Gott.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"55",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"部屋を予約したいのですが。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"56",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ich möchte ein Zimmer reservieren.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"57",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ich möchte ein Zimmer reservieren.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"58",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、ご希望の日程は?",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"59",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Ja, für wann denn bitte?",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"60",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja, für wann denn bitte?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"61",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"20から23まで。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"62",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Vom 20. bis zum 23.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"63",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vom 20. bis zum 23.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"64",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"10 月。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"65",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Oktober.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"66",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oktober.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"67",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"3泊。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"68",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Für drei Nächte also.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"69",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Für drei Nächte also.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"70",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バスルーム付きの静かなシングルルームを希望します。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"71",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ich hätte gern ein ruhiges Einzelzimmer mit Bad.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"72",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ich hätte gern ein ruhiges Einzelzimmer mit Bad.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"73",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、バスルーム付きのシングルルームで、95ユーロです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"74",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Ja, ein Einzelzimmer mit Bad, das kostet 95 Euro.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"75",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja, ein Einzelzimmer mit Bad, das kostet 95 Euro.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"76",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"うーん、それは高すぎます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"77",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Hm, das ist zu teuer. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"78",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Hm, das ist zu teuer. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"79",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"安いものはありませんか?",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"80",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Haben Sie nichts Billigeres?",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"81",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Haben Sie nichts Billigeres?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"82",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、安い部屋もあります。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"83",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Doch, wir haben auch ein preiswerteres Zimmer.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"84",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Doch, wir haben auch ein preiswerteres Zimmer.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"85",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"一泊75ユーロです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"86",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"75 Euro pro Nacht.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"87",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"75 Euro pro Nacht.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"88",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"しかし、それは道路に面しています。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"89",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Allerdings liegt es an der Straße.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"90",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Allerdings liegt es an der Straße.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"91",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"良いです、それでお願いします。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"92",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" Gut, das nehme ich. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"93",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Gut, das nehme ich. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"94",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"田中健と申します。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"95",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Mein Name ist Ken Tanaka.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"96",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Mein Name ist Ken Tanaka.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"97",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"田中さん、ありがとうございました。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"98",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Vielen Dank, Herr Tanaka. ",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"99",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vielen Dank, Herr Tanaka. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"100",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"こちらにいらっしゃる最も良い交通手段はトラムです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"101",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Am besten kommen Sie zu uns mit der Straßenbahn.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"102",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Am besten kommen Sie zu uns mit der Straßenbahn.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"103",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"1番線または5番線です。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"104",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Linie 1 oder 5.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"105",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Linie 1 oder 5.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"106",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"わかりました、ありがとうございます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"107",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Alles klar, danke. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"108",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Alles klar, danke. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"109",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"さようなら。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"110",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Auf Wiederhören.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"111",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auf Wiederhören.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"112",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"さようなら、良い旅行を。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"113",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"Auf Wiederhören und gute Reise.",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"114",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auf Wiederhören und gute Reise.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"115",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"116",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"ホテルヴァーンフリートです、こんにちは。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"117",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Hotel Wahnfried, grüß Gott.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"118",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"こんにちは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"119",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Grüß Gott.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"120",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"部屋を予約したいのですが。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"121",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ich möchte ein Zimmer reservieren.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"122",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、ご希望の日程は?",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"123",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja, für wann denn bitte?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"124",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"20から23まで。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"125",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vom 20. bis zum 23.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"126",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"10 月。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"127",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Oktober.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"128",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"3泊。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"129",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Für drei Nächte also.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"130",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バスルーム付きの静かなシングルルームを希望します。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"131",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ich hätte gern ein ruhiges Einzelzimmer mit Bad.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"132",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、バスルーム付きのシングルルームで、95ユーロです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"133",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja, ein Einzelzimmer mit Bad, das kostet 95 Euro.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"134",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"うーん、それは高すぎます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"135",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Hm, das ist zu teuer. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"136",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"安いものはありませんか?",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"137",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Haben Sie nichts Billigeres?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"138",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"はい、安い部屋もあります。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"139",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Doch, wir haben auch ein preiswerteres Zimmer.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"140",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"一泊75ユーロです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"141",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"75 Euro pro Nacht.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"142",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"しかし、それは道路に面しています。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"143",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Allerdings liegt es an der Straße.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"144",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"良いです、それでお願いします。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"145",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Gut, das nehme ich. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"146",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"田中健と申します。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"147",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Mein Name ist Ken Tanaka.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"148",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"田中さん、ありがとうございました。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"149",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vielen Dank, Herr Tanaka. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"150",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"こちらにいらっしゃる最も良い交通手段はトラムです。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"151",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Am besten kommen Sie zu uns mit der Straßenbahn.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"152",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"1番線または5番線です。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"153",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Linie 1 oder 5.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"154",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"わかりました、ありがとうございます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"155",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Alles klar, danke. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"156",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"さようなら。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"157",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auf Wiederhören.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"158",
+		"Chara":"19",
+		"Name":"Frau",
+		"Log":"さようなら、良い旅行を。",
+		"type":"a",
+		"icon":"assets/icons/image102.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"159",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auf Wiederhören und gute Reise.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"17",
+		"LogID":"160",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン17はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Lektion achtzehn",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン18",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"4",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バイロイト 21日　10月　2007年",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"5",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Bayreuth, ein­und­zwanzig. Oktober zweitausentsieben",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"6",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"親愛なるアンドレア、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"7",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Liebe Andrea,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"8",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"月曜日から私はここバイロイトにいて、楽しんでいます、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"9",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"seit Montag bin ich hier in Bayreuth und genieße es,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"10",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"何もしない生活を。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"11",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" einfach malnichts zu tun.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"12",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここに来てから、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"13",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" Seitdem ich hier bin, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"14",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"なんだか調子が良くなりました。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"15",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"geht es mir irgendwie besser.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"16",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私の頭痛はなくなりました、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"17",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Meine Kopfschmerzen sind weg, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"18",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"腹痛もなく、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"19",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Bauchschmerzen habe ich auch keine, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"20",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私は完全に健康だと感じています。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"21",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ich fühle mich ganz gesund. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"22",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここ数日で働きすぎたのかもしれません、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"23",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Vielleicht habe ich in den letzten Tagen doch zu viel gearbeitet,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"24",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたが言ったように。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"25",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"wie du gesagt hast.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"26",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"天気は良くありません。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"27",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das Wetter ist nicht so toll.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"28",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここは雨が降っていて、とても寒いです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"29",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Es regnet und es ist sehr kalt hier.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"30",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"しかし、夕方にはたくさんの文化的な催しがあります。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"31",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Aber dafür gibt es abends viel Kultur. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"32",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"昨日、ペルシャの音楽グループによるコンサートがありました。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"33",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Gestern gab es ein Konzert von einer persischen Musikgruppe. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"34",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それはとても印象的でした。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"35",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das war sehr beeindruckend.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"36",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"街もとても好きです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"37",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Auch die Stadt gefällt mir sehr.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"38",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私はあなたにお勧めします、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"39",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" Ich empfehle dir, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"40",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"この小さな文化都市を一度訪れることを。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"41",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"diese kleine Kulturstadt einmal zu besuchen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"42",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"どうぞよろしく",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"43",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Viele Grüße",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"44",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたのケンより",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"45",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Dein Ken",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"46",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のドイツ語を真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"47",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バイロイト 21日　10月　2007年",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"48",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Bayreuth, ein­und­zwanzig. Oktober zweitausentsieben",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"49",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Bayreuth, ein­und­zwanzig. Oktober zweitausentsieben",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"50",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"親愛なるアンドレア、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"51",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Liebe Andrea,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"52",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Liebe Andrea,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"53",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"月曜日から私はここバイロイトにいて、楽しんでいます、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"54",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"seit Montag bin ich hier in Bayreuth und genieße es,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"55",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"seit Montag bin ich hier in Bayreuth und genieße es,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"56",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"何もしない生活を。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"57",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" einfach malnichts zu tun.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"58",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" einfach malnichts zu tun.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"59",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここに来てから、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"60",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" Seitdem ich hier bin, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"61",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Seitdem ich hier bin, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"62",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"なんだか調子が良くなりました。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"63",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"geht es mir irgendwie besser.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"64",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"geht es mir irgendwie besser.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"65",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私の頭痛はなくなりました、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"66",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Meine Kopfschmerzen sind weg, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"67",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Meine Kopfschmerzen sind weg, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"68",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"腹痛もなく、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"69",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Bauchschmerzen habe ich auch keine, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"70",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Bauchschmerzen habe ich auch keine, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"71",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私は完全に健康だと感じています。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"72",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ich fühle mich ganz gesund. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"73",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ich fühle mich ganz gesund. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"74",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここ数日で働きすぎたのかもしれません、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"75",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Vielleicht habe ich in den letzten Tagen doch zu viel gearbeitet,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"76",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vielleicht habe ich in den letzten Tagen doch zu viel gearbeitet,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"77",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたが言ったように。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"78",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"wie du gesagt hast.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"79",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"wie du gesagt hast.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"80",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"天気は良くありません。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"81",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das Wetter ist nicht so toll.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"82",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das Wetter ist nicht so toll.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"83",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここは雨が降っていて、とても寒いです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"84",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Es regnet und es ist sehr kalt hier.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"85",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Es regnet und es ist sehr kalt hier.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"86",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"しかし、夕方にはたくさんの文化的な催しがあります。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"87",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Aber dafür gibt es abends viel Kultur. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"88",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Aber dafür gibt es abends viel Kultur. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"89",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"昨日、ペルシャの音楽グループによるコンサートがありました。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"90",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Gestern gab es ein Konzert von einer persischen Musikgruppe. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"91",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Gestern gab es ein Konzert von einer persischen Musikgruppe. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"92",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それはとても印象的でした。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"93",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das war sehr beeindruckend.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"94",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das war sehr beeindruckend.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"95",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"街もとても好きです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"96",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Auch die Stadt gefällt mir sehr.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"97",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auch die Stadt gefällt mir sehr.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"98",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私はあなたにお勧めします、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"99",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" Ich empfehle dir, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"100",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Ich empfehle dir, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"101",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"この小さな文化都市を一度訪れることを。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"102",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"diese kleine Kulturstadt einmal zu besuchen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"103",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"diese kleine Kulturstadt einmal zu besuchen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"104",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"どうぞよろしく",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"105",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Viele Grüße",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"106",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Viele Grüße",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"107",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたのケンより",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"108",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Dein Ken",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"109",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Dein Ken",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"110",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"バイロイト 21日　10月　2007年",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"111",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Bayreuth, ein­und­zwanzig. Oktober zweitausentsieben",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"112",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"親愛なるアンドレア、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"113",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Liebe Andrea,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"114",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"月曜日から私はここバイロイトにいて、楽しんでいます、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"115",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"seit Montag bin ich hier in Bayreuth und genieße es,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"116",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"何もしない生活を。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"117",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" einfach malnichts zu tun.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"118",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここに来てから、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"119",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Seitdem ich hier bin, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"120",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"なんだか調子が良くなりました。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"121",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"geht es mir irgendwie besser.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"122",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私の頭痛はなくなりました、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"123",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Meine Kopfschmerzen sind weg, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"124",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"腹痛もなく、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"125",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Bauchschmerzen habe ich auch keine, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"126",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私は完全に健康だと感じています。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"127",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ich fühle mich ganz gesund. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"128",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここ数日で働きすぎたのかもしれません、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"129",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Vielleicht habe ich in den letzten Tagen doch zu viel gearbeitet,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"130",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたが言ったように。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"131",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"wie du gesagt hast.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"132",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"天気は良くありません。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"133",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das Wetter ist nicht so toll.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"134",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ここは雨が降っていて、とても寒いです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"135",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Es regnet und es ist sehr kalt hier.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"136",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"しかし、夕方にはたくさんの文化的な催しがあります。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"137",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Aber dafür gibt es abends viel Kultur. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"138",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"昨日、ペルシャの音楽グループによるコンサートがありました。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"139",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Gestern gab es ein Konzert von einer persischen Musikgruppe. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"140",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それはとても印象的でした。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"141",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das war sehr beeindruckend.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"142",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"街もとても好きです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"143",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auch die Stadt gefällt mir sehr.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"144",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"私はあなたにお勧めします、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"145",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Ich empfehle dir, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"146",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"この小さな文化都市を一度訪れることを。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"147",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"diese kleine Kulturstadt einmal zu besuchen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"148",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"どうぞよろしく",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"149",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Viele Grüße",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"150",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたのケンより",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"151",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Dein Ken",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"18",
+		"LogID":"152",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン18はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Lektion neunzehn",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン19",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"4",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"楽しみです、",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"5",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":" Ich freue mich,",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"6",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ついに日本料理を知れることが。",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"7",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"endlich mal die japanische Küche kennen zu lernen.",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"8",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"今日お見せするのは、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"9",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Was ich Ihnen heute zeige,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"10",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"日本の代表的な家庭料理で、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"11",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ist ein typisch japanisches Hausgericht,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"12",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"誰もが知っているものです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"13",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" das jeder kennt.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"14",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"気になります。",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"15",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Da bin ich mal gespannt.",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"16",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"では、まずはじめに、肉、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"17",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Also, zuerst werden Fleisch,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"18",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ジャガイモ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"19",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Kartoffeln,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"20",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"にんじんと玉ねぎはみじん切りにして炒めます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"21",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Möhren und Zwiebeln klein geschnitten und gebraten.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"22",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"牛肉か豚肉か?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"23",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Rindfleisch oder Schweinefleisch?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"24",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"どちらでもかまいません。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"25",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das ist egal.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"26",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それから水、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"27",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Dann werden Wasser, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"28",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"酒",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"29",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Sake, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"30",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"砂糖と醤油を加える。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"31",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Zucker und Sojasoẞe dazugegeben. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"32",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それからすべて煮ます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"33",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Dann wird alles gekocht.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"34",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"じゃがいもが煮えたら、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"35",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Wenn die Kartoffeln gar sind,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"36",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"完成です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"37",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ist es fertig.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"38",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"そんなに簡単なのですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"39",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"So einfach?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"40",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"はい。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"41",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ja.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"42",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それでは、作りましょう!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"43",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Jetzt wird gekocht!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"44",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のドイツ語を真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"45",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"楽しみです、",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"46",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":" Ich freue mich,",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"47",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Ich freue mich,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"48",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ついに日本料理を知れることが。",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"49",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"endlich mal die japanische Küche kennen zu lernen.",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"50",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"endlich mal die japanische Küche kennen zu lernen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"51",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"今日お見せするのは、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"52",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Was ich Ihnen heute zeige,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"53",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Was ich Ihnen heute zeige,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"54",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"日本の代表的な家庭料理で、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"55",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ist ein typisch japanisches Hausgericht,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"56",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ist ein typisch japanisches Hausgericht,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"57",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"誰もが知っているものです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"58",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":" das jeder kennt.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"59",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" das jeder kennt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"60",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"気になります。",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"61",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Da bin ich mal gespannt.",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"62",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Da bin ich mal gespannt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"63",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"では、まずはじめに、肉、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"64",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Also, zuerst werden Fleisch,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"65",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Also, zuerst werden Fleisch,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"66",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ジャガイモ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"67",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Kartoffeln,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"68",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Kartoffeln,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"69",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"にんじんと玉ねぎはみじん切りにして炒めます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"70",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Möhren und Zwiebeln klein geschnitten und gebraten.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"71",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Möhren und Zwiebeln klein geschnitten und gebraten.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"72",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"牛肉か豚肉か?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"73",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"Rindfleisch oder Schweinefleisch?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"74",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Rindfleisch oder Schweinefleisch?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"75",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"どちらでもかまいません。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"76",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das ist egal.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"77",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das ist egal.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"78",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それから水、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"79",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Dann werden Wasser, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"80",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Dann werden Wasser, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"81",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"酒",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"82",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Sake, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"83",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Sake, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"84",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"砂糖と醤油を加える。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"85",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Zucker und Sojasoẞe dazugegeben. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"86",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Zucker und Sojasoẞe dazugegeben. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"87",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それからすべて煮ます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"88",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Dann wird alles gekocht.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"89",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Dann wird alles gekocht.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"90",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"じゃがいもが煮えたら、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"91",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Wenn die Kartoffeln gar sind,",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"92",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wenn die Kartoffeln gar sind,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"93",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"完成です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"94",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ist es fertig.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"95",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ist es fertig.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"96",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"そんなに簡単なのですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"97",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"So einfach?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"98",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"So einfach?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"99",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"はい。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"100",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ja.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"101",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"102",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それでは、作りましょう!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"103",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Jetzt wird gekocht!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"104",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Jetzt wird gekocht!",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"105",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"106",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"楽しみです、",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"107",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" Ich freue mich,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"108",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"ついに日本料理を知れることが。",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"109",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"endlich mal die japanische Küche kennen zu lernen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"110",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"今日お見せするのは、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"111",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Was ich Ihnen heute zeige,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"112",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"日本の代表的な家庭料理で、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"113",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ist ein typisch japanisches Hausgericht,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"114",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"誰もが知っているものです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"115",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" das jeder kennt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"116",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"気になります。",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"117",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Da bin ich mal gespannt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"118",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"では、まずはじめに、肉、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"119",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Also, zuerst werden Fleisch,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"120",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"ジャガイモ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"121",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Kartoffeln,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"122",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"にんじんと玉ねぎはみじん切りにして炒めます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"123",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Möhren und Zwiebeln klein geschnitten und gebraten.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"124",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"牛肉か豚肉か?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"125",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Rindfleisch oder Schweinefleisch?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"126",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"どちらでもかまいません。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"127",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das ist egal.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"128",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それから水、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"129",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Dann werden Wasser, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"130",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"酒",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"131",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Sake, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"132",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"砂糖と醤油を加える。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"133",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Zucker und Sojasoẞe dazugegeben. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"134",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それからすべて煮ます。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"135",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Dann wird alles gekocht.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"136",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"じゃがいもが煮えたら、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"137",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wenn die Kartoffeln gar sind,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"138",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"完成です。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"139",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ist es fertig.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"140",
+		"Chara":"3",
+		"Name":"Schneider.",
+		"Log":"そんなに簡単なのですか?",
+		"type":"a",
+		"icon":"assets/icons/image003.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"141",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"So einfach?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"142",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"はい。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"143",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"144",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それでは、作りましょう!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"145",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Jetzt wird gekocht!",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"19",
+		"LogID":"146",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン19はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"1",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"Lektion zwanzig",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"2",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"レッスン20",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"3",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"まずは対話文を流します。その後に、日本語とドイツ語を一文ずつ流すのでドイツ語を真似して下さい。最後に日本語のみを流すので、ドイツ語で答えてください。",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"4",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"もう、あなたは戻らなければなりません。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"5",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Jetzt musst du schon wieder zurück.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"6",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"時間はとても早く過ぎる。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"7",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Die Zeit vergeht so schnell.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"8",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"そうですね。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"9",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ja. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"10",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"とても楽しかった、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"11",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Es war sehr schön, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"12",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたと一緒に働くことは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"13",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"mit dir zu arbeiten.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"14",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"また来たいです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"15",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ich würde gern wieder mal hierher kommen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"16",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ケン、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"17",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Ken, ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"18",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お願いがあります。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"19",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ich hätte eine Bitte an dich.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"20",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それはなんですか。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"21",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Was denn?",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"22",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"蕎麦の小包を送ってもらえますか?",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"23",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Könntest du mir vielleicht ein Paket mit Soba-Nudeln schicken? ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"24",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お蕎麦、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"25",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Die Nudeln,",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"26",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"送別会であなたが作ったやつ、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"27",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"die du bei deiner Abschiedsparty gemacht hast,",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"28",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"美味しかったから。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"29",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":" haben wunderbar geschmeckt.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"30",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"喜んで。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"31",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das mache ich doch gerne.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"32",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ありがとう!",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"33",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Danke! ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"34",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ああ、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"35",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Ach, ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"36",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"寂しくなります。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"37",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ich werde dich vermissen.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"38",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"もっとここに長く滞在できれば...",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"39",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Wenn du doch noch länger hier bleiben könntest ..",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"40",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"日本に遊びに来てください!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"41",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Besuch mich doch einmal in Japan!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"42",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"いずれにせよ、私たちは連絡を取り合いましょう。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"43",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Auf jeden Fall bleiben wir in Kontakt.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"44",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次のドイツ語を真似してね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"45",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"もう、あなたは戻らなければなりません。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"46",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Jetzt musst du schon wieder zurück.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"47",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Jetzt musst du schon wieder zurück.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"48",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"時間はとても早く過ぎる。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"49",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Die Zeit vergeht so schnell.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"50",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Die Zeit vergeht so schnell.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"51",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"そうですね。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"52",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ja. ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"53",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"54",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"とても楽しかった、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"55",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Es war sehr schön, ",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"56",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Es war sehr schön, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"57",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたと一緒に働くことは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"58",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"mit dir zu arbeiten.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"59",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"mit dir zu arbeiten.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"60",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"また来たいです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"61",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Ich würde gern wieder mal hierher kommen.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"62",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ich würde gern wieder mal hierher kommen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"63",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ケン、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"64",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Ken, ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"65",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ken, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"66",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お願いがあります。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"67",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ich hätte eine Bitte an dich.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"68",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ich hätte eine Bitte an dich.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"69",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それはなんですか。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"70",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Was denn?",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"71",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Was denn?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"72",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"蕎麦の小包を送ってもらえますか?",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"73",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Könntest du mir vielleicht ein Paket mit Soba-Nudeln schicken? ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"74",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Könntest du mir vielleicht ein Paket mit Soba-Nudeln schicken? ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"75",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お蕎麦、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"76",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Die Nudeln,",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"77",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Die Nudeln,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"78",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"送別会であなたが作ったやつ、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"79",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"die du bei deiner Abschiedsparty gemacht hast,",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"80",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"die du bei deiner Abschiedsparty gemacht hast,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"81",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"美味しかったから。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"82",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":" haben wunderbar geschmeckt.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"83",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" haben wunderbar geschmeckt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"84",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"喜んで。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"85",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Das mache ich doch gerne.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"86",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das mache ich doch gerne.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"87",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ありがとう!",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"88",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Danke! ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"89",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Danke! ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"90",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ああ、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"91",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Ach, ",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"92",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ach, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"93",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"寂しくなります。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"94",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ich werde dich vermissen.",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"95",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ich werde dich vermissen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"96",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"もっとここに長く滞在できれば...",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"97",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"Wenn du doch noch länger hier bleiben könntest ..",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"98",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wenn du doch noch länger hier bleiben könntest ..",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"99",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"日本に遊びに来てください!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"100",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Besuch mich doch einmal in Japan!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"101",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Besuch mich doch einmal in Japan!",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"102",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"いずれにせよ、私たちは連絡を取り合いましょう。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"103",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"Auf jeden Fall bleiben wir in Kontakt.",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"104",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auf jeden Fall bleiben wir in Kontakt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"105",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"次の日本語をドイツ語に訳して答えてね！",
+		"type":"a",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"106",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"もう、あなたは戻らなければなりません。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"107",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Jetzt musst du schon wieder zurück.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"108",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"時間はとても早く過ぎる。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"109",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Die Zeit vergeht so schnell.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"110",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"そうですね。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"111",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ja. ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"112",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"とても楽しかった、",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"113",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Es war sehr schön, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"114",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"あなたと一緒に働くことは。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"115",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"mit dir zu arbeiten.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"116",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"また来たいです。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"117",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ich würde gern wieder mal hierher kommen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"118",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ケン、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"119",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ken, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"120",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お願いがあります。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"121",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ich hätte eine Bitte an dich.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"122",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"それはなんですか。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"123",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Was denn?",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"124",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"蕎麦の小包を送ってもらえますか?",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"125",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Könntest du mir vielleicht ein Paket mit Soba-Nudeln schicken? ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"126",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"お蕎麦、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"127",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Die Nudeln,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"128",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"送別会であなたが作ったやつ、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"129",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"die du bei deiner Abschiedsparty gemacht hast,",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"130",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"美味しかったから。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"131",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":" haben wunderbar geschmeckt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"132",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"喜んで。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"133",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Das mache ich doch gerne.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"134",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ありがとう!",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"135",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Danke! ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"136",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"ああ、",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"137",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Ach, ",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"138",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"寂しくなります。",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"139",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"ich werde dich vermissen.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"140",
+		"Chara":"4",
+		"Name":"Weber",
+		"Log":"もっとここに長く滞在できれば...",
+		"type":"a",
+		"icon":"assets/icons/image016.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"141",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Wenn du doch noch länger hier bleiben könntest ..",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"142",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"日本に遊びに来てください!",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"143",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Besuch mich doch einmal in Japan!",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"144",
+		"Chara":"2",
+		"Name":"Tanaka",
+		"Log":"いずれにせよ、私たちは連絡を取り合いましょう。",
+		"type":"a",
+		"icon":"assets/icons/image013.png",
+		"say":"ja"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"145",
+		"Chara":"0",
+		"Name":"Player",
+		"Log":"Auf jeden Fall bleiben wir in Kontakt.",
+		"type":"q",
+		"icon":"assets/icons/image326.png",
+		"say":"de-DE"
+	},
+	{
+		"LangID":"ドイツ語",
+		"StageID":"20",
+		"LogID":"146",
+		"Chara":"1",
+		"Name":"Navigator",
+		"Log":"とても良くできました。レッスン20はこれで終了です。",
+		"type":"e",
+		"icon":"assets/icons/image014.png",
+		"say":"ja"
 	}
 ]
