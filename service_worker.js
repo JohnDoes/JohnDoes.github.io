@@ -3,10 +3,12 @@ var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
     '/',
     '/assets/talk.js',
+    '/assets/talk2.js',
+    '/assets/talk3.js',
     '/index.html',
     '/style.css'
 ];
-var version = "0.14";
+var version = "0.15";
 
 // インストール処理
 self.addEventListener('install', function(event) {
