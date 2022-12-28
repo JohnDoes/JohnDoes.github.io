@@ -153,9 +153,10 @@ var sceneData = JSON.parse(jsonData);
             var el = document.createElement("div");
                 el.setAttribute("class", "line__left");
                 el.innerHTML = '<div class="stamp"><img src="assets/gif/load.gif" /></div>'
-                scroll();
 
                 document.getElementById("chatArea").appendChild(el);
+                scroll();
+
                 window.setTimeout( function() {
                     el.innerHTML = '<div class="line__left"><figure><img src='+
                         data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
@@ -254,9 +255,11 @@ var sceneData = JSON.parse(jsonData);
         var el = document.createElement("div");
         el.setAttribute("class", "line__left");
         el.innerHTML = '<div class="stamp"><img src="assets/gif/load.gif" /></div>'
-        scroll();
 
         document.getElementById("chatArea").appendChild(el);
+        scroll();
+
+
         window.setTimeout( function () {
 			el.innerHTML = '<div class="line__left"><figure><img src='+
             data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
