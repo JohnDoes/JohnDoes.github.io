@@ -1,1 +1,1 @@
-talkファイルの先頭にvar dataSet = を書き込んで、拡張子をjsにする。
+talkファイルの先頭にvar data1 = を書き込んで、拡張子をjsにする。
