@@ -5,10 +5,11 @@ var urlsToCache = [
     '/assets/talk.js',
     '/assets/talk2.js',
     '/assets/talk3.js',
+    '/assets/icons/image014.png',
     '/index.html',
     '/style.css'
 ];
-var version = "0.18";
+var version = "0.19";
 
 // インストール処理
 self.addEventListener('install', function(event) {

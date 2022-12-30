@@ -259,6 +259,12 @@ var sceneData = JSON.parse(jsonData);
         document.getElementById("chatArea").appendChild(el);
         scroll();
 
+        console.log(data.icon);
+        if(data.icon){
+
+        }else{
+            data.icon = "assets/icons/image014.png";
+        }
 
         window.setTimeout( function () {
 			el.innerHTML = '<div class="line__left"><figure><img src='+
