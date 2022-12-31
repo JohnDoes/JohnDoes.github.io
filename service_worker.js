@@ -5,6 +5,7 @@ var urlsToCache = [
     '/assets/talk.js',
     '/assets/talk2.js',
     '/assets/talk3.js',
+    '/assets/talk4.js',
     '/assets/icons/image014.png',
     '/index.html',
     '/style.css'
