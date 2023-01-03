@@ -10,11 +10,13 @@
   <script src='assets/talk3.js' type="text/javascript"></script>
   <script src='assets/talk4.js' type="text/javascript"></script>
   <script src='assets/talk5.js' type="text/javascript"></script>
+  <script src='assets/talk6.js' type="text/javascript"></script>
   <script>
       var dataSet = data1.concat(data2);
       dataSet = dataSet.concat(data3);
       dataSet = dataSet.concat(data4);
       dataSet = dataSet.concat(data5);
+      dataSet = dataSet.concat(data6);
       var jsonData = JSON.stringify(dataSet);
 
     // service workerの登録関係
@@ -149,7 +151,7 @@ var sceneData = JSON.parse(jsonData);
                 window.setTimeout( function() {
                     el.innerHTML = '<div class="line__left"><figure><img src='+
                         data.icon +' /></figure><div class="line__left-text"><div class="name">'+ 
-                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeLang()" class ="opt" name="lang"><select name="lng" class="b"  id="lng"><option value=0>言語を選択</option><option value=1>ドイツ語</option><option value=2>フランス語</option><option value=3>中国語</option><option value=4>ロシア語</option></select></form></div></div></div>';
+                        data.Name +'</div><div class="text">' + data.Log + '<form method="post" onchange="changeLang()" class ="opt" name="lang"><select name="lng" class="b"  id="lng"><option value=0>言語を選択</option><option value=1>ドイツ語</option><option value=2>フランス語</option><option value=3>中国語</option><option value=4>ロシア語</option><option value=5>アラビア語</option><option value=6>英語</option></select></form></div></div></div>';
                         scroll();
                     }, 2000 );
                 break;
@@ -338,6 +340,12 @@ var sceneData = JSON.parse(jsonData);
                 break;
             case "4":
                 nextLng = "ロシア語";
+                break;
+            case "5":
+                nextLng = "アラビア語";
+                break;
+            case "6":
+                nextLng = "英語";
                 break;
             default:
         }
