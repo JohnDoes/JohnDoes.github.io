@@ -12,7 +12,7 @@ var urlsToCache = [
     '/index.html',
     '/style.css'
 ];
-var version = "0.21";
+var version = "0.22";
 
 // インストール処理
 self.addEventListener('install', function(event) {
